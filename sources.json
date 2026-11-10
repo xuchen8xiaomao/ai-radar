@@ -1,0 +1,21 @@
+[
+ {"name":"OpenAI News","url":"https://openai.com/news/rss.xml","website":"https://openai.com/news/","category":"大模型","description":"OpenAI 官方模型、产品及研究公告"},
+ {"name":"Google DeepMind","url":"https://deepmind.google/blog/rss.xml","website":"https://deepmind.google/","category":"大模型","description":"Gemini、研究突破与 DeepMind 动态"},
+ {"name":"Google Research","url":"https://research.google/blog/rss/","website":"https://research.google/","category":"研究论文","description":"Google 研究成果、工程与模型方法"},
+ {"name":"Google AI","url":"https://blog.google/innovation-and-ai/technology/ai/rss/","website":"https://blog.google/technology/ai/","category":"AI 产品","description":"Google AI 相关产品发布和功能进展"},
+ {"name":"Hugging Face","url":"https://huggingface.co/blog/feed.xml","website":"https://huggingface.co/blog","category":"开源生态","description":"开放模型、数据集及实用技术教程"},
+ {"name":"Mistral AI","url":"https://mistral.ai/news/rss","website":"https://mistral.ai/news","category":"大模型","description":"Mistral 模型和公司动态"},
+ {"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/feed/","website":"https://www.microsoft.com/en-us/research/","category":"研究论文","description":"微软研究院的 AI 研究更新"},
+ {"name":"NVIDIA Blog","url":"https://blogs.nvidia.com/feed/","website":"https://blogs.nvidia.com/","category":"行业应用","description":"AI 计算、芯片及产业落地"},
+ {"name":"AWS Machine Learning","url":"https://aws.amazon.com/blogs/machine-learning/feed/","website":"https://aws.amazon.com/blogs/machine-learning/","category":"行业应用","description":"企业 AI 工程实践和云端应用案例"},
+ {"name":"arXiv AI","url":"https://rss.arxiv.org/rss/cs.AI","website":"https://arxiv.org/list/cs.AI/recent","category":"研究论文","description":"人工智能方向的新论文"},
+ {"name":"arXiv NLP","url":"https://rss.arxiv.org/rss/cs.CL","website":"https://arxiv.org/list/cs.CL/recent","category":"研究论文","description":"自然语言处理与大语言模型论文"},
+ {"name":"arXiv ML","url":"https://rss.arxiv.org/rss/cs.LG","website":"https://arxiv.org/list/cs.LG/recent","category":"研究论文","description":"机器学习研究和方法"},
+ {"name":"Simon Willison","url":"https://simonwillison.net/atom/everything/","website":"https://simonwillison.net/","category":"AI Agent","description":"LLM 应用、Agent 与工程实践"},
+ {"name":"OpenAI Codex Releases","url":"https://github.com/openai/codex/releases.atom","website":"https://github.com/openai/codex","category":"AI Agent","description":"Codex 编程智能体版本更新"},
+ {"name":"Claude Code Releases","url":"https://github.com/anthropics/claude-code/releases.atom","website":"https://github.com/anthropics/claude-code","category":"AI Agent","description":"Claude Code 工具版本动态"},
+ {"name":"Gemini CLI Releases","url":"https://github.com/google-gemini/gemini-cli/releases.atom","website":"https://github.com/google-gemini/gemini-cli","category":"AI Agent","description":"Gemini 命令行智能体更新"},
+ {"name":"MCP Specification","url":"https://github.com/modelcontextprotocol/specification/releases.atom","website":"https://github.com/modelcontextprotocol/specification","category":"AI Agent","description":"MCP 协议规范更新"},
+ {"name":"Hacker News AI","url":"https://hnrss.org/newest?q=AI&points=100","website":"https://news.ycombinator.com/","category":"AI 产品","description":"开发者社区 AI 热门讨论（第三方 RSS）"},
+ {"name":"MIT Technology Review","url":"https://www.technologyreview.com/topic/artificial-intelligence/feed","website":"https://www.technologyreview.com/topic/artificial-intelligence/","category":"行业应用","description":"AI 产业、政策与社会影响分析"}
+]
