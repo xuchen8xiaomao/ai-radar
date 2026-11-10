@@ -1,0 +1,30 @@
+name: Collect AI Feeds
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */12 * * *'
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+      - name: Fetch public feeds
+        run: python scripts/collect.py
+      - name: Commit updated feed index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/articles.json site/data/sources.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update AI Radar feeds"
+            git push
+          fi
