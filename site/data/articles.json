@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:11:00.644784+00:00",
+  "updated_at": "2026-11-11T19:34:07.564335+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
@@ -11,6 +11,132 @@
       "source": "OpenAI News",
       "category": "大模型",
       "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "f7a9a6198fff75f59bb6",
+      "title": "Accelerating generative AI delivery with reusable assets",
+      "summary": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T19:19:21+00:00"
+    },
+    {
+      "id": "73a487a9dee9c9049eac",
+      "title": "Browse tools.simonwillison.net by tag",
+      "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The h",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-11T18:42:50+00:00"
+    },
+    {
+      "id": "02bfed5e7aa817ea9dcb",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "source": "Google AI",
+      "category": "大模型",
+      "published": "2026-11-11T18:00:00+00:00"
+    },
+    {
+      "id": "88d1ecd11797604c75de",
+      "title": "llm 0.37.2",
+      "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways th",
+      "url": "https://simonwillison.net/2026/Nov/11/llm",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-11T17:19:52+00:00"
+    },
+    {
+      "id": "7c3740bd83f86fa5c7aa",
+      "title": "rust-v0.170.0-alpha.1",
+      "summary": "Release 0.170.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T16:21:33+00:00"
+    },
+    {
+      "id": "9ff7f94fbe2a901a7a96",
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "summary": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T16:05:33+00:00"
+    },
+    {
+      "id": "3d65ccc2f5cdce6978b3",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-11T16:00:00+00:00"
+    },
+    {
+      "id": "df992b7cd2c694678f5b",
+      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "summary": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T15:50:55+00:00"
+    },
+    {
+      "id": "d7414ba9c609253700f3",
+      "title": "Anthropic's IPO roadshow video",
+      "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainiu",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-11T15:11:59+00:00"
+    },
+    {
+      "id": "df1cb1cc87995a8e14c0",
+      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T15:10:23+00:00"
+    },
+    {
+      "id": "ba0fcf4e325b4115c73c",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "source": "Google DeepMind",
+      "category": "大模型",
+      "published": "2026-11-11T15:00:15+00:00"
+    },
+    {
+      "id": "488eb497c0ab9b42fec2",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 831 # Comments: 305",
+      "url": "https://pietromiotti.com/latest/maya-site?maya=",
+      "source": "Hacker News AI",
+      "category": "AI Agent",
+      "published": "2026-11-11T12:05:22+00:00"
+    },
+    {
+      "id": "1df314a3d09509776647",
+      "title": "0.169.0-alpha.11",
+      "summary": "Release 0.169.0-alpha.11",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T10:17:38+00:00"
+    },
+    {
+      "id": "e09fad6dcc25f1ba697c",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-11T09:00:00+00:00"
     },
     {
       "id": "ac94b61a25ade5edbf71",
@@ -1012,6 +1138,24 @@
       "published": "2026-11-11T01:07:19+00:00"
     },
     {
+      "id": "11568aa8dfcf9a3c0750",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "id": "55ff14dc4213127df72a",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
       "id": "82be3972cee0a1dbca0d",
       "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
       "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.",
@@ -1050,7 +1194,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 125 # Comments: 97",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 483 # Comments: 501",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1185,7 +1329,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 462 # Comments: 454",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 620 # Comments: 587",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1210,6 +1354,15 @@
       "published": "2026-11-10T09:00:00+00:00"
     },
     {
+      "id": "9092d5eb66f29547408d",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-10T08:00:00+00:00"
+    },
+    {
       "id": "cba41f0395d50b9e1105",
       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
       "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, a",
@@ -1221,7 +1374,7 @@
     {
       "id": "c7d3010a8bcc401c0c2a",
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 161 # Comments: 63",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2202,7 +2355,7 @@
     {
       "id": "e7d9d1552b0e69602474",
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 193 # Comments: 189",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2292,7 +2445,7 @@
     {
       "id": "0e7f57beb742eb68e99e",
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 153 # Comments: 193",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 199",
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2418,7 +2571,7 @@
     {
       "id": "eee402332b6dfec31663",
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 106 # Comments: 39",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 42",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3534,7 +3687,7 @@
     {
       "id": "dab987be36e106a40b42",
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 566 # Comments: 962",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 966",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3552,7 +3705,7 @@
     {
       "id": "8b18a5361e6d14a958f6",
       "title": "How I'm fighting the AI brain fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 311 # Comments: 215",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 313 # Comments: 215",
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3597,7 +3750,7 @@
     {
       "id": "8017ce29f6d88c8d95a2",
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 510 # Comments: 310",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 511 # Comments: 309",
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3624,7 +3777,7 @@
     {
       "id": "e0c8b4541e0b5e8be31a",
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 378 # Comments: 360",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 380 # Comments: 360",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
