@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-11-12T07:06:53.519546+00:00",
+  "updated_at": "2026-11-12T19:52:45.874567+00:00",
   "source_count": 19,
   "success_count": 16,
   "articles": [
+    {
+      "id": "3a26ec997d48a0de7da0",
+      "title": "0.170.0-alpha.3",
+      "summary": "Release 0.170.0-alpha.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.3",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-12T19:37:30+00:00"
+    },
+    {
+      "id": "b8142a42ae71ac2069bd",
+      "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "summary": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets",
+      "source": "AWS Machine Learning",
+      "category": "AI 产品",
+      "published": "2026-11-12T19:29:55+00:00"
+    },
+    {
+      "id": "84ec87286cb35a64f463",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-12T19:07:35+00:00"
+    },
+    {
+      "id": "409a77b0b17a5148c50f",
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-12T18:43:19+00:00"
+    },
+    {
+      "id": "eb3a22dd21641de82869",
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "source": "AWS Machine Learning",
+      "category": "大模型",
+      "published": "2026-11-12T18:41:12+00:00"
+    },
+    {
+      "id": "5b69826eead48a963c75",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source": "Google DeepMind",
+      "category": "大模型",
+      "published": "2026-11-12T18:00:50+00:00"
+    },
+    {
+      "id": "d6d23163b98ddfa1ea7a",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-12T18:00:00+00:00"
+    },
+    {
+      "id": "b603ae3c0fc621542d67",
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T17:59:59+00:00"
+    },
+    {
+      "id": "91ced6a9bd4fec161932",
+      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template alongside the original, and validates retrieval before you cut over.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-12T16:16:45+00:00"
+    },
+    {
+      "id": "5dd81c0834add665bafe",
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "summary": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or S",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T15:42:21+00:00"
+    },
+    {
+      "id": "da12f64b3d8aa5780caf",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T15:40:24+00:00"
+    },
+    {
+      "id": "3f93c71b9de8f22e7c86",
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "summary": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and Agent DLC: one lifecycle, two loops, and one explicit standard ",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T15:38:47+00:00"
+    },
+    {
+      "id": "bb315cafa402d8202158",
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-12T14:00:59+00:00"
+    },
+    {
+      "id": "4922ca6fb0dd92994c34",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-12T09:30:00+00:00"
+    },
     {
       "id": "e593a66d05e18863b7d5",
       "title": "0.170.0-alpha.2",
@@ -28,6 +154,24 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI News",
       "category": "大模型",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "d7c1da8cb7dc41da688b",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "cbda9238a3684b28e47a",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "category": "开源生态",
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
@@ -114,7 +258,7 @@
     {
       "id": "1df6a00742e99b5a005c",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 510 # Comments: 498",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 651 # Comments: 678",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -186,7 +330,7 @@
     {
       "id": "3dcdab220cd01e48f494",
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 152 # Comments: 150",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 187",
       "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -222,7 +366,7 @@
     {
       "id": "275a803dc4dd61464496",
       "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 113 # Comments: 103",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 124 # Comments: 110",
       "url": "https://cabird.com/talks/shipping-faster",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -294,7 +438,7 @@
     {
       "id": "c8dde4086f9ad8bc8df0",
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 969 # Comments: 354",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1024 # Comments: 385",
       "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1374,7 +1518,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 528 # Comments: 535",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 549 # Comments: 550",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1463,7 +1607,7 @@
     },
     {
       "id": "8eec2e0e61665676840d",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native commu",
       "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
       "source": "NVIDIA Blog",
@@ -1509,7 +1653,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 633 # Comments: 611",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 637 # Comments: 622",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1554,7 +1698,7 @@
     {
       "id": "c7d3010a8bcc401c0c2a",
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 65",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2535,7 +2679,7 @@
     {
       "id": "e7d9d1552b0e69602474",
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 191",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 192",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2625,7 +2769,7 @@
     {
       "id": "0e7f57beb742eb68e99e",
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 200",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 161 # Comments: 200",
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3867,7 +4011,7 @@
     {
       "id": "dab987be36e106a40b42",
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 572 # Comments: 971",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 573 # Comments: 972",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3930,7 +4074,7 @@
     {
       "id": "8017ce29f6d88c8d95a2",
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 512 # Comments: 309",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 513 # Comments: 309",
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3957,7 +4101,7 @@
     {
       "id": "e0c8b4541e0b5e8be31a",
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 380 # Comments: 360",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 381 # Comments: 360",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
