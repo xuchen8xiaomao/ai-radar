@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-11-11T19:34:07.564335+00:00",
+  "updated_at": "2026-11-12T07:06:53.519546+00:00",
   "source_count": 19,
-  "success_count": 19,
+  "success_count": 16,
   "articles": [
+    {
+      "id": "e593a66d05e18863b7d5",
+      "title": "0.170.0-alpha.2",
+      "summary": "Release 0.170.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-12T01:34:33+00:00"
+    },
+    {
+      "id": "df6566d4fc91840890de",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T01:18:23+00:00"
+    },
     {
       "id": "65b96c238445cdedc96b",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -13,6 +31,150 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
+      "id": "c071e937c4f30eb87cc3",
+      "title": "0.167.0-alpha.4.3",
+      "summary": "Release 0.167.0-alpha.4.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.3",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T23:59:38+00:00"
+    },
+    {
+      "id": "af92f8b8f091c9ba6921",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T23:35:47+00:00"
+    },
+    {
+      "id": "734803aa3d8891741cad",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "summary": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between two candidate authorization policies.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T23:33:03+00:00"
+    },
+    {
+      "id": "24bc76c8a5ccec322485",
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "summary": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T23:30:03+00:00"
+    },
+    {
+      "id": "37a8e4c6f059815446f8",
+      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "summary": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-11T23:13:16+00:00"
+    },
+    {
+      "id": "917e81f74d6a6479d671",
+      "title": "0.167.2",
+      "summary": "New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T22:46:17+00:00"
+    },
+    {
+      "id": "4c719563acf4956881a0",
+      "title": "0.169.0-alpha.11.1",
+      "summary": "Release 0.169.0-alpha.11.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T22:27:26+00:00"
+    },
+    {
+      "id": "0b71d9152872afc96953",
+      "title": "ICYMI: What landed for AI builders in October 2026",
+      "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T22:26:40+00:00"
+    },
+    {
+      "id": "8cfe95d5a7efcad05530",
+      "title": "Gemini Decisions API",
+      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision ",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "source": "Simon Willison",
+      "category": "大模型",
+      "published": "2026-11-11T22:03:25+00:00"
+    },
+    {
+      "id": "1df6a00742e99b5a005c",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 510 # Comments: 498",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "source": "Hacker News AI",
+      "category": "AI Agent",
+      "published": "2026-11-11T21:24:35+00:00"
+    },
+    {
+      "id": "fd0e38b70a90d204adaa",
+      "title": "aws-emulator",
+      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-11T21:18:30+00:00"
+    },
+    {
+      "id": "e3fb265c4a7f0c03e332",
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T21:05:59+00:00"
+    },
+    {
+      "id": "fd6c66a0e11b0365f1aa",
+      "title": "Automating AWS Agent Registry updates with push-based architecture",
+      "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T20:52:48+00:00"
+    },
+    {
+      "id": "8556616005ab5618b6a1",
+      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scal",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-11T20:45:45+00:00"
+    },
+    {
+      "id": "7c3740bd83f86fa5c7aa",
+      "title": "0.170.0-alpha.1",
+      "summary": "Release 0.170.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-11T20:09:52+00:00"
+    },
+    {
+      "id": "c608eba2d1b2d865d66f",
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "summary": "Health & Bioscience",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
+      "source": "Google Research",
+      "category": "研究论文",
+      "published": "2026-11-11T19:54:00+00:00"
+    },
+    {
       "id": "f7a9a6198fff75f59bb6",
       "title": "Accelerating generative AI delivery with reusable assets",
       "summary": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
@@ -20,6 +182,15 @@
       "source": "AWS Machine Learning",
       "category": "行业应用",
       "published": "2026-11-11T19:19:21+00:00"
+    },
+    {
+      "id": "3dcdab220cd01e48f494",
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 152 # Comments: 150",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-11T19:06:43+00:00"
     },
     {
       "id": "73a487a9dee9c9049eac",
@@ -49,13 +220,13 @@
       "published": "2026-11-11T17:19:52+00:00"
     },
     {
-      "id": "7c3740bd83f86fa5c7aa",
-      "title": "rust-v0.170.0-alpha.1",
-      "summary": "Release 0.170.0-alpha.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1",
-      "source": "OpenAI Codex Releases",
-      "category": "AI Agent",
-      "published": "2026-11-11T16:21:33+00:00"
+      "id": "275a803dc4dd61464496",
+      "title": "AI, activity, and outcomes in software engineering",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 113 # Comments: 103",
+      "url": "https://cabird.com/talks/shipping-faster",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-11T16:33:28+00:00"
     },
     {
       "id": "9ff7f94fbe2a901a7a96",
@@ -116,6 +287,15 @@
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
       "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 831 # Comments: 305",
       "url": "https://pietromiotti.com/latest/maya-site?maya=",
+      "source": "Hacker News AI",
+      "category": "AI Agent",
+      "published": "2026-11-11T12:05:22+00:00"
+    },
+    {
+      "id": "c8dde4086f9ad8bc8df0",
+      "title": "My AI agents found an unmapped Maya site?",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 969 # Comments: 354",
+      "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News AI",
       "category": "AI Agent",
       "published": "2026-11-11T12:05:22+00:00"
@@ -1194,7 +1374,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 483 # Comments: 501",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 528 # Comments: 535",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1329,7 +1509,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 620 # Comments: 587",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 633 # Comments: 611",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1392,7 +1572,7 @@
     {
       "id": "19c160f4485a55c0c305",
       "title": "Quoting Prompting Claude Fable 5.2",
-      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want th",
+      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt said the code base was t",
       "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
       "source": "Simon Willison",
       "category": "AI Agent",
@@ -2355,7 +2535,7 @@
     {
       "id": "e7d9d1552b0e69602474",
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 191",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2445,7 +2625,7 @@
     {
       "id": "0e7f57beb742eb68e99e",
       "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 199",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 200",
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2571,7 +2751,7 @@
     {
       "id": "eee402332b6dfec31663",
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 42",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 43",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2679,7 +2859,7 @@
     {
       "id": "b245671c29a5d9e9cb29",
       "title": "Apple capped engineers at a $200 daily AI budget",
-      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 126",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 114 # Comments: 126",
       "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3687,7 +3867,7 @@
     {
       "id": "dab987be36e106a40b42",
       "title": "I'm not convinced the AI bubble exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 966",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 572 # Comments: 971",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3714,7 +3894,7 @@
     {
       "id": "61b9a28bbc1e7d115b15",
       "title": "Wearable device makers are using brain data to train AI without telling users",
-      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 119 # Comments: 97",
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 120 # Comments: 97",
       "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3750,7 +3930,7 @@
     {
       "id": "8017ce29f6d88c8d95a2",
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 511 # Comments: 309",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 512 # Comments: 309",
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News AI",
       "category": "AI 产品",
