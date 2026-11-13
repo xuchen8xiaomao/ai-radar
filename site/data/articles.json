@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-11-12T19:52:45.874567+00:00",
+  "updated_at": "2026-11-13T06:41:20.833527+00:00",
   "source_count": 19,
-  "success_count": 16,
+  "success_count": 15,
   "articles": [
+    {
+      "id": "a0c08c461d827e1c37f0",
+      "title": "rust-v0.169.0",
+      "summary": "Release 0.169.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T04:48:20+00:00"
+    },
+    {
+      "id": "28d4b04c1854e4e4531a",
+      "title": "rust-v0.171.0-alpha.3",
+      "summary": "Release 0.171.0-alpha.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.3",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T04:36:47+00:00"
+    },
+    {
+      "id": "d72b4c142f493bf75081",
+      "title": "rust-v0.171.0-alpha.2",
+      "summary": "Release 0.171.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T04:34:19+00:00"
+    },
+    {
+      "id": "344a38d718fe6e094b89",
+      "title": "0.171.0-alpha.1",
+      "summary": "Release 0.171.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T04:20:31+00:00"
+    },
+    {
+      "id": "6cfc942e5da70ee0eba8",
+      "title": "0.168.0",
+      "summary": "New Features Browse model providers under Sessions → Model providers and choose the default for new chats. ( #59541 , #59722 ) Enable features.tui_workspace to view a side conversation beside the main chat. Drag the divider to resize the panes or press leader z to zoom the focused pane. ( #58992 , #59527 , #59595 ) Attach recordings when ",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T03:56:26+00:00"
+    },
+    {
+      "id": "4ddb91b237ade206eeb9",
+      "title": "0.170.0-alpha.4",
+      "summary": "Release 0.170.0-alpha.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-12T23:03:38+00:00"
+    },
+    {
+      "id": "aeee01f562824dca326f",
+      "title": "llm-gemini 0.37",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Thr",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "source": "Simon Willison",
+      "category": "大模型",
+      "published": "2026-11-12T22:55:19+00:00"
+    },
+    {
+      "id": "8427d4fee9a7d1b919f4",
+      "title": "v2.1.323",
+      "summary": "What's changed Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization Added engines[\"claude-code\"] to plugin.json : plugins outside their stated Claude Code version range are not installed, updated or lo",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+      "source": "Claude Code Releases",
+      "category": "AI Agent",
+      "published": "2026-11-12T22:12:13+00:00"
+    },
+    {
+      "id": "87d176270cb26539c898",
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "summary": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-12T22:03:34+00:00"
+    },
+    {
+      "id": "0ca05117dff37c920736",
+      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "summary": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across sup",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-12T21:47:07+00:00"
+    },
+    {
+      "id": "3ed8f8cd29d8bc1742be",
+      "title": "Microsoft Research Focus – Edition #98",
+      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
+      "source": "Microsoft Research",
+      "category": "AI Agent",
+      "published": "2026-11-12T21:31:57+00:00"
+    },
+    {
+      "id": "ace29fcbd859ed195613",
+      "title": "Four Amazon Bedrock inference choices that affect cost",
+      "summary": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-12T20:51:55+00:00"
+    },
+    {
+      "id": "0b5401a8842f0b62f626",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat ",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "source": "MIT Technology Review",
+      "category": "行业应用",
+      "published": "2026-11-12T20:16:24+00:00"
+    },
+    {
+      "id": "67672a694e389b29af55",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-12T20:00:00+00:00"
+    },
     {
       "id": "3a26ec997d48a0de7da0",
       "title": "0.170.0-alpha.3",
@@ -119,6 +245,15 @@
       "source": "NVIDIA Blog",
       "category": "行业应用",
       "published": "2026-11-12T14:00:59+00:00"
+    },
+    {
+      "id": "b9840fd67063a36a400d",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-12T12:00:00+00:00"
     },
     {
       "id": "4922ca6fb0dd92994c34",
