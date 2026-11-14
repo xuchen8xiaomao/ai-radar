@@ -1,8 +1,107 @@
 {
-  "updated_at": "2026-11-13T19:38:58.478121+00:00",
+  "updated_at": "2026-11-14T06:17:18.780850+00:00",
   "source_count": 19,
-  "success_count": 19,
+  "success_count": 16,
   "articles": [
+    {
+      "id": "8f4b2632f43363d7fda4",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 263 # Comments: 136",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-14T02:52:59+00:00"
+    },
+    {
+      "id": "3d44b34bf5ef4e06d3ed",
+      "title": "0.171.0-alpha.5",
+      "summary": "Release 0.171.0-alpha.5",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-14T01:25:03+00:00"
+    },
+    {
+      "id": "4536e10993f7030af8c2",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-13T23:22:09+00:00"
+    },
+    {
+      "id": "2053de078f05bd0a49e0",
+      "title": "datasette-cluster-map 0.19",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's re",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-13T23:02:45+00:00"
+    },
+    {
+      "id": "a840b1604a3a5e19683a",
+      "title": "datasette-leaflet 0.3",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a ",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-13T22:30:54+00:00"
+    },
+    {
+      "id": "cd8fc130788a632d051e",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-13T22:30:12+00:00"
+    },
+    {
+      "id": "2f429c1a2fc201bc6e9a",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-13T22:02:39+00:00"
+    },
+    {
+      "id": "b47584a6c89b58232610",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-13T21:53:40+00:00"
+    },
+    {
+      "id": "e2307d7e10d0392066e7",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "summary": "Education Innovation",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "source": "Google Research",
+      "category": "研究论文",
+      "published": "2026-11-13T20:47:18+00:00"
+    },
+    {
+      "id": "e58a3ce1f17ad846cacd",
+      "title": "v2.1.325",
+      "summary": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's policy blocks a request, saying how to cont",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+      "source": "Claude Code Releases",
+      "category": "AI Agent",
+      "published": "2026-11-13T20:40:01+00:00"
+    },
+    {
+      "id": "5f85a3f54a95f92ed526",
+      "title": "No AI Slop: A Manifesto",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 190 # Comments: 112",
+      "url": "https://www.slopmanifesto.com/",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-13T19:51:56+00:00"
+    },
     {
       "id": "a8cb743586dc52b9f3a4",
       "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
@@ -51,7 +150,7 @@
     {
       "id": "12990af15e181ab96cfc",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 173 # Comments: 34",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 366 # Comments: 96",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -69,7 +168,7 @@
     {
       "id": "0d4c924e64373813139c",
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 102 # Comments: 100",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 181 # Comments: 171",
       "url": "https://text.npr.org/nx-s1-6029408",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -77,8 +176,8 @@
     },
     {
       "id": "b53103b0ebf97fd23bda",
-      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 135 # Comments: 106",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 205 # Comments: 205",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -114,7 +213,7 @@
     {
       "id": "3cdc276fd6a522c55207",
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 259 # Comments: 149",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 329 # Comments: 203",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -123,7 +222,7 @@
     {
       "id": "1a09f77a4836fe9e9b63",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 460 # Comments: 372",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 488 # Comments: 383",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -146,6 +245,15 @@
       "source": "OpenAI Codex Releases",
       "category": "AI Agent",
       "published": "2026-11-13T08:04:06+00:00"
+    },
+    {
+      "id": "a99dfdd20d85acbbb850",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-13T08:00:00+00:00"
     },
     {
       "id": "381c12c20a76be4a3b08",
@@ -1120,9 +1228,18 @@
       "published": "2026-11-13T03:56:26+00:00"
     },
     {
+      "id": "d3a8f79ced3bc4687901",
+      "title": "Why You Should Expect an AI Crash",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 101 # Comments: 84",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-12T23:08:31+00:00"
+    },
+    {
       "id": "4e10e32134f86500f7ca",
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 328 # Comments: 100",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 343 # Comments: 104",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1167,7 +1284,7 @@
     {
       "id": "076934ef461be2b954db",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 349 # Comments: 144",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 357 # Comments: 152",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1194,7 +1311,7 @@
     {
       "id": "b1c7febb39e1226c1825",
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 194 # Comments: 226",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232",
       "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1491,7 +1608,7 @@
     {
       "id": "1df6a00742e99b5a005c",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 676 # Comments: 698",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 677 # Comments: 702",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1563,7 +1680,7 @@
     {
       "id": "3dcdab220cd01e48f494",
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 196",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 197",
       "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1671,7 +1788,7 @@
     {
       "id": "c8dde4086f9ad8bc8df0",
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1033 # Comments: 392",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1035 # Comments: 392",
       "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2751,7 +2868,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 561 # Comments: 557",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 566 # Comments: 557",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2895,7 +3012,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 641 # Comments: 625",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 641 # Comments: 626",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
