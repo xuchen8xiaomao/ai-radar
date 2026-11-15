@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-11-14T17:58:23.559381+00:00",
+  "updated_at": "2026-11-15T06:24:36.896942+00:00",
   "source_count": 19,
   "success_count": 16,
   "articles": [
     {
+      "id": "9c481a0931060f36109e",
+      "title": "datasette-llm 0.1a11",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means tha",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-14T23:59:28+00:00"
+    },
+    {
+      "id": "c7271b7ac99ecdcd291f",
+      "title": "datasette-vega 0.7",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite ",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-14T17:09:09+00:00"
+    },
+    {
       "id": "8f4b2632f43363d7fda4",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 950 # Comments: 575",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1062 # Comments: 628",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -96,7 +114,7 @@
     {
       "id": "5f85a3f54a95f92ed526",
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 214 # Comments: 127",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 218 # Comments: 131",
       "url": "https://www.slopmanifesto.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -150,7 +168,7 @@
     {
       "id": "12990af15e181ab96cfc",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 412 # Comments: 106",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 427 # Comments: 108",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -168,7 +186,7 @@
     {
       "id": "0d4c924e64373813139c",
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 184",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 193",
       "url": "https://text.npr.org/nx-s1-6029408",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -177,7 +195,7 @@
     {
       "id": "b53103b0ebf97fd23bda",
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 434 # Comments: 617",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 468 # Comments: 688",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -213,7 +231,7 @@
     {
       "id": "3cdc276fd6a522c55207",
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 358 # Comments: 227",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 228",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -222,7 +240,7 @@
     {
       "id": "1a09f77a4836fe9e9b63",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 489 # Comments: 390",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1230,7 +1248,7 @@
     {
       "id": "d3a8f79ced3bc4687901",
       "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 102 # Comments: 84",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 103 # Comments: 84",
       "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1239,7 +1257,7 @@
     {
       "id": "4e10e32134f86500f7ca",
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 347 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1284,7 +1302,7 @@
     {
       "id": "076934ef461be2b954db",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 369 # Comments: 160",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 395 # Comments: 166",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1311,7 +1329,7 @@
     {
       "id": "b1c7febb39e1226c1825",
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233",
       "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1608,7 +1626,7 @@
     {
       "id": "1df6a00742e99b5a005c",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 678 # Comments: 706",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2868,7 +2886,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 568 # Comments: 558",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 570 # Comments: 560",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2965,6 +2983,15 @@
       "published": "2026-11-10T16:00:03+00:00"
     },
     {
+      "id": "491f8d171c272620910c",
+      "title": "Generative AI uses more energy on non-English text",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 197 # Comments: 103",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-10T15:07:28+00:00"
+    },
+    {
       "id": "e192e4f92a704298f96f",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
@@ -3012,7 +3039,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 642 # Comments: 626",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 643 # Comments: 626",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3057,7 +3084,7 @@
     {
       "id": "c7d3010a8bcc401c0c2a",
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 166 # Comments: 66",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 166 # Comments: 65",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "source": "Hacker News AI",
       "category": "AI 产品",
