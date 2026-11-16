@@ -1,8 +1,269 @@
 {
-  "updated_at": "2026-11-16T06:23:48.290092+00:00",
+  "updated_at": "2026-11-16T21:59:02.392717+00:00",
   "source_count": 19,
-  "success_count": 18,
+  "success_count": 19,
   "articles": [
+    {
+      "id": "86f7c7c99bd2479f548c",
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-16T21:53:46+00:00"
+    },
+    {
+      "id": "a9995c40a3422c0483b7",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading tec",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-16T20:00:37+00:00"
+    },
+    {
+      "id": "28fc1377be045e8df4ff",
+      "title": "0.171.0-alpha.9",
+      "summary": "Release 0.171.0-alpha.9",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.9",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-16T19:17:33+00:00"
+    },
+    {
+      "id": "078c70bccadd2823d01a",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+      "source": "MIT Technology Review",
+      "category": "行业应用",
+      "published": "2026-11-16T18:38:47+00:00"
+    },
+    {
+      "id": "38a73038f401258c1101",
+      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-16T18:16:07+00:00"
+    },
+    {
+      "id": "d89fddf149fe8e05c834",
+      "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+      "summary": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-16T17:29:29+00:00"
+    },
+    {
+      "id": "385d3d55298d3c7fabf6",
+      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+      "summary": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing documents into grounded, c",
+      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-16T17:04:11+00:00"
+    },
+    {
+      "id": "60d6d445e0dacc9d1796",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Le",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+      "source": "Microsoft Research",
+      "category": "AI Agent",
+      "published": "2026-11-16T17:01:35+00:00"
+    },
+    {
+      "id": "2d7a5d6b20fff3cd431e",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "id": "dd659f011024f04f24b0",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "id": "d646ec07a2b31e930486",
+      "title": "0.171.0-alpha.8",
+      "summary": "Release 0.171.0-alpha.8",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.8",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:30:40+00:00"
+    },
+    {
+      "id": "b3a867faa51ab497299b",
+      "title": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
+      "summary": "Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer multi-step analytical questions.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:12:16+00:00"
+    },
+    {
+      "id": "9ed8c032dbcdf137f78a",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "source": "MIT Technology Review",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:04:28+00:00"
+    },
+    {
+      "id": "742a0adaef2e254494df",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delive",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-16T16:00:51+00:00"
+    },
+    {
+      "id": "0dc8b1c6d09938c16b10",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum pr",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-16T16:00:47+00:00"
+    },
+    {
+      "id": "891aa0f995d12bb58740",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt fo",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
+      "source": "NVIDIA Blog",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:00:25+00:00"
+    },
+    {
+      "id": "4e397e27d38f36eaba2a",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI ag",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
+      "source": "NVIDIA Blog",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:00:16+00:00"
+    },
+    {
+      "id": "bcc40eb1eee4216ca06d",
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-16T16:00:11+00:00"
+    },
+    {
+      "id": "8f02058f4a02dc51d60c",
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and g",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc",
+      "source": "NVIDIA Blog",
+      "category": "AI Agent",
+      "published": "2026-11-16T16:00:01+00:00"
+    },
+    {
+      "id": "bc35581f3528ae2fbf10",
+      "title": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
+      "summary": "With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely enough that the guardrail blocks what you mean and passes wh",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-16T15:48:01+00:00"
+    },
+    {
+      "id": "13068fccecc1e20bf27e",
+      "title": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
+      "summary": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes one tenant at a time",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-16T15:46:28+00:00"
+    },
+    {
+      "id": "b6ec523975e54aa9b6b3",
+      "title": "Use prompt caching with open-weight models on Amazon Bedrock",
+      "summary": "Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to reduce input cost and latency. This post shows implicit and explicit caching through the Chat Completions API and applies caching to an OpenCode coding agent session.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-16T15:42:41+00:00"
+    },
+    {
+      "id": "11608d311d0047796796",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "tbd",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "id": "d1436b6477306116b9c1",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, bus",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "source": "MIT Technology Review",
+      "category": "AI Agent",
+      "published": "2026-11-16T13:00:00+00:00"
+    },
+    {
+      "id": "d91fd06de7b8771ee8ad",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "id": "ff7833693fa2a06713dc",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "id": "9fe6d2ae73e55f52b807",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T08:00:00+00:00"
+    },
+    {
+      "id": "21b4758ab52123ac78ff",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "21e886491b30cfff0403",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-16T06:00:00+00:00"
+    },
     {
       "id": "f5dc4cd120b45659518f",
       "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
@@ -958,6 +1219,33 @@
       "published": "2026-11-16T00:00:28+00:00"
     },
     {
+      "id": "60f3c7381bc61eae5e3d",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "id": "3d4aeac88b69acfaa9cd",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "id": "8ec21efa2c62273428cb",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
+    {
       "id": "c6febd82e4661f8df7bb",
       "title": "datasette-maplibre 0.1a0",
       "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluste",
@@ -1023,7 +1311,7 @@
     {
       "id": "91935a49528247b549bb",
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 640 # Comments: 347",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1242 # Comments: 650",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News AI",
       "category": "开源生态",
@@ -1068,7 +1356,7 @@
     {
       "id": "8f4b2632f43363d7fda4",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1089 # Comments: 645",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1111 # Comments: 649",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1082,6 +1370,15 @@
       "source": "OpenAI Codex Releases",
       "category": "AI Agent",
       "published": "2026-11-14T01:25:03+00:00"
+    },
+    {
+      "id": "60e5719ddad5001df4ba",
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 96",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-14T00:28:11+00:00"
     },
     {
       "id": "4536e10993f7030af8c2",
@@ -1158,7 +1455,7 @@
     {
       "id": "5f85a3f54a95f92ed526",
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 221 # Comments: 133",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 227 # Comments: 133",
       "url": "https://www.slopmanifesto.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1212,7 +1509,7 @@
     {
       "id": "12990af15e181ab96cfc",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 433 # Comments: 110",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 442 # Comments: 111",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1230,7 +1527,7 @@
     {
       "id": "0d4c924e64373813139c",
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 195 # Comments: 195",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 197 # Comments: 197",
       "url": "https://text.npr.org/nx-s1-6029408",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1239,7 +1536,7 @@
     {
       "id": "b53103b0ebf97fd23bda",
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 477 # Comments: 722",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 489 # Comments: 731",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1265,7 +1562,7 @@
     },
     {
       "id": "31f08b59cb1733fd7c6a",
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, r",
       "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
       "source": "NVIDIA Blog",
@@ -1275,7 +1572,7 @@
     {
       "id": "3cdc276fd6a522c55207",
       "title": "AI is destroying the trust between writers and readers",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 369 # Comments: 234",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 371 # Comments: 239",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1284,7 +1581,7 @@
     {
       "id": "1a09f77a4836fe9e9b63",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 389",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 392",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2301,7 +2598,7 @@
     {
       "id": "4e10e32134f86500f7ca",
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 355 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 357 # Comments: 105",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2346,7 +2643,7 @@
     {
       "id": "076934ef461be2b954db",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 416 # Comments: 178",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 448 # Comments: 193",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2670,7 +2967,7 @@
     {
       "id": "1df6a00742e99b5a005c",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 710",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -3848,7 +4145,7 @@
     },
     {
       "id": "1153869638ee727cb025",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
       "source": "NVIDIA Blog",
@@ -3930,7 +4227,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 572 # Comments: 564",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 576 # Comments: 565",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4029,7 +4326,7 @@
     {
       "id": "491f8d171c272620910c",
       "title": "Generative AI uses more energy on non-English text",
-      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 229 # Comments: 124",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 231 # Comments: 130",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4083,7 +4380,7 @@
     {
       "id": "db8fc494992101409f7d",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 645 # Comments: 626",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 647 # Comments: 626",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "source": "Hacker News AI",
       "category": "AI 产品",
