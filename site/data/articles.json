@@ -1,8 +1,413 @@
 {
-  "updated_at": "2026-11-16T21:59:02.392717+00:00",
+  "updated_at": "2026-11-17T07:51:31.364502+00:00",
   "source_count": 19,
-  "success_count": 19,
+  "success_count": 17,
   "articles": [
+    {
+      "id": "c7bc63b5b7f8899723b9",
+      "title": "Quoting Go Proverbs",
+      "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-17T06:16:26+00:00"
+    },
+    {
+      "id": "f5dc4cd120b45659518f",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfe",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "5b66b471dda6a3066631",
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Inst",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv AI",
+      "category": "大模型",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "e6b637328ef2109d9e89",
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "5cc536aed4b9c9336147",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object i",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "5da9a95de14e592d935b",
+      "title": "An Operationalization of Opaque Serial Depth",
+      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific ins",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "c0fb3abdbf393ee063b3",
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-gra",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv AI",
+      "category": "大模型",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "963bbe19ff67ab4441c4",
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on ",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "f50e63d8425077c4b471",
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is ",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "b5369aae9868552237b7",
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ o",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "d6f2a3136b4179e3604c",
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inferenc",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "199bb42cf667d7c742b5",
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which people and AI wor",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "6e7825326e83b136fe22",
+      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+      "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation preserves. We examine this relationship in a uniform four-state w",
+      "url": "https://arxiv.org/abs/2611.17583",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "b715b2affb8796e9f221",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configura",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "04234be9f8573efb0afc",
+      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
+      "summary": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clusterings. Threshold triggers fire a pre-specified action when ",
+      "url": "https://arxiv.org/abs/2611.17616",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "0e4a08dbe6ed3850782e",
+      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+      "summary": "arXiv:2611.17620v1 Announce Type: new Abstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or through pre",
+      "url": "https://arxiv.org/abs/2611.17620",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "db119966b06bc1071275",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "7f91f504d57986c16b77",
+      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
+      "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then scored like a benchmark by its mean pass rate, which throws away ",
+      "url": "https://arxiv.org/abs/2611.17632",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "2058b8ffe8f15f120054",
+      "title": "What LLM Agents See and What Users Say",
+      "summary": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from linguistics: an agent may act only if each claim behind the a",
+      "url": "https://arxiv.org/abs/2611.17639",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "8a5c1a78f21f4e4953ba",
+      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+      "summary": "arXiv:2611.17662v1 Announce Type: new Abstract: Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that would other",
+      "url": "https://arxiv.org/abs/2611.17662",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "bb14b9e7844b57ec97c9",
+      "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
+      "summary": "arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagnostic benchma",
+      "url": "https://arxiv.org/abs/2611.17680",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "5ac702919025cdc28443",
+      "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+      "summary": "arXiv:2611.17681v1 Announce Type: new Abstract: Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implemented and which requirements remain unmet. We present OCTAVE, a benchmark for complete HTML5 ga",
+      "url": "https://arxiv.org/abs/2611.17681",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "eec451ca8d6e6997bed8",
+      "title": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
+      "summary": "arXiv:2611.17696v1 Announce Type: new Abstract: Long-horizon business workflows fail in two ways: errors accumulate as a chain of activities lengthens, and the knowledge an activity needs is written in a different vocabulary from the user's request. We study whether such workflows can be made reliable without changing the language model. ",
+      "url": "https://arxiv.org/abs/2611.17696",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "8e257d66526dc5748509",
+      "title": "An AI-enabled high-resolution chlorophyll-a forecasting model that outperforms the operational global biogeochemical system",
+      "summary": "arXiv:2611.17704v2 Announce Type: new Abstract: Surface chlorophyll-a concentration is a key indicator of marine phytoplankton variability, and short-term forecasts of its distribution provide advance information for marine ecosystem monitoring and management. However, interactions between physical transport and biological processes compl",
+      "url": "https://arxiv.org/abs/2611.17704",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "619525edf219eeff49fe",
+      "title": "Cross-Linguistic Acoustic Biomarkers of Cognitive Impairment Across Interactive and Single-Speaker Speech Tasks",
+      "summary": "arXiv:2611.17710v1 Announce Type: new Abstract: Multilingual dementia detection is essential for scalable and equitable screening. In recent years, automated speech analysis has emerged as a promising approach for supporting dementia detection by enabling non-invasive and scalable assessment of cognitive function. However, existing studie",
+      "url": "https://arxiv.org/abs/2611.17710",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "eb4235b75bfce8df2107",
+      "title": "Federated Soft Poly-Level Learning Over a Distributed Network with Guaranteed Convergence",
+      "summary": "arXiv:2611.17722v1 Announce Type: new Abstract: Multi-level learning/optimization, e.g., bilevel optimization, has been recognized for its versatile applicability across a broad array of domains, spanning from signal processing to machine learning. However, most existing works focus on bilevel and trilevel optimization. In contrast, multi",
+      "url": "https://arxiv.org/abs/2611.17722",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "fe749e12033c8dfa2127",
+      "title": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
+      "summary": "arXiv:2611.17728v1 Announce Type: new Abstract: Model merging constructs multi-task models without expensive joint training but often suffers from parameter interference. Some solutions mitigate this by constraining finetuning using data from the other tasks to be merged, violating the core independence and privacy assumption of model mer",
+      "url": "https://arxiv.org/abs/2611.17728",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "c3d9d3fc175d75085700",
+      "title": "Knowledge After Collapse: Context and Wording Shape Factual Accessibility in Language Models",
+      "summary": "arXiv:2611.17763v1 Announce Type: new Abstract: When a language model accepts a false correction in a factual discussion, its next answer can depend on how the conversation continues. We introduce Knowledge Answer Divergence (KAD), an event-conditioned evaluation protocol that distinguishes initial false-answer adoption from subsequent pe",
+      "url": "https://arxiv.org/abs/2611.17763",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "402a0286b8bd0b9d4e8d",
+      "title": "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents",
+      "summary": "arXiv:2611.17776v1 Announce Type: new Abstract: The Thomson problem asks for N unit charges on a sphere with minimum Coulomb energy; for large N the best configurations known are curated in the Cambridge Cluster Database, whose largest-N entries were set in October 2026. We report configurations for N = 912, 1382 and 2502 with energies 0.",
+      "url": "https://arxiv.org/abs/2611.17776",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "ca24fd9faebebad26585",
+      "title": "TReC: Evaluating Move-Induced State Changes in Instruction-Conditioned Go",
+      "summary": "arXiv:2611.17781v1 Announce Type: new Abstract: When a Go model predicts a move different from the expert's, coordinate distance measures how far the prediction lands from the reference. We introduce Transition Representation Consistency (TReC) to compare how the two moves change a board-state embedding. Both moves are executed from the s",
+      "url": "https://arxiv.org/abs/2611.17781",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "64e4b1f0e4ac35b1d1b2",
+      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
+      "summary": "arXiv:2611.17790v1 Announce Type: new Abstract: Recursive self-improvement (RSI) is one of the most promising paths toward an AI singularity for superintelligence. Achieving this vision requires AI systems to undertake the full training pipeline for iterative improvement. Reinforcement learning (RL) plays an essential role in this cycle t",
+      "url": "https://arxiv.org/abs/2611.17790",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "0581304bba9d0ff26015",
+      "title": "MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals",
+      "summary": "arXiv:2611.17793v1 Announce Type: new Abstract: The performance of offline Multi-Agent Reinforcement Learning (MARL) is limited by the quality of the fixed offline dataset, motivating trajectory augmentation. However, augmenting multi-agent trajectories presents a fundamental challenge of the diversity-coordination trade-off: independent ",
+      "url": "https://arxiv.org/abs/2611.17793",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "210d06b357721023f055",
+      "title": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
+      "summary": "arXiv:2611.17796v1 Announce Type: new Abstract: Daily GPU rental-price benchmarks can fail when marketplace quotes are missing. This article stress-tests a fixed equal-weight median rule under four imposed masking mechanisms and four benchmark-level recovery methods. Across 5,800 Monte Carlo realisations in 27 scenarios on 190 held-out da",
+      "url": "https://arxiv.org/abs/2611.17796",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "523089d0f48248f2aa33",
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "summary": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectur",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "52c627e404d969773650",
+      "title": "Can Agents Keep Up with Time? An Empirical Analysis of Temporal Adaptation After a Conversational Hiatus",
+      "summary": "arXiv:2611.17806v1 Announce Type: new Abstract: Long-horizon agents increasingly serve as persistent personal assistants across modern web platforms, managing schedules, applications, and multi-step plans over weeks or months. Users often return to an ongoing conversation after a long conversational hiatus, while earlier bookings and prep",
+      "url": "https://arxiv.org/abs/2611.17806",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "aa474b1d44419ef306f2",
+      "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
+      "summary": "arXiv:2611.17814v1 Announce Type: new Abstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At ",
+      "url": "https://arxiv.org/abs/2611.17814",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-17T05:00:00+00:00"
+    },
+    {
+      "id": "e2fd6d26a416c296bbf5",
+      "title": "0.171.0-alpha.11",
+      "summary": "Release 0.171.0-alpha.11",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.11",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-17T04:30:04+00:00"
+    },
+    {
+      "id": "4c98cb9398b29993737d",
+      "title": "0.170.0-alpha.4.1",
+      "summary": "Release 0.170.0-alpha.4.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-17T02:24:32+00:00"
+    },
+    {
+      "id": "0e7f690aa4ff229bd2e8",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "eb3125817116c9db86be",
+      "title": "llm 0.37.3",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this",
+      "url": "https://simonwillison.net/2026/Nov/16/llm",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-16T23:57:26+00:00"
+    },
+    {
+      "id": "dd6b4250fdb22f842cb7",
+      "title": "0.171.0-alpha.10",
+      "summary": "Release 0.171.0-alpha.10",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.10",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-16T23:37:29+00:00"
+    },
+    {
+      "id": "9634b5e75ef12012977b",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook co",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-16T23:00:05+00:00"
+    },
+    {
+      "id": "98ebc3310aca9936cd72",
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "summary": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-16T22:43:30+00:00"
+    },
+    {
+      "id": "4e2b4f1543d148003d9a",
+      "title": "v2.1.326",
+      "summary": "What's changed Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode Added a startup warning when an --allowedTools , --disallowedTools or --tools value has an entry that doesn't look like a complete rule Added a message explaining why MCP servers s",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+      "source": "Claude Code Releases",
+      "category": "AI Agent",
+      "published": "2026-11-16T22:11:05+00:00"
+    },
+    {
+      "id": "fa3c1ec1e457a5f68b92",
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-16T22:06:08+00:00"
+    },
     {
       "id": "86f7c7c99bd2479f548c",
       "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
@@ -229,6 +634,15 @@
       "published": "2026-11-16T12:00:00+00:00"
     },
     {
+      "id": "b82b64ef90f76e66fb00",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-16T09:30:00+00:00"
+    },
+    {
       "id": "ff7833693fa2a06713dc",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
@@ -263,321 +677,6 @@
       "source": "OpenAI News",
       "category": "AI Agent",
       "published": "2026-11-16T06:00:00+00:00"
-    },
-    {
-      "id": "f5dc4cd120b45659518f",
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfe",
-      "url": "https://arxiv.org/abs/2611.17338",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "5b66b471dda6a3066631",
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Inst",
-      "url": "https://arxiv.org/abs/2611.17339",
-      "source": "arXiv AI",
-      "category": "大模型",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "e6b637328ef2109d9e89",
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and",
-      "url": "https://arxiv.org/abs/2611.17340",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "5cc536aed4b9c9336147",
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object i",
-      "url": "https://arxiv.org/abs/2611.17341",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "5da9a95de14e592d935b",
-      "title": "An Operationalization of Opaque Serial Depth",
-      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific ins",
-      "url": "https://arxiv.org/abs/2611.17495",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "c0fb3abdbf393ee063b3",
-      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-gra",
-      "url": "https://arxiv.org/abs/2611.17501",
-      "source": "arXiv AI",
-      "category": "大模型",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "963bbe19ff67ab4441c4",
-      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on ",
-      "url": "https://arxiv.org/abs/2611.17515",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "f50e63d8425077c4b471",
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is ",
-      "url": "https://arxiv.org/abs/2611.17524",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "b5369aae9868552237b7",
-      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-      "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ o",
-      "url": "https://arxiv.org/abs/2611.17532",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "d6f2a3136b4179e3604c",
-      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inferenc",
-      "url": "https://arxiv.org/abs/2611.17539",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "199bb42cf667d7c742b5",
-      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which people and AI wor",
-      "url": "https://arxiv.org/abs/2611.17564",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "6e7825326e83b136fe22",
-      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
-      "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation preserves. We examine this relationship in a uniform four-state w",
-      "url": "https://arxiv.org/abs/2611.17583",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "b715b2affb8796e9f221",
-      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configura",
-      "url": "https://arxiv.org/abs/2611.17610",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "04234be9f8573efb0afc",
-      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
-      "summary": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clusterings. Threshold triggers fire a pre-specified action when ",
-      "url": "https://arxiv.org/abs/2611.17616",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "0e4a08dbe6ed3850782e",
-      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
-      "summary": "arXiv:2611.17620v1 Announce Type: new Abstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or through pre",
-      "url": "https://arxiv.org/abs/2611.17620",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "db119966b06bc1071275",
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations",
-      "url": "https://arxiv.org/abs/2611.17621",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "7f91f504d57986c16b77",
-      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
-      "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then scored like a benchmark by its mean pass rate, which throws away ",
-      "url": "https://arxiv.org/abs/2611.17632",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "2058b8ffe8f15f120054",
-      "title": "What LLM Agents See and What Users Say",
-      "summary": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from linguistics: an agent may act only if each claim behind the a",
-      "url": "https://arxiv.org/abs/2611.17639",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "8a5c1a78f21f4e4953ba",
-      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-      "summary": "arXiv:2611.17662v1 Announce Type: new Abstract: Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that would other",
-      "url": "https://arxiv.org/abs/2611.17662",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "bb14b9e7844b57ec97c9",
-      "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
-      "summary": "arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagnostic benchma",
-      "url": "https://arxiv.org/abs/2611.17680",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "5ac702919025cdc28443",
-      "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
-      "summary": "arXiv:2611.17681v1 Announce Type: new Abstract: Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implemented and which requirements remain unmet. We present OCTAVE, a benchmark for complete HTML5 ga",
-      "url": "https://arxiv.org/abs/2611.17681",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "eec451ca8d6e6997bed8",
-      "title": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
-      "summary": "arXiv:2611.17696v1 Announce Type: new Abstract: Long-horizon business workflows fail in two ways: errors accumulate as a chain of activities lengthens, and the knowledge an activity needs is written in a different vocabulary from the user's request. We study whether such workflows can be made reliable without changing the language model. ",
-      "url": "https://arxiv.org/abs/2611.17696",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "8e257d66526dc5748509",
-      "title": "An AI-enabled high-resolution chlorophyll-a forecasting model that outperforms the operational global biogeochemical system",
-      "summary": "arXiv:2611.17704v1 Announce Type: new Abstract: Surface chlorophyll-a concentration is a key indicator of marine phytoplankton variability, and short-term forecasts of its distribution provide advance information for marine ecosystem monitoring and management. However, interactions between physical transport and biological processes compl",
-      "url": "https://arxiv.org/abs/2611.17704",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "619525edf219eeff49fe",
-      "title": "Cross-Linguistic Acoustic Biomarkers of Cognitive Impairment Across Interactive and Single-Speaker Speech Tasks",
-      "summary": "arXiv:2611.17710v1 Announce Type: new Abstract: Multilingual dementia detection is essential for scalable and equitable screening. In recent years, automated speech analysis has emerged as a promising approach for supporting dementia detection by enabling non-invasive and scalable assessment of cognitive function. However, existing studie",
-      "url": "https://arxiv.org/abs/2611.17710",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "eb4235b75bfce8df2107",
-      "title": "Federated Soft Poly-Level Learning Over a Distributed Network with Guaranteed Convergence",
-      "summary": "arXiv:2611.17722v1 Announce Type: new Abstract: Multi-level learning/optimization, e.g., bilevel optimization, has been recognized for its versatile applicability across a broad array of domains, spanning from signal processing to machine learning. However, most existing works focus on bilevel and trilevel optimization. In contrast, multi",
-      "url": "https://arxiv.org/abs/2611.17722",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "fe749e12033c8dfa2127",
-      "title": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
-      "summary": "arXiv:2611.17728v1 Announce Type: new Abstract: Model merging constructs multi-task models without expensive joint training but often suffers from parameter interference. Some solutions mitigate this by constraining finetuning using data from the other tasks to be merged, violating the core independence and privacy assumption of model mer",
-      "url": "https://arxiv.org/abs/2611.17728",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "c3d9d3fc175d75085700",
-      "title": "Knowledge After Collapse: Context and Wording Shape Factual Accessibility in Language Models",
-      "summary": "arXiv:2611.17763v1 Announce Type: new Abstract: When a language model accepts a false correction in a factual discussion, its next answer can depend on how the conversation continues. We introduce Knowledge Answer Divergence (KAD), an event-conditioned evaluation protocol that distinguishes initial false-answer adoption from subsequent pe",
-      "url": "https://arxiv.org/abs/2611.17763",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "402a0286b8bd0b9d4e8d",
-      "title": "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents",
-      "summary": "arXiv:2611.17776v1 Announce Type: new Abstract: The Thomson problem asks for N unit charges on a sphere with minimum Coulomb energy; for large N the best configurations known are curated in the Cambridge Cluster Database, whose largest-N entries were set in October 2026. We report configurations for N = 912, 1382 and 2502 with energies 0.",
-      "url": "https://arxiv.org/abs/2611.17776",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "ca24fd9faebebad26585",
-      "title": "TReC: Evaluating Move-Induced State Changes in Instruction-Conditioned Go",
-      "summary": "arXiv:2611.17781v1 Announce Type: new Abstract: When a Go model predicts a move different from the expert's, coordinate distance measures how far the prediction lands from the reference. We introduce Transition Representation Consistency (TReC) to compare how the two moves change a board-state embedding. Both moves are executed from the s",
-      "url": "https://arxiv.org/abs/2611.17781",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "64e4b1f0e4ac35b1d1b2",
-      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
-      "summary": "arXiv:2611.17790v1 Announce Type: new Abstract: Recursive self-improvement (RSI) is one of the most promising paths toward an AI singularity for superintelligence. Achieving this vision requires AI systems to undertake the full training pipeline for iterative improvement. Reinforcement learning (RL) plays an essential role in this cycle t",
-      "url": "https://arxiv.org/abs/2611.17790",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "0581304bba9d0ff26015",
-      "title": "MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals",
-      "summary": "arXiv:2611.17793v1 Announce Type: new Abstract: The performance of offline Multi-Agent Reinforcement Learning (MARL) is limited by the quality of the fixed offline dataset, motivating trajectory augmentation. However, augmenting multi-agent trajectories presents a fundamental challenge of the diversity-coordination trade-off: independent ",
-      "url": "https://arxiv.org/abs/2611.17793",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "210d06b357721023f055",
-      "title": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
-      "summary": "arXiv:2611.17796v1 Announce Type: new Abstract: Daily GPU rental-price benchmarks can fail when marketplace quotes are missing. This article stress-tests a fixed equal-weight median rule under four imposed masking mechanisms and four benchmark-level recovery methods. Across 5,800 Monte Carlo realisations in 27 scenarios on 190 held-out da",
-      "url": "https://arxiv.org/abs/2611.17796",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "523089d0f48248f2aa33",
-      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
-      "summary": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectur",
-      "url": "https://arxiv.org/abs/2611.17797",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "52c627e404d969773650",
-      "title": "Can Agents Keep Up with Time? An Empirical Analysis of Temporal Adaptation After a Conversational Hiatus",
-      "summary": "arXiv:2611.17806v1 Announce Type: new Abstract: Long-horizon agents increasingly serve as persistent personal assistants across modern web platforms, managing schedules, applications, and multi-step plans over weeks or months. Users often return to an ongoing conversation after a long conversational hiatus, while earlier bookings and prep",
-      "url": "https://arxiv.org/abs/2611.17806",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
-    },
-    {
-      "id": "aa474b1d44419ef306f2",
-      "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
-      "summary": "arXiv:2611.17814v1 Announce Type: new Abstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At ",
-      "url": "https://arxiv.org/abs/2611.17814",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-16T05:00:00+00:00"
     },
     {
       "id": "389827c6d3becbb6e2c1",
@@ -1311,7 +1410,7 @@
     {
       "id": "91935a49528247b549bb",
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1242 # Comments: 650",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1270 # Comments: 660",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News AI",
       "category": "开源生态",
@@ -1356,7 +1455,7 @@
     {
       "id": "8f4b2632f43363d7fda4",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1111 # Comments: 649",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1112 # Comments: 649",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1455,7 +1554,7 @@
     {
       "id": "5f85a3f54a95f92ed526",
       "title": "No AI Slop: A Manifesto",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 227 # Comments: 133",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 228 # Comments: 133",
       "url": "https://www.slopmanifesto.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1509,7 +1608,7 @@
     {
       "id": "12990af15e181ab96cfc",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 442 # Comments: 111",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 443 # Comments: 111",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1536,7 +1635,7 @@
     {
       "id": "b53103b0ebf97fd23bda",
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 489 # Comments: 731",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 489 # Comments: 738",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1581,7 +1680,7 @@
     {
       "id": "1a09f77a4836fe9e9b63",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 392",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 393",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2643,7 +2742,7 @@
     {
       "id": "076934ef461be2b954db",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 448 # Comments: 193",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 450 # Comments: 194",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2967,7 +3066,7 @@
     {
       "id": "1df6a00742e99b5a005c",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 710",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 682 # Comments: 710",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -3147,7 +3246,7 @@
     {
       "id": "c8dde4086f9ad8bc8df0",
       "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1036 # Comments: 392",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1036 # Comments: 393",
       "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -4227,7 +4326,7 @@
     {
       "id": "9836df3492903c3f1307",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 576 # Comments: 565",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 576 # Comments: 567",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4326,7 +4425,7 @@
     {
       "id": "491f8d171c272620910c",
       "title": "Generative AI uses more energy on non-English text",
-      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 231 # Comments: 130",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 231 # Comments: 131",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
       "source": "Hacker News AI",
       "category": "AI 产品",
