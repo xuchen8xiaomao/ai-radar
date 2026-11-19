@@ -1,8 +1,179 @@
 {
-  "updated_at": "2026-11-19T07:21:06.100426+00:00",
+  "updated_at": "2026-11-19T20:31:52.777164+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
+    {
+      "id": "42a47f4c360b7d6e46ce",
+      "title": "A game you cannot win unless you have a quantum computer",
+      "summary": "Quantum",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
+      "source": "Google Research",
+      "category": "研究论文",
+      "published": "2026-11-19T20:03:00+00:00"
+    },
+    {
+      "id": "ce67f2f6f2f691bd3d26",
+      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T20:01:06+00:00"
+    },
+    {
+      "id": "88461657b387a0e65112",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NV",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-19T20:00:15+00:00"
+    },
+    {
+      "id": "a56014fd60304875c6da",
+      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+      "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T19:53:32+00:00"
+    },
+    {
+      "id": "a6051f05f81a9a6d1e38",
+      "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+      "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T18:48:55+00:00"
+    },
+    {
+      "id": "5e0b61c055fc4741f180",
+      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-19T18:26:22+00:00"
+    },
+    {
+      "id": "89678770a6408dc3968f",
+      "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+      "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T18:20:54+00:00"
+    },
+    {
+      "id": "f770aea7096a9d1664bb",
+      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-19T18:14:36+00:00"
+    },
+    {
+      "id": "056cf0b58a3dbace6833",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Gemini spark on a space background",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T18:00:00+00:00"
+    },
+    {
+      "id": "b96038b33ff374c3911e",
+      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "summary": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T17:28:47+00:00"
+    },
+    {
+      "id": "79428cf43613e4131c16",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "source": "NVIDIA Blog",
+      "category": "AI Agent",
+      "published": "2026-11-19T17:00:35+00:00"
+    },
+    {
+      "id": "63610b904de29506452a",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T17:00:00+00:00"
+    },
+    {
+      "id": "5661d98e657c1ecfd28b",
+      "title": "Fuck Your AI Safeguards",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 276 # Comments: 98",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T16:30:18+00:00"
+    },
+    {
+      "id": "05d57b678b42398fa106",
+      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "summary": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod GPU-memory contracts with enforcement and metrics.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T16:13:51+00:00"
+    },
+    {
+      "id": "2776fbf561bb314e08fb",
+      "title": "0.172.0-alpha.2",
+      "summary": "Release 0.172.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-19T15:49:51+00:00"
+    },
+    {
+      "id": "e39600edda0e5accc0d5",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 168 # Comments: 155",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T15:38:12+00:00"
+    },
+    {
+      "id": "abd04dc00b8ba51eba71",
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026",
+      "source": "NVIDIA Blog",
+      "category": "行业应用",
+      "published": "2026-11-19T14:00:12+00:00"
+    },
+    {
+      "id": "68905d8de4636ed49e50",
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 155",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T12:17:10+00:00"
+    },
+    {
+      "id": "9342dbf934e428aa00c1",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-19T08:00:00+00:00"
+    },
     {
       "id": "0307cdf8282ed5e58712",
       "title": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
@@ -949,6 +1120,15 @@
       "published": "2026-11-19T05:00:00+00:00"
     },
     {
+      "id": "f24ede8b2ec8caec6b60",
+      "title": "AI will not make you rich (2025)",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 105 # Comments: 68",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T01:51:28+00:00"
+    },
+    {
       "id": "352723699d6c2a143c8e",
       "title": "Release v0.69.0",
       "summary": "What's Changed fix(core,cli): preserve literal $ characters during template placeholder replacement by @jesussamuel-byte in #30136 feat(cli): add /stats heatmap subcommand for daily token usage by @jvargassanchez-dot in #30135 fix(core): prevent GCLI_EXPAND_TARGET env collision in expandEnvVars by @villahernandez-coder in #30138 chore(rel",
@@ -965,6 +1145,15 @@
       "source": "Claude Code Releases",
       "category": "AI Agent",
       "published": "2026-11-19T01:14:04+00:00"
+    },
+    {
+      "id": "e240b1886554663496b5",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 108 # Comments: 81",
+      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T00:57:20+00:00"
     },
     {
       "id": "1471104375f835f45826",
@@ -1158,7 +1347,7 @@
     {
       "id": "6468382737345bd88a85",
       "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 130 # Comments: 77",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 136 # Comments: 78",
       "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1176,7 +1365,7 @@
     {
       "id": "f6f0576c6cc397f30abc",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 441 # Comments: 190",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 478 # Comments: 245",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1266,7 +1455,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 776 # Comments: 692",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 801 # Comments: 709",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2256,7 +2445,7 @@
     {
       "id": "d00fc92468416949ad6e",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 697 # Comments: 544",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 708 # Comments: 562",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2355,7 +2544,7 @@
     {
       "id": "4d189ef1f84f674b199d",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 320 # Comments: 441",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 322 # Comments: 455",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2526,7 +2715,7 @@
     {
       "id": "6ca6a1ab86c20b304388",
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 257",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 258",
       "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4929,7 +5118,7 @@
     {
       "id": "91935a49528247b549bb",
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1281 # Comments: 671",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1285 # Comments: 672",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News AI",
       "category": "开源生态",
@@ -10730,15 +10919,6 @@
       "source": "Google DeepMind",
       "category": "大模型",
       "published": "2026-11-05T17:05:16+00:00"
-    },
-    {
-      "id": "79428cf43613e4131c16",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "source": "NVIDIA Blog",
-      "category": "AI Agent",
-      "published": "2026-11-05T17:00:35+00:00"
     },
     {
       "id": "485654c1f98a7cdcb606",
