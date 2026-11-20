@@ -1,8 +1,1097 @@
 {
-  "updated_at": "2026-11-19T20:31:52.777164+00:00",
+  "updated_at": "2026-11-20T07:10:47.611303+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
+    {
+      "id": "767233308c507a4fed5c",
+      "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
+      "summary": "arXiv:2611.24943v1 Announce Type: new Abstract: Computational complexity theory offers a principled framework for characterizing the efficiency of computational problems, and Large Language Models (LLMs) can similarly be viewed as computational systems executing a structured process of input, inference-time compute, and output. In this co",
+      "url": "https://arxiv.org/abs/2611.24943",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "4a6e6b7eb81685b33954",
+      "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
+      "summary": "arXiv:2611.24959v1 Announce Type: new Abstract: The rise of powerful, fine-tuned large language models (LLMs) necessitates robust natural language inference (NLI) systems. These NLI systems ideally train across various tasks, encompassing diverse concepts like sentiment analysis, news classification, and coreference resolution. However, t",
+      "url": "https://arxiv.org/abs/2611.24959",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "4a8b7dad3eefddea9248",
+      "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+      "summary": "arXiv:2611.24960v1 Announce Type: new Abstract: Converting complex documents into structured knowledge constitutes the critical infrastructure urgently required for deploying Large Language Models (LLMs) in downstream research. However, blind to the Table of Contents (ToC) as a macro-structure, existing bottom-up paradigms rely on localiz",
+      "url": "https://arxiv.org/abs/2611.24960",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "940e7b406941a5264c0d",
+      "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
+      "summary": "arXiv:2611.24963v1 Announce Type: new Abstract: Do standard benchmarks see the architectural differences that matter? We study it with 64 from-scratch pretraining runs of Transformers and three linear-model families at 1.3-8B parameters on 1-2T Nemotron-CC tokens, at a cost of roughly 100k USD per 8B run. In academic-scale pretraining (1.",
+      "url": "https://arxiv.org/abs/2611.24963",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "bb6997d42ef3f797d8ad",
+      "title": "Global Importance Estimation for KV Cache Eviction",
+      "summary": "arXiv:2611.24969v1 Announce Type: new Abstract: Memory consumption of the key-value (KV) cache remains a central bottleneck for long-context LLM inference. We introduce PRKV, a training-free KV eviction method that estimates multi-hop global token importance by applying Personalized PageRank over attention-induced transition graphs. This ",
+      "url": "https://arxiv.org/abs/2611.24969",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "7b5522d641a8a9e954e1",
+      "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
+      "summary": "arXiv:2611.24970v1 Announce Type: new Abstract: The deployment of large language models (LLMs) in hiring pipelines is growing, yet existing evaluations generally overlook their compliance with legal rules. To fill this gap, we introduce HireWatch, an evaluation that assesses whether LLMs comply with U.S. laws that govern the questions tha",
+      "url": "https://arxiv.org/abs/2611.24970",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "14f4da45c852d26963c6",
+      "title": "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
+      "summary": "arXiv:2611.24971v1 Announce Type: new Abstract: In-context learning (ICL) improves large language model performance at inference time without updating model parameters. However, these gains are not free: in practical deployments, longer prompts directly increase inference cost and latency. Under a fixed token budget, prompt construction t",
+      "url": "https://arxiv.org/abs/2611.24971",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "8146a0d46967149d5fce",
+      "title": "No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses",
+      "summary": "arXiv:2611.24972v1 Announce Type: new Abstract: We present No-Harm-Jury, a jury-based automated evaluation framework that scores AI-generated medical responses across seven conceptually distinct harm dimensions using a panel of five diverse language models as independent jurors. Responses generated by Ministral-14B on 3,000 questions draw",
+      "url": "https://arxiv.org/abs/2611.24972",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "9e4af9d275e6eeca48f1",
+      "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
+      "summary": "arXiv:2611.24977v1 Announce Type: new Abstract: We present CANDID (Candidate-Driven Intervention for Disciplined Execution), an execution-control framework designed to enhance the reliability of local computer-use agents (CUAs) in resource-constrained settings. While local CUAs feature robust baseline proficiency in single-step action pre",
+      "url": "https://arxiv.org/abs/2611.24977",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "50ba0d052f75cb642923",
+      "title": "Quantifying Cultural-Psychological Constructs in Four Centuries of Ottoman Court Registers",
+      "summary": "arXiv:2611.24981v1 Announce Type: new Abstract: Populations vary along cultural dimensions such as individualism, collectivism, and honor. But how can these dimensions be studied in historical societies for which conventional psychological data are unavailable? Here, we introduce a computational text-analytic framework for quantifying psy",
+      "url": "https://arxiv.org/abs/2611.24981",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "c20a86165f62b75f2dff",
+      "title": "What the model knows but does not say: monitoring medical LLMs through verbalized thoughts",
+      "summary": "arXiv:2611.24994v1 Announce Type: new Abstract: Efforts to keep clinical language models safe have concentrated on what enters and leaves the model, but a manipulated model can return an answer that looks entirely ordinary. Here we show that the model's own internal state, rendered in plain language, exposes manipulations the output conce",
+      "url": "https://arxiv.org/abs/2611.24994",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5ffc351eba205ee2b5cb",
+      "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+      "summary": "arXiv:2611.25071v1 Announce Type: new Abstract: Large language models (LLMs) write fluent financial analyses but miscompute ratios, recall stale prices, and route questions to the wrong tool with high confidence. We ask which component should do each job in a financial question-answering assistant, and study it with FinVeriQA, an open-sou",
+      "url": "https://arxiv.org/abs/2611.25071",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "778a238272415b16f284",
+      "title": "Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents",
+      "summary": "arXiv:2611.25123v1 Announce Type: new Abstract: Long-horizon LLM agents often exceed their context windows, forcing them to discard information that may be needed later. Existing context management strategies rely on summarization, masking, or structured memory, requiring decisions about what to preserve or how to retrieve it before futur",
+      "url": "https://arxiv.org/abs/2611.25123",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d40cd77e12b3daaa96fb",
+      "title": "Blind Spots Travel, Knowledge Stays Home: What RL Inherits from an LLM Judge",
+      "summary": "arXiv:2611.25191v1 Announce Type: new Abstract: LLM judges serve as rewards where no answer key exists, in the hope that their knowledge passes to the trained model. In 814 RL runs that teach 7-8B models to answer closed-book questions or abstain, we ask what passes. What a grader knows about single answers stays home. A wrong answer that",
+      "url": "https://arxiv.org/abs/2611.25191",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "ade955e7473b037044d6",
+      "title": "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation",
+      "summary": "arXiv:2611.25258v1 Announce Type: new Abstract: Post-hoc rewriting is used to reduce demographic disparities in LLM-generated text when the source model is inaccessible. A rewrite can look successful merely because it improved its own target or satisfied its selector. We study this as a transfer problem on 660 gender pairs and 1,980 age c",
+      "url": "https://arxiv.org/abs/2611.25258",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "9b679c847be9d5787942",
+      "title": "LLMs Are Already Confidence-Aware Zero-Shot Classifiers",
+      "summary": "arXiv:2611.25289v1 Announce Type: new Abstract: Zero-shot large language models (LLMs) are increasingly used as text classifiers, but their labels are only useful when we know to what extent we can trust them. We compare black-box methods (verbalised confidence and sampling) with white-box methods that read token probabilities (P(True), a",
+      "url": "https://arxiv.org/abs/2611.25289",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "4bea2839149b3a2a6dec",
+      "title": "Enhancing Understanding of Language Models with Varied Explanations",
+      "summary": "arXiv:2611.25314v1 Announce Type: new Abstract: Language models are increasingly used to support human judgement in complex reasoning tasks, yet their predictions often remain difficult to interpret and validate. Explainability techniques provide insight into model decision-making, helping expose errors, failure modes, and potential bias ",
+      "url": "https://arxiv.org/abs/2611.25314",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "8bad4185a49db5d778f0",
+      "title": "Incorporating argumentation frameworks for LLM decision-making: Task-specific design and evaluation",
+      "summary": "arXiv:2611.25361v1 Announce Type: new Abstract: Argumentation frameworks (AFs) provide explicit, formal mechanisms for representing and resolving conflicts and thus have been incorporated into large language model (LLM) decision-making. The benefits vary and depend on how arguments and their relations are constructed, evaluated, and incor",
+      "url": "https://arxiv.org/abs/2611.25361",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a746f8414c3833aa3302",
+      "title": "ChronoDossier: Long-Form Personas as Temporal Memory Representations",
+      "summary": "arXiv:2611.25407v1 Announce Type: new Abstract: Long-horizon agents rely on stored records to recover a person's state as facts change. Reliable answers depend on how facts are recorded, retrieved, and presented to the reader. We treat a long-form persona dossier as a memory representation of a known latent state, an invariant identity pl",
+      "url": "https://arxiv.org/abs/2611.25407",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "3c685dc680e061bcb19a",
+      "title": "Evolve Where It Matters: Coverage-Guided Self-Evolution of Agent Skills",
+      "summary": "arXiv:2611.25429v1 Announce Type: new Abstract: Agent skills package procedural knowledge as natural-language instructions, and a skill helps only when its instructions are correct and properly followed by the agent. Self-evolving agents revise their own skills from the runs they make, but existing methods judge each run as a whole, by it",
+      "url": "https://arxiv.org/abs/2611.25429",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f975d8cacb79e213ca04",
+      "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "summary": "arXiv:2611.25433v1 Announce Type: new Abstract: KV cache compression is critical for large reasoning models, where most of the cost comes from long generated reasoning traces rather than the input prompt. These traces often contain redundant and low-utility tokens due to looping, self-verification, and corrections. However, such tokens ma",
+      "url": "https://arxiv.org/abs/2611.25433",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5062f81fa953df136479",
+      "title": "PAIR-MED: Policy-reward Alternation for Iterative Refinement in Multilingual Medical Reasoning",
+      "summary": "arXiv:2611.25446v1 Announce Type: new Abstract: Large language models demonstrate strong medical question-answering capabilities, yet reasoning performance remains uneven across languages. Process reward models (PRMs) provide step-level feedback for improving reasoning, but a fixed PRM may become increasingly misaligned with the trajector",
+      "url": "https://arxiv.org/abs/2611.25446",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a79d19943a51d3b6e8df",
+      "title": "PILAPS: A Bilingual Benchmark for Evaluating Pragmatic Inference across Phenomena and Settings",
+      "summary": "arXiv:2611.25459v1 Announce Type: new Abstract: Recent work reports strong pragmatic performance by large language models (LLMs) in English, yet whether this performance generalises across languages and evaluation settings remains unclear. This question is increasingly important as LLMs are deployed across languages, cultures, and convers",
+      "url": "https://arxiv.org/abs/2611.25459",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5767b845d2f3c3999a1c",
+      "title": "DRVEXO-4B-Unified: Design and Evaluation of a Modular Speech-Vision System",
+      "summary": "arXiv:2611.25521v1 Announce Type: new Abstract: We present DRVEXO-4B-Unified, a modular multimodal assistant built around a 4B language backbone. A self-contained checkpoint combines text, image, and speech inputs with reference-conditioned speech output and structured interaction. A temporal residual connector adapts acoustic sequences t",
+      "url": "https://arxiv.org/abs/2611.25521",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "127f2cd32a49889ee1b0",
+      "title": "MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control",
+      "summary": "arXiv:2611.25526v1 Announce Type: new Abstract: Mobile agents on personal smartphones can affect private data, payments, settings, and the foreground screen. We present MATE (Mobile Agent Trustworthy Execution), an execution-layer system that controls the boundary between agent action proposals and device effects without modifying the und",
+      "url": "https://arxiv.org/abs/2611.25526",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "7d1dccea62a39f01faf7",
+      "title": "The Coverage Selection Gap: Ranking, Not Generation, Limits LLM Rubric Construction",
+      "summary": "arXiv:2611.25557v1 Announce Type: new Abstract: Task-specific rubrics are increasingly used to evaluate open-ended language-model outputs, yet constructing comprehensive evaluation criteria from complex source documents remains challenging. We study automatic rubric construction in professional mergers and acquisitions (M&A) due diligence",
+      "url": "https://arxiv.org/abs/2611.25557",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "7676369af2a89c4bd2eb",
+      "title": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+      "summary": "arXiv:2611.25582v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) is a well-established paradigm for augmenting large language models (LLMs) with information retrieved from external corpora. However, developing effective RAG systems requires substantial engineering effort and iterative experimentation, as effective desi",
+      "url": "https://arxiv.org/abs/2611.25582",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "efa232c5f7b494b34b65",
+      "title": "Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges",
+      "summary": "arXiv:2611.25588v1 Announce Type: new Abstract: Recent benchmark evaluations increasingly rely on Large Language Models (LLMs) as automatic judges. This paradigm assumes LLMs evaluate based on the rubric's semantic meaning rather than its numeric scale. We question this assumption by introducing semantic faithfulness: the principle that s",
+      "url": "https://arxiv.org/abs/2611.25588",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "09f586ab97bd522e2b0a",
+      "title": "TRAC: Efficient Diffusion Language Models for Machine Translation via Length-Aware Decoding",
+      "summary": "arXiv:2611.25643v1 Announce Type: new Abstract: Machine translation with large language models requires both high translation quality and low generation latency. Accelerating translation while preserving quality is therefore essential for practical deployment. Diffusion large language models (dLLMs) can generate tokens at arbitrary target",
+      "url": "https://arxiv.org/abs/2611.25643",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a3b67816fd33d9bcaa04",
+      "title": "ColorRef: Calibrating Verbal Feedback for Color Revision",
+      "summary": "arXiv:2611.25653v1 Announce Type: new Abstract: People rarely specify an exact color when asking someone to revise a design: they might say \\textit{a little darker} or \\textit{more blue} after seeing a proposal. A language-model assistant must then infer not only which way to change the color, but how far. We study this distinction with \\",
+      "url": "https://arxiv.org/abs/2611.25653",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a75e34b8923ebf978e3a",
+      "title": "FoodReact-AR: Learning Audience Reactions that Zero-Shot LLMs Miss in Arabic Food-Insecurity Discourse",
+      "summary": "arXiv:2611.25682v1 Announce Type: new Abstract: Facebook reactions record how an audience received a post, a signal absent from the post's text. We treat the six differentiated reactions on 74,241 Arabic food-insecurity posts from public Facebook pages (2020-2024) as compositions, apply a centered log-ratio transformation, and cluster the",
+      "url": "https://arxiv.org/abs/2611.25682",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "ec5f3e4ae161cb6a0d49",
+      "title": "From Geographic Memory to Spatial Generalization in Large Language Models",
+      "summary": "arXiv:2611.25703v1 Announce Type: new Abstract: Large language models (LLMs) can associate places with geographic descriptions, but recovering an observed association does not establish an ability to generalize across geographic space. We distinguish geospatial memory, the recovery of location--description associations observed during tra",
+      "url": "https://arxiv.org/abs/2611.25703",
+      "source": "arXiv NLP",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f4cb06ce1d51cc690aa2",
+      "title": "STARK: Moving towards Personalized Agents That Truly Learn and Remember",
+      "summary": "arXiv:2611.25705v1 Announce Type: new Abstract: Long-term memory is essential for personalized agentic systems that interact with users over long time periods, yet current architectures only capture what happened while leaving the reasoning of why it happened to be derived later by underlying LLMs.%, and silo knowledge within individual u",
+      "url": "https://arxiv.org/abs/2611.25705",
+      "source": "arXiv NLP",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "59681bb25f964a124833",
+      "title": "VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin",
+      "summary": "arXiv:2611.25717v1 Announce Type: new Abstract: In recent years, GPUs have incorporated increasingly specialized support for low-precision computation, from Hopper's FP8 to Blackwell's FP4 Tensor Cores. Precision formats have evolved alongside this hardware, from MXFP4 and NVFP4 on Blackwell to E2M1 FP4 with direct UE5M3 block scaling on ",
+      "url": "https://arxiv.org/abs/2611.25717",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "42cbabab24a9f49eb5f2",
+      "title": "Verification Behavior Across Five Qwen2.5-Instruct Checkpoints",
+      "summary": "arXiv:2611.25745v1 Announce Type: new Abstract: We evaluate five Qwen2.5-Instruct checkpoints (0.5B to 32B) under four prompting conditions using three fixed tasks per information condition and five generations per task. Two AI raters scored 600 trajectories. Under the coordinated instruction, both raters recorded strict declarations of i",
+      "url": "https://arxiv.org/abs/2611.25745",
+      "source": "arXiv NLP",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "2811d5d7284ac0992429",
+      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+      "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static profile, leaving realized state transitions unused as an expl",
+      "url": "https://arxiv.org/abs/2611.24999",
+      "source": "arXiv ML",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "c102e0e70e6812a56d9a",
+      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+      "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive. We show that a first-order directional derivative of task A",
+      "url": "https://arxiv.org/abs/2611.25000",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "bad92ad73eeb5eaf92f1",
+      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed sparsity coefficient whose mapping to density is unknown and shi",
+      "url": "https://arxiv.org/abs/2611.25001",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f5ece5166f702522df10",
+      "title": "A Model of Diverse Sampling from Language Models",
+      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encod",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "8284e7b3241721c4b0c2",
+      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+      "summary": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities and develop corresponding defense strategie",
+      "url": "https://arxiv.org/abs/2611.25004",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "c43c7baee570166d5666",
+      "title": "Near-Quadratic Sample Compression for All VC Classes",
+      "summary": "arXiv:2611.25011v1 Announce Type: new Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only",
+      "url": "https://arxiv.org/abs/2611.25011",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "9bd411f4856ddec6c422",
+      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+      "summary": "arXiv:2611.25100v1 Announce Type: new Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g., expert intuitions or documentation, rather than as the explicit probability distri",
+      "url": "https://arxiv.org/abs/2611.25100",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d6aae032ad2f2498103a",
+      "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+      "summary": "arXiv:2611.25108v1 Announce Type: new Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse envir",
+      "url": "https://arxiv.org/abs/2611.25108",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f2069aea21f62d9b3608",
+      "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
+      "summary": "arXiv:2611.25114v1 Announce Type: new Abstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R. This article describes the design of the package and a typical workflow, in which DISCO is",
+      "url": "https://arxiv.org/abs/2611.25114",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "2f4825de1af58eb099e2",
+      "title": "Auditing Learned Dynamics in Weather Models",
+      "summary": "arXiv:2611.25119v1 Announce Type: new Abstract: Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physica",
+      "url": "https://arxiv.org/abs/2611.25119",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "ab19dfcb038e45a5c176",
+      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
+      "summary": "arXiv:2611.25130v1 Announce Type: new Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embed",
+      "url": "https://arxiv.org/abs/2611.25130",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a9a6c2b7492b434ebf8c",
+      "title": "Rate-distortion Assessment for Hierarchical Content Summarization",
+      "summary": "arXiv:2611.25151v1 Announce Type: new Abstract: Powerful generative models including large language and vision models have demonstrated success across a wide range of content generation, editing and manipulation tasks via end-to-end prompt-based generation. However, current assessment of the quality of generative content manipulation rema",
+      "url": "https://arxiv.org/abs/2611.25151",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "1fe3f40ac638e263fb63",
+      "title": "Bayesian $\\kappa$-Explorer for Minimax Model Estimation in MDPs",
+      "summary": "arXiv:2611.25160v1 Announce Type: new Abstract: We study active exploration for minimax transition estimation in unknown Markov decision processes (MDPs). Frequentist $\\kappa$-Explorer~\\citep{gu2026kappa} addresses this problem through a parameterized family of exploration objectives, but requires confidence-bound constructions and joint ",
+      "url": "https://arxiv.org/abs/2611.25160",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "62aa334564b4238e60d0",
+      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+      "summary": "arXiv:2611.25165v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) are effective tools for mechanistic interpretability by decomposing neural representations into sparse and interpretable features. However, a single sparse representation in traditional SAEs is responsible for both reconstruction fidelity and interpretability, whic",
+      "url": "https://arxiv.org/abs/2611.25165",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "0aa157e624144d836920",
+      "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+      "summary": "arXiv:2611.25167v1 Announce Type: new Abstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose ",
+      "url": "https://arxiv.org/abs/2611.25167",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "905aa279ae03e19f56b5",
+      "title": "PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks",
+      "summary": "arXiv:2611.25185v1 Announce Type: new Abstract: Physics-informed neural network (PINN) optimization depends on global properties of the underlying PDE and how the physics residual evolves across the domain. Standard optimizers such as Adam use fixed gradient-based statistics, while learned PINN optimizers replace the fixed rule with a lea",
+      "url": "https://arxiv.org/abs/2611.25185",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "45f02fa0b57a1ed6f704",
+      "title": "{\\phi}TD: Distributional Reinforcement Learning using Characteristic Functions",
+      "summary": "arXiv:2611.25208v1 Announce Type: new Abstract: Distributional Reinforcement Learning methods aim to learn the entire distribution of returns, yet current algorithmic approaches are limited to a narrow class of distributions. We propose $\\varphi$TD, a method to overcome this limitation by computing the loss in the frequency domain. We dem",
+      "url": "https://arxiv.org/abs/2611.25208",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "bbbd5dc4f59caab27f5a",
+      "title": "Learning to Read Events for Exact State Tracking with Frozen Language Models",
+      "summary": "arXiv:2611.25211v1 Announce Type: new Abstract: Long event streams require identifying each change and applying the changes in order. We train a selector on a frozen language model to read each transition. With API-only access, we ask the model to list the transitions. An external integer register composes them in order. A confidence rule",
+      "url": "https://arxiv.org/abs/2611.25211",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a922c12b8689a6b25a51",
+      "title": "Some Memories Must Fade: Persistence and Decay of User Memories in Model Parameters",
+      "summary": "arXiv:2611.25235v1 Announce Type: new Abstract: Parametric memory allows Large Language Models to internalize knowledge directly into their weights, offering a potentially powerful alternative to retrieval-based memory (RAG). However, existing approaches to parametric memory are difficult to deploy as they largely mirror the Continual Lea",
+      "url": "https://arxiv.org/abs/2611.25235",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "2b317a62d713570dbfbe",
+      "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+      "summary": "arXiv:2611.25252v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must wo",
+      "url": "https://arxiv.org/abs/2611.25252",
+      "source": "arXiv ML",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "38467c8e9ee715f1d675",
+      "title": "Process-Knowledge-Guided Latent Diffusion for Generative Design of Porous Architectures: A Case Study in Aerosol Jet Printing",
+      "summary": "arXiv:2611.25264v1 Announce Type: new Abstract: Printed porous layouts interleave functional material with open channels, and the layout that uses the material best depends on how the process settings shape the deposit. Generative models propose layouts quickly, but a generator that does not receive the process setting samples from the sa",
+      "url": "https://arxiv.org/abs/2611.25264",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "ba3e3595ac42cc2e852f",
+      "title": "Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection",
+      "summary": "arXiv:2611.25271v1 Announce Type: new Abstract: Adversarial example detectors often fail when attackers explicitly attempt to bypass them. We propose a dual-model approach that keeps the original classifier fixed and trains a separate verifier to assess its predictions. During training, we identify patterns of internal neural network acti",
+      "url": "https://arxiv.org/abs/2611.25271",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "3b84b8c18b6b566fa9b8",
+      "title": "Scone: Symmetry-aware Neural Combinatorial Optimization for Graph Coloring",
+      "summary": "arXiv:2611.25273v1 Announce Type: new Abstract: Graph coloring, which entails assigning colors to nodes such that no adjacent nodes have the same color, is a fundamental combinatorial optimization problem. In general, however, finding a node coloring with no monochromatic edges given a fixed palette is NP-hard. This motivates learning-bas",
+      "url": "https://arxiv.org/abs/2611.25273",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "1bfd03eb7bdb8cd11b9d",
+      "title": "DS3M: Deep structured state space models for nonlinear system identification on modern hardware",
+      "summary": "arXiv:2611.25274v1 Announce Type: new Abstract: Neural state-space identification learns dynamical models from measured inputs and outputs. SUBNET combines this task with an encoder that estimates initial states from short measurement histories. Its continuous-time version requires many successive neural-network evaluations during numeric",
+      "url": "https://arxiv.org/abs/2611.25274",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "89213af280a4edaee281",
+      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+      "summary": "arXiv:2611.25288v1 Announce Type: new Abstract: Modern recommendation systems face substantial memory pressure, largely from the sparse embedding layer that maps high-cardinality categorical features into dense vectors. In-training embedding pruning (ITEP) removes less important embedding rows during training, yielding end-to-end memory s",
+      "url": "https://arxiv.org/abs/2611.25288",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "1b863dc2c8f93815e832",
+      "title": "Cross-Question Reliable Reinforcement Learning",
+      "summary": "arXiv:2611.25292v1 Announce Type: new Abstract: AI systems operating near the limits of their capabilities can maximize utility while minimizing the risk of error by abstaining or deferring questions they are not confident about to a human or a stronger model. Recently, large language models (LLMs) have been post-trained to estimate confi",
+      "url": "https://arxiv.org/abs/2611.25292",
+      "source": "arXiv ML",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "88753bfe3461e9727ad8",
+      "title": "Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers",
+      "summary": "arXiv:2611.25300v1 Announce Type: new Abstract: Neural surrogates predict the aerodynamic forces on a car in seconds, compared with hours for a CFD simulation, but training them requires thousands of CFD simulations of different car designs, which car manufacturers keep proprietary. Federated learning allows several manufacturers to train",
+      "url": "https://arxiv.org/abs/2611.25300",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "8fbc4fdf743bfc3412f5",
+      "title": "SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning",
+      "summary": "arXiv:2611.25301v1 Announce Type: new Abstract: Split federated learning (SFL) distributes neural networks across clients and a server, coupling class-specific knowledge across their representations. This coupling complicates split federated unlearning (SFU), where class-wise forgetting must remove target knowledge while preserving retain",
+      "url": "https://arxiv.org/abs/2611.25301",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d2f1cd269914998d0e6a",
+      "title": "Prescribed Bayesian Efficiency under Lifetime Adjustment Costs",
+      "summary": "arXiv:2611.25311v1 Announce Type: new Abstract: A Bayesian learner may retain an issued action while updating its posterior, trading predictive loss against adjustment charges. We assume population curvature, boundary control, an order-$1/n$ lower bound on expected posterior uncertainty about the optimal action, and an observable unbiased",
+      "url": "https://arxiv.org/abs/2611.25311",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "177157bb3b8001fcafbb",
+      "title": "Improving Imitation Policies for Multi-Phase Tasks through Residual Learning Allocation",
+      "summary": "arXiv:2611.25320v1 Announce Type: new Abstract: Residual reinforcement learning corrects an imitation-trained base policy using a limited budget of environment interaction. In a task with several phases, this budget must be divided among the phases, and the phase in which the base policy fails is not necessarily the phase in which a corre",
+      "url": "https://arxiv.org/abs/2611.25320",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "1db0ea9ff859d4c4597b",
+      "title": "Now You See Me Now You Don't: A Framework To Detect and Reduce Proxy Capacity",
+      "summary": "arXiv:2611.25327v1 Announce Type: new Abstract: In regulated domains such as lending, the two most salient fairness concepts are disparate impact and disparate treatment: disparate impact is generally defined by differential rates of adverse outcomes between demographic groups, while disparate treatment is generally defined by the use of ",
+      "url": "https://arxiv.org/abs/2611.25327",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "c9417d31db3b9d2bfabe",
+      "title": "Class-Conditional Conformal Triage for ICAO Face-Image Compliance under Class Imbalance",
+      "summary": "arXiv:2611.25342v1 Announce Type: new Abstract: Automated ICAO/ISO face-image compliance analysers provide criterion-level pass/fail decisions, yet these verdicts do not quantify uncertainty when deciding whether to accept, reject, or retake a photograph. We investigate conformal prediction as a triage layer for BioGaze, evaluating 14 com",
+      "url": "https://arxiv.org/abs/2611.25342",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "cbe8db07a07ea10009bc",
+      "title": "Drifting, Discriminating, and Directioning for Action Coordination in Higher-dimensional Action Space",
+      "summary": "arXiv:2611.25385v1 Announce Type: new Abstract: This paper proposes a lightweight policy model to mitigate the difficulty of handling higher-dimensional action spaces in reinforcement learning (RL), alongside an algorithm to effectively train it. To address this, we focus on drifting models, which can implicitly represent complex distribu",
+      "url": "https://arxiv.org/abs/2611.25385",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "6e2c30683b46ae44f864",
+      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "summary": "arXiv:2611.25387v1 Announce Type: new Abstract: Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this ve",
+      "url": "https://arxiv.org/abs/2611.25387",
+      "source": "arXiv ML",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "956d53ee916209a14b59",
+      "title": "Protein Functional Semantic Alignment via Representation Rectification",
+      "summary": "arXiv:2611.25396v1 Announce Type: new Abstract: Protein language models (PLMs) are commonly pretrained with likelihood-based objectives such as masked language modeling or denoising. These objectives capture sequence-level regularities, but can produce representations in which functional signals are entangled with non-functional variation",
+      "url": "https://arxiv.org/abs/2611.25396",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5597d4fc8cda207aa888",
+      "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+      "summary": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoning alone does not make a laboratory autonomous: autonomy in an SDL is achievable only when the agent can be trusted to a",
+      "url": "https://arxiv.org/abs/2611.25043",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f151cfdf6e9fc323a91e",
+      "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+      "summary": "arXiv:2611.25070v1 Announce Type: new Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions. The framework employs an advanced AI agentic approach to interpret human instructions, providing knowledge extraction, asset status su",
+      "url": "https://arxiv.org/abs/2611.25070",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "2b004a1d804de81e4a8a",
+      "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+      "summary": "arXiv:2611.25087v1 Announce Type: new Abstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS). For Market Split, our randomized algorithm searches across multiple lattice bases, dividing computation between enumer",
+      "url": "https://arxiv.org/abs/2611.25087",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5bd812d1ea646250dadd",
+      "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
+      "summary": "arXiv:2611.25088v1 Announce Type: new Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands modifying multi-file repositories to reproduce results, debug training runs, integrate datas",
+      "url": "https://arxiv.org/abs/2611.25088",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "527d63fc8a52047f2b3f",
+      "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+      "summary": "arXiv:2611.25109v1 Announce Type: new Abstract: Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial attachment, has been linked to multiple documented fatalities. However, public benchmarks for measuring whether LLMs rei",
+      "url": "https://arxiv.org/abs/2611.25109",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "dd9d080710ad5a41c5b5",
+      "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
+      "summary": "arXiv:2611.25111v1 Announce Type: new Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines. We introduce DSFlow, a LangGraph-based neuro-symbolic d",
+      "url": "https://arxiv.org/abs/2611.25111",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d56a7ae412a776530ca7",
+      "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
+      "summary": "arXiv:2611.25135v1 Announce Type: new Abstract: Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and LLM judges work everywhere, but their scores are not probabilities. We study RLCDR (Reinforcement Learning from Calibrat",
+      "url": "https://arxiv.org/abs/2611.25135",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "528f4d1c82bd22be46e5",
+      "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+      "summary": "arXiv:2611.25146v1 Announce Type: new Abstract: Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than merely retrieve web information. Yet evaluating these outcomes on the live web is challenging, as a single request may ad",
+      "url": "https://arxiv.org/abs/2611.25146",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "85e593c2e5bbc81b1049",
+      "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
+      "summary": "arXiv:2611.25171v1 Announce Type: new Abstract: Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting. A language model can verify a proof or vote across samples, but a foreca",
+      "url": "https://arxiv.org/abs/2611.25171",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d7db2ba0559ff33cf054",
+      "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
+      "summary": "arXiv:2611.25184v1 Announce Type: new Abstract: Empirical finance research often reuses natural experiments to study other outcomes, raising concerns about multiple testing and publication bias. We use AI agents to run a multiverse analysis of 324 papers that reuse 13 natural experiments. The agents rebuild the data, reproduce each paper'",
+      "url": "https://arxiv.org/abs/2611.25184",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "18b6ec3bfe3653cd04da",
+      "title": "When AI Analysts Disagree: Agentic Multiverse Analysis and the Robustness of Empirical Research",
+      "summary": "arXiv:2611.25198v1 Announce Type: new Abstract: Every empirical analysis on observational data rests on dozens of defensible analytical choices (\"forks\") that its readers cannot see. We develop an agentic multiverse analysis (AMA) framework that makes a conclusion's sensitivity to those choices visible at scale, and we position it as a de",
+      "url": "https://arxiv.org/abs/2611.25198",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d76f183a671bea4f6f55",
+      "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
+      "summary": "arXiv:2611.25214v1 Announce Type: new Abstract: Scientific discovery requires revisiting the hypotheses in light of new evidence and identifying promising directions beyond those already explored. However, research agents often make claims that are not supported by their observations, explore a narrow hypothesis space, and retain beliefs ",
+      "url": "https://arxiv.org/abs/2611.25214",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "6bda1c3b9beaf2359a86",
+      "title": "MKA: Evaluating Multimodal Knowledge Agents on end-to-end professional tasks",
+      "summary": "arXiv:2611.25228v1 Announce Type: new Abstract: We introduce the Multimodal Knowledge Agent (MKA) benchmark, which measures how well autonomous agents perform end-to-end professional knowledge work that depends on visual understanding. Each task requires an agent to extract and combine information from multiple visually dense files, such ",
+      "url": "https://arxiv.org/abs/2611.25228",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "d51fefadf85b2078b3ee",
+      "title": "A Neurosymbolic Multimodal Framework for 30-Day Diabetic Readmission Prediction: Integrating Structured EHR Data, Dense Clinical Embeddings, and Knowledge-Grounded Symbolic Extraction",
+      "summary": "arXiv:2611.25236v1 Announce Type: new Abstract: Unplanned 30-day readmissions among patients with diabetes mellitus impose a substantial clinical and economic burden, yet most predictive models use only structured electronic health record (EHR) data and ignore free-text clinical notes, which often contain code-mixed Hindi-English (Hinglis",
+      "url": "https://arxiv.org/abs/2611.25236",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f7f35076ce4ca3e0af6c",
+      "title": "MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding",
+      "summary": "arXiv:2611.25282v1 Announce Type: new Abstract: Point-image alignment learns useful object representations, but different local feature patterns can produce the same pooled descriptor and receive the same alignment signal. We introduce MS-Point, a cross-modal pretraining framework that directly supervises intermediate point features and t",
+      "url": "https://arxiv.org/abs/2611.25282",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f4525f014eaba5306181",
+      "title": "Pandora's Toolbox Or Why Agent Safety Cannot Be Verified",
+      "summary": "arXiv:2611.25325v1 Announce Type: new Abstract: Present artificial intelligence agents are constructed by means of a coupling between a fixed language model with a general computing device. We show that this coupling makes safety undecidable. In particular, we show that given some dangerous program, no algorithm can predict whether an age",
+      "url": "https://arxiv.org/abs/2611.25325",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "842ad620ab89df74f8e4",
+      "title": "Pro$^2$ Agent: Scientific Problem Probing for Autonomous AI R&D",
+      "summary": "arXiv:2611.25357v1 Announce Type: new Abstract: Large language model (LLM) agents can now autonomously conduct AI research by writing code and running experiments. They typically do so by iteratively optimizing a codebase, while ignoring the problem structure behind the task. This formulation is effective on simpler tasks, but on difficul",
+      "url": "https://arxiv.org/abs/2611.25357",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "b85c9d5d35c5c0485c8b",
+      "title": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
+      "summary": "arXiv:2611.25360v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used not only to power AI agents but also to build them. While many benchmarks assess the quality of LLM- powered agents, few ascertain how good LLMs are at building them. To this end, we introduce AppSci-Bench, where we construct a setting akin ",
+      "url": "https://arxiv.org/abs/2611.25360",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "7bc32fab32d9d06f3ac1",
+      "title": "Stop Going in Circles:Loop-Triggered Routing for System 1 Decision Agents",
+      "summary": "arXiv:2611.25363v1 Announce Type: new Abstract: System 1 decision models (represented by Jev) provide fast, low-cost action selection, but existing agent integrations do not reliably translate these local advantages into task completion. At certain points during execution, an agent may repeatedly select the same actions without making pro",
+      "url": "https://arxiv.org/abs/2611.25363",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f9276d621b8c8e7dc4a3",
+      "title": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
+      "summary": "arXiv:2611.25380v1 Announce Type: new Abstract: Domain specialization of LLM agents is usually framed as a weight-update problem: collect trajectories, run reinforcement learning (RL) or supervised fine-tuning (SFT), and deploy a new checkpoint. We study a complementary axis: evolving the \\textbf{agent harness}---the system prompt, tool s",
+      "url": "https://arxiv.org/abs/2611.25380",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "6c2ade552d12323024c4",
+      "title": "Falsifiable Compositional Reasoning in Time Series Forecasting",
+      "summary": "arXiv:2611.25388v1 Announce Type: new Abstract: Time series foundation models as well as the language-guided analytical agents achieve strong accuracy on standard chronological benchmarks. However, models that rank highest on historical validation splits often degrade across non-stationary regime transitions. We hypothesise that this gap ",
+      "url": "https://arxiv.org/abs/2611.25388",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "c2ab5605a3c2fb4ea966",
+      "title": "The Coevolution and Coexistence of Humans and AI",
+      "summary": "arXiv:2611.25393v1 Announce Type: new Abstract: Artificial intelligence (AI) systems replicate through deployment, vary through training, and compete for computational resources. These processes create the conditions for natural selection and raise a fundamental question: will AI evolve to benefit the humans on whom it depends? To investi",
+      "url": "https://arxiv.org/abs/2611.25393",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "622b59b5506eb2ebbc10",
+      "title": "Toward a Science of AI Agent Societies",
+      "summary": "arXiv:2611.25404v1 Announce Type: new Abstract: AI agents are rapidly evolving from isolated personal assistants into networked actors that interact with one another at scale. We envision the emergence of AI agent societies, with their own social and economic dynamics, as a new research frontier. We argue that AI agent societies should be",
+      "url": "https://arxiv.org/abs/2611.25404",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "571dbfe2a7318eb9ddea",
+      "title": "LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models",
+      "summary": "arXiv:2611.25460v1 Announce Type: new Abstract: Training Vision-Language-Action (VLA) models and World-Action Models (WAMs) is computationally expensive, while their heterogeneous architectures and fragmented training stacks make system optimizations difficult to reuse across models. To address these challenges, we present LoongForge-Embo",
+      "url": "https://arxiv.org/abs/2611.25460",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "940b89706c9fd1dcf516",
+      "title": "When Should a Voice Agent Speak? End-of-Turn Detection in Turkish",
+      "summary": "arXiv:2611.25489v1 Announce Type: new Abstract: A voice agent that waits for a fixed silence before replying either interrupts users who pause mid-utterance or responds late to users who have finished. This study examines the decision at the onset of silence, using turn ends and turn-internal pauses extracted from the Real-TurnTurk corpus",
+      "url": "https://arxiv.org/abs/2611.25489",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "006a4488e98d6fb7a4ba",
+      "title": "Why Do LLMs Help with Scientific Misconduct Requests and What to Do About It?: Increasing the Trustworthiness of AI for Science",
+      "summary": "arXiv:2611.25492v1 Announce Type: new Abstract: Large language models (LLMs) support scientific research, but some of that assistance can also undermine research integrity. Existing safety evaluations in science often measure whether models refuse misconduct requests, but rarely explain whether they even recognize the problem or why they ",
+      "url": "https://arxiv.org/abs/2611.25492",
+      "source": "arXiv AI",
+      "category": "大模型",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "77b808644f96d92f3e9c",
+      "title": "Coordinated Use of Large Language Models in Academic Research",
+      "summary": "arXiv:2611.25502v1 Announce Type: new Abstract: This study proposes a methodological framework for the coordinated use of multiple large language models in academic research. Its central argument is that involving more models does not in itself guarantee more reliable results; what matters is how cognitive and verification operations are ",
+      "url": "https://arxiv.org/abs/2611.25502",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "e056266448fce034ed2c",
+      "title": "Keystone: Judging Previews at Key Steps for Test-Time Search in Diffusion Models",
+      "summary": "arXiv:2611.25530v1 Announce Type: new Abstract: Text-to-image diffusion and flow models yield a preview, their clean-image estimate, at every denoising step. When they miscount, drop or misplace objects, test-time search is in a bind: its verifiers are reward models built for finished images, so judging early misreads blurry previews, and",
+      "url": "https://arxiv.org/abs/2611.25530",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "623b1bef73b8e57e59f1",
+      "title": "LM-based Personalized Travel Planner",
+      "summary": "arXiv:2611.25531v1 Announce Type: new Abstract: Effective travel planning requires handling multiple information sources, managing constraints, and tailoring recommendations to user preferences. While LLMs have introduced dynamic, context-aware decision-making, single-agent models often struggle with complex multi-step reasoning, constrai",
+      "url": "https://arxiv.org/abs/2611.25531",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "a0fbdc1fb4b3d86ab70d",
+      "title": "How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study",
+      "summary": "arXiv:2611.25534v1 Announce Type: new Abstract: Agent skills are documents in which experts write down procedural knowledge, and models increasingly maintain them by rewriting them without feedback. Such rewriting could adapt a skill to the model that uses it or erode the expert knowledge that makes it useful, yet how skills evolve under ",
+      "url": "https://arxiv.org/abs/2611.25534",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "1ad803f1db5486d80321",
+      "title": "COVERAGE-TRACE: Source-Side Counterfactual Tracing for Detecting Omissions in LLM Summaries",
+      "summary": "arXiv:2611.25539v1 Announce Type: new Abstract: Omissions are difficult to verify because missing information leaves no output span to inspect: a summary may be factually supported while still excluding a decision, qualification, quantity, or condition needed to preserve the source's meaning. We introduce COVERAGE-TRACE, a source-side cou",
+      "url": "https://arxiv.org/abs/2611.25539",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "55a133996a14a2ca04d6",
+      "title": "Efficient Multimodal Agents for Auditing 3D Worlds",
+      "summary": "arXiv:2611.25543v1 Announce Type: new Abstract: Multimodal agents can now build interactive 3D worlds and games, yet these worlds, like those built by people, often contain glitches such as floating objects, walls that can be walked through, or objects that change when no one is looking. An automatic auditor could check such worlds at sca",
+      "url": "https://arxiv.org/abs/2611.25543",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "73228d8e7aa6beafdb3f",
+      "title": "Diagnosis is not a policy: a state-transition audit of caoability-conditioned test-time inference",
+      "summary": "arXiv:2611.25566v1 Announce Type: new Abstract: Test-time actions can satisfy retrieval, state-realization, program-consistency, or rendering objectives without correcting an answer. Test-time Error Response and Realizability Audit (TERRA) is an evaluation/auditing protocol, not a new inference algorithm. It uses a unified decomposition o",
+      "url": "https://arxiv.org/abs/2611.25566",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f8f824b568719334a481",
+      "title": "AeroBelief: Budgeted First-Action Verification for Evidence-Guided Aerial Sensing",
+      "summary": "arXiv:2611.25568v1 Announce Type: new Abstract: Aerial sensing must combine uncertain overhead context with current observations while budgeting prediction, movement and image processing. AeroBelief uses the next executable action as the unit of verification against reference scores. It groups candidate views by first action, scans them w",
+      "url": "https://arxiv.org/abs/2611.25568",
+      "source": "arXiv AI",
+      "category": "研究论文",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "3445756a05ac912bfbbd",
+      "title": "DriftGuard: Online Memory-Drift Detection via Causal Attribution for LLM Agents",
+      "summary": "arXiv:2611.25583v1 Announce Type: new Abstract: Large language model (LLM) agents rely on persistent memory to plan tool calls and complete multi-step tasks, which exposes them to memory drift: an adversarial or misleading memory alters the execution path and final outcome. In this work, we investigate online memory-drift detection, which",
+      "url": "https://arxiv.org/abs/2611.25583",
+      "source": "arXiv AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "b208e8b7c7295106902f",
+      "title": "0.173.0-alpha.1",
+      "summary": "Release 0.173.0-alpha.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T02:54:54+00:00"
+    },
+    {
+      "id": "3f7f7cffebe4ba5935ad",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the floo",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-20T02:49:57+00:00"
+    },
+    {
+      "id": "8105848ad2ee2ce80fab",
+      "title": "Release v0.71.0-nightly.20261120.gd4cb1713f",
+      "summary": "What's Changed fix(core,cli): preserve literal $ characters during template placeholder replacement by @jesussamuel-byte in #30136 feat(cli): add /stats heatmap subcommand for daily token usage by @jvargassanchez-dot in #30135 fix(core): prevent GCLI_EXPAND_TARGET env collision in expandEnvVars by @villahernandez-coder in #30138 chore(rel",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261120.gd4cb1713f",
+      "source": "Gemini CLI Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T01:12:42+00:00"
+    },
+    {
+      "id": "1e02ab9c34ce90d4cc82",
+      "title": "0.171.0",
+      "summary": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added configurable undo and redo",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T00:47:14+00:00"
+    },
+    {
+      "id": "06863d94c187626f5c00",
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "summary": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T00:34:07+00:00"
+    },
+    {
+      "id": "1d80e465e65b9589fb74",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "summary": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T00:33:30+00:00"
+    },
+    {
+      "id": "39ef67dcebcbe731d115",
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-19T23:02:16+00:00"
+    },
+    {
+      "id": "655235a8f0a364326aa0",
+      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "summary": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-19T22:20:23+00:00"
+    },
+    {
+      "id": "2f6854a60f3bdf7510e4",
+      "title": "Run your whole selling business in AWS Quick",
+      "summary": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T22:16:22+00:00"
+    },
+    {
+      "id": "f3d370a5121afbf2b74a",
+      "title": "v2.1.329",
+      "summary": "What's changed Added a trust dialog warning that says where a folder's hooks are declared Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in managed settings fail to load Added this session's scheduled tasks, /loop wakeups, the goal and this conversation's forks to /tasks ; x stops one af",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+      "source": "Claude Code Releases",
+      "category": "AI Agent",
+      "published": "2026-11-19T22:14:41+00:00"
+    },
+    {
+      "id": "ff08a8aeb05677110e12",
+      "title": "0.171.0-alpha.13.1",
+      "summary": "Release 0.171.0-alpha.13.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.1",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-19T22:07:59+00:00"
+    },
+    {
+      "id": "735d1f9416d3ebe29eda",
+      "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "summary": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply ",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T21:28:18+00:00"
+    },
+    {
+      "id": "fcc41c907b856729e707",
+      "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+      "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiring decisions? Structured behavioral interviews offer a research-backed approach to this challenge. T",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-19T21:23:20+00:00"
+    },
+    {
+      "id": "b4928e127abfbfc275c3",
+      "title": "Release v0.70.0",
+      "summary": "What's Changed Changelog for v0.69.0-preview.0 by @gemini-cli-robot in #30222 Changelog for v0.68.0 by @gemini-cli-robot in #30224 chore(release): bump version to 0.70.0-nightly.20261110.g1603e9bab by @gemini-cli-robot in #30223 test(cli): remove redundant lowercase restart test in AdminSettingsChangedDialog by @luisfelipe-alt in #30221 f",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0",
+      "source": "Gemini CLI Releases",
+      "category": "AI Agent",
+      "published": "2026-11-19T21:08:05+00:00"
+    },
+    {
+      "id": "d5bfc90bbbb8845e4c64",
+      "title": "Release v0.71.0-preview.0",
+      "summary": "What's Changed Changelog for v0.70.0-preview.0 by @gemini-cli-robot in #30361 chore(release): bump version to 0.71.0-nightly.20261118.g615d6bc8c by @gemini-cli-robot in #30366 Changelog for v0.69.0 by @gemini-cli-robot in #30365 fix(core,cli): parse PowerShell commands asynchronously to prevent UI spinner freeze by @tadipavan in #30334 ch",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-preview.0",
+      "source": "Gemini CLI Releases",
+      "category": "AI Agent",
+      "published": "2026-11-19T20:48:23+00:00"
+    },
+    {
+      "id": "1df80ba4eb1bc7794fc5",
+      "title": "PostgreSQL 19 Released",
+      "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is th",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-19T20:43:57+00:00"
+    },
     {
       "id": "42a47f4c360b7d6e46ce",
       "title": "A game you cannot win unless you have a quantum computer",
@@ -112,9 +1201,27 @@
       "published": "2026-11-19T17:00:00+00:00"
     },
     {
+      "id": "3e35d01c88b452b0a7bb",
+      "title": "Chrome AI features wasting much bandwidth",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 128 # Comments: 49",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T16:54:25+00:00"
+    },
+    {
+      "id": "bd2c18ba46849ba1a978",
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 133 # Comments: 66",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T16:45:50+00:00"
+    },
+    {
       "id": "5661d98e657c1ecfd28b",
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 276 # Comments: 98",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 526 # Comments: 210",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -141,7 +1248,7 @@
     {
       "id": "e39600edda0e5accc0d5",
       "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 168 # Comments: 155",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 226 # Comments: 210",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -159,7 +1266,7 @@
     {
       "id": "68905d8de4636ed49e50",
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 155",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 102 # Comments: 158",
       "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1122,7 +2229,7 @@
     {
       "id": "f24ede8b2ec8caec6b60",
       "title": "AI will not make you rich (2025)",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 105 # Comments: 68",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 107 # Comments: 68",
       "url": "https://colossus.com/article/ai-will-not-make-you-rich",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1149,7 +2256,7 @@
     {
       "id": "e240b1886554663496b5",
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 108 # Comments: 81",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 117 # Comments: 89",
       "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1172,6 +2279,42 @@
       "source": "Gemini CLI Releases",
       "category": "AI Agent",
       "published": "2026-11-19T00:09:03+00:00"
+    },
+    {
+      "id": "a890a236270cc5e31862",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "17b7a2b39f098895a220",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "82fe289fe466dcc1d4f7",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "da30645137037f0052cd",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-19T00:00:00+00:00"
     },
     {
       "id": "8c4432adfe17d06c6aff",
@@ -1347,7 +2490,7 @@
     {
       "id": "6468382737345bd88a85",
       "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 136 # Comments: 78",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 146 # Comments: 79",
       "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1365,7 +2508,7 @@
     {
       "id": "f6f0576c6cc397f30abc",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 478 # Comments: 245",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 489 # Comments: 258",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1455,7 +2598,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 801 # Comments: 709",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 806 # Comments: 710",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2445,7 +3588,7 @@
     {
       "id": "d00fc92468416949ad6e",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 708 # Comments: 562",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 563",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2544,7 +3687,7 @@
     {
       "id": "4d189ef1f84f674b199d",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 322 # Comments: 455",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 325 # Comments: 459",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2715,7 +3858,7 @@
     {
       "id": "6ca6a1ab86c20b304388",
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 258",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 259",
       "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -5118,7 +6261,7 @@
     {
       "id": "91935a49528247b549bb",
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1285 # Comments: 672",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1285 # Comments: 673",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News AI",
       "category": "开源生态",
@@ -5163,7 +6306,7 @@
     {
       "id": "8f4b2632f43363d7fda4",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1114 # Comments: 650",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1114 # Comments: 651",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -5181,7 +6324,7 @@
     {
       "id": "60e5719ddad5001df4ba",
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 97",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 101 # Comments: 97",
       "url": "https://claude.com/resources/articles/projects-redesigned",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -12359,933 +13502,6 @@
       "source": "Google Research",
       "category": "AI Agent",
       "published": "2026-10-05T21:08:00+00:00"
-    },
-    {
-      "id": "bd1136d0fcfd6f1357de",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-03T22:56:48+00:00"
-    },
-    {
-      "id": "aacb8ca8a4a96bc0cfec",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "A video showing the September AI updates",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-10-02T15:00:00+00:00"
-    },
-    {
-      "id": "13a08db808bbe118af2c",
-      "title": "Toward provably private learning from federated data",
-      "summary": "Mobile Systems",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-10-02T14:57:41+00:00"
-    },
-    {
-      "id": "56c490db040147f1def4",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "category": "AI Agent",
-      "published": "2026-10-02T04:01:31+00:00"
-    },
-    {
-      "id": "b49099cde7e97e60f531",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-30T20:01:45+00:00"
-    },
-    {
-      "id": "08aa8115cb5d9c892099",
-      "title": "Introducing SynthID Bio",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-30T15:03:07+00:00"
-    },
-    {
-      "id": "74c2ff7e2707d1f61043",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-09-30T00:00:00+00:00"
-    },
-    {
-      "id": "b05df22ee898887491f1",
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-29T18:38:27+00:00"
-    },
-    {
-      "id": "afa8c33f8eb7996a3941",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "category": "AI Agent",
-      "published": "2026-09-29T13:07:00+00:00"
-    },
-    {
-      "id": "7ba7170e114ec367c0ae",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "ee4dc087c20018324226",
-      "title": "Hallo, Deutschland!",
-      "summary": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
-      "url": "https://mistral.ai/news/hallo-deutschland",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-09-28T15:57:59+00:00"
-    },
-    {
-      "id": "09d1d26fa19dd694ec40",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "category": "AI Agent",
-      "published": "2026-09-28T09:44:05+00:00"
-    },
-    {
-      "id": "eb916b5190e379580afd",
-      "title": "Welcome RL Environments to the hub",
-      "summary": "",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-09-28T00:00:00+00:00"
-    },
-    {
-      "id": "813cd9f4296a9ed0a6dd",
-      "title": "Automating coherent long-form video generation",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/coherent-long-form-video-generation",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-24T19:40:00+00:00"
-    },
-    {
-      "id": "6add3dd62456569f1942",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-24T16:20:39+00:00"
-    },
-    {
-      "id": "8772414765b134fe3b88",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "Google Beam promotional animation",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-23T18:00:00+00:00"
-    },
-    {
-      "id": "1043d9fe80283e6f409b",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-23T16:00:57+00:00"
-    },
-    {
-      "id": "721de6922a1a6b9fd6bd",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "summary": "",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-23T15:25:14+00:00"
-    },
-    {
-      "id": "8bc15d2d1c9f7dbc75de",
-      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-18T17:46:09+00:00"
-    },
-    {
-      "id": "2ad49dd9b65fe3aef9a7",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-18T14:00:00+00:00"
-    },
-    {
-      "id": "332bec2b752a921dc077",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Jane Wade and Sergio Hudson",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-18T13:00:00+00:00"
-    },
-    {
-      "id": "9a68e948c26f7b488b06",
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "summary": "Education Innovation",
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-17T20:45:00+00:00"
-    },
-    {
-      "id": "57bb3f72439b837e28ac",
-      "title": "Making global data easier to explore",
-      "summary": "UN System Data Commons Data webpage",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-17T20:00:00+00:00"
-    },
-    {
-      "id": "70a5d3bd151a623147cf",
-      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-      "summary": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
-      "url": "https://mistral.ai/news/mistral-x-mozilla",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "acfc7f548a899d3e8ea5",
-      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-15T20:00:00+00:00"
-    },
-    {
-      "id": "6aae488b1bb65e59bc91",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-15T17:05:57+00:00"
-    },
-    {
-      "id": "dfe2f7f06070ffbc6122",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "419a0d7bd8653188b6f4",
-      "title": "Building AI to accelerate science and improve lives",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "7a00acf92df0c96e9750",
-      "title": "AI for everyone in every language",
-      "summary": "Animation of several words in different languages slowly zooming past",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "64730bcdfc3a35229b48",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "id": "ff082bc32dcf39bfd278",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-14T19:00:00+00:00"
-    },
-    {
-      "id": "fd1baec08311b505543d",
-      "title": "DevFest is back",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-14T16:00:00+00:00"
-    },
-    {
-      "id": "08a3d9b2900ccf7dfe1f",
-      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-      "summary": "Machine Intelligence",
-      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-10T22:50:22+00:00"
-    },
-    {
-      "id": "338a77b082d6e9b86e32",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-10T16:00:00+00:00"
-    },
-    {
-      "id": "2947b34346514aae0973",
-      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-      "summary": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
-      "url": "https://mistral.ai/news/mistral-x-cloudera",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-09-10T10:42:55+00:00"
-    },
-    {
-      "id": "77adb66885449411a18b",
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-09-09T16:00:00+00:00"
-    },
-    {
-      "id": "56bfec926244076beb99",
-      "title": "Modernizing complex legacy code with AI agents.",
-      "summary": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-09-09T12:00:46+00:00"
-    },
-    {
-      "id": "825546b9e9e150a70467",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-08T14:00:15+00:00"
-    },
-    {
-      "id": "4d11ed62a144a3f4c2f6",
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "summary": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-09-08T12:00:22+00:00"
-    },
-    {
-      "id": "9864db7c0affa4555c47",
-      "title": "Transfer learning for genomic prediction in underrepresented populations",
-      "summary": "General Science",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-03T18:20:31+00:00"
-    },
-    {
-      "id": "7fd820e1b998b43eaf2e",
-      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "summary": "General Science",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "d5ea4bcadd66b1af0f56",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-03T15:02:08+00:00"
-    },
-    {
-      "id": "bf94848b24bf5829af64",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-02T16:24:24+00:00"
-    },
-    {
-      "id": "355be2cf6d2d139c093a",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-09-02T16:18:31+00:00"
-    },
-    {
-      "id": "9d08610d0aa41c2f4bf8",
-      "title": "Mapping global methane emissions from space with deep learning",
-      "summary": "Climate & Sustainability",
-      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-09-01T18:40:00+00:00"
-    },
-    {
-      "id": "6bf5b05134dd23a67198",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "source": "Google DeepMind",
-      "category": "AI Agent",
-      "published": "2026-09-01T17:08:51+00:00"
-    },
-    {
-      "id": "dea1017d6754b207c7bb",
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "summary": "Data Management",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-31T17:19:00+00:00"
-    },
-    {
-      "id": "c5b24f7b84897b1adcf8",
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "summary": "Earth AI",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-27T17:37:00+00:00"
-    },
-    {
-      "id": "90ba20dc32b53edf52ab",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-27T16:11:32+00:00"
-    },
-    {
-      "id": "f0dc85dcc6d3444f6482",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "summary": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-27T12:59:16+00:00"
-    },
-    {
-      "id": "05cc66113318e80dcc59",
-      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "summary": "Health & Bioscience",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-26T18:42:43+00:00"
-    },
-    {
-      "id": "737331cbffc8a092b5af",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-26T17:01:00+00:00"
-    },
-    {
-      "id": "b10425dbb6909dfa9611",
-      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-      "summary": "Human-Computer Interaction and Visualization",
-      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-25T19:10:59+00:00"
-    },
-    {
-      "id": "cb7928ba1a13a260a9b5",
-      "title": "Mistral x HUMAIN",
-      "summary": "",
-      "url": "https://mistral.ai/news/mistral-x-humain",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-08-24T16:02:41+00:00"
-    },
-    {
-      "id": "6307133702148d12f92a",
-      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-21T17:02:24+00:00"
-    },
-    {
-      "id": "76900827bd8bbfff398d",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-21T11:59:48+00:00"
-    },
-    {
-      "id": "e1b962a17419559b83c7",
-      "title": "How mobility gives language models a deeper understanding of place",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-21T10:54:00+00:00"
-    },
-    {
-      "id": "afd54bbe19c44fc2e616",
-      "title": "Agentic Search. More accurate and efficient results from your AI systems.",
-      "summary": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
-      "url": "https://mistral.ai/news/agentic-search",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-08-20T12:00:17+00:00"
-    },
-    {
-      "id": "f987f977374481b4c327",
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "summary": "General Science",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-17T10:34:00+00:00"
-    },
-    {
-      "id": "d8531b3bebbaf6641750",
-      "title": "Introducing Gemini 3.7 Flash",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-13T17:04:18+00:00"
-    },
-    {
-      "id": "c26c8d5a4e90c67829e9",
-      "title": "Putting sign language AI into users’ hands",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-12T14:01:59+00:00"
-    },
-    {
-      "id": "503d2ff076e3c25ffdc5",
-      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-12T09:51:00+00:00"
-    },
-    {
-      "id": "695b538e38b8d1904f3d",
-      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-      "summary": "Health & Bioscience",
-      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-08-11T17:04:00+00:00"
-    },
-    {
-      "id": "1007367946328b2be188",
-      "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
-      "summary": "Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.",
-      "url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-08-11T12:00:27+00:00"
-    },
-    {
-      "id": "ebc5821a44c45c7a5386",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summary": "",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-08-06T15:06:15+00:00"
-    },
-    {
-      "id": "a594752653c1015b8463",
-      "title": "Introducing Shieldstral.",
-      "summary": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
-      "url": "https://mistral.ai/news/shieldstral",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-08-04T12:00:26+00:00"
-    },
-    {
-      "id": "b718c754e1fc2a84522d",
-      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-      "summary": "General Science",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-07-30T20:36:36+00:00"
-    },
-    {
-      "id": "c8c2521853f8de9e5b68",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-07-30T15:00:59+00:00"
-    },
-    {
-      "id": "c469407231ee79071f88",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summary": "",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-07-29T16:02:10+00:00"
-    },
-    {
-      "id": "ed5180da4daad79748b0",
-      "title": "2026-07-28 RC",
-      "summary": "This release marks the release candidate (RC) 2026-07-28 revision of the Model Context Protocol. The specification is available in draft form . For a detailed overview of changes, see 2026-07-28 draft changelog . Note To users and implementers: this specification is not final. Changes may be introduced between the RC and the final release",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2026-07-28-RC",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2026-07-28T16:48:26+00:00"
-    },
-    {
-      "id": "57756f89cb81b4500ca0",
-      "title": "2026-07-28",
-      "summary": "This release marks the stable release of the 2026-07-28 revision of the Model Context Protocol. The specification is available on the official Model Context Protocol website . For a detailed overview of changes, see 2026-07-28 changelog .",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2026-07-28",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2026-07-28T16:47:49+00:00"
-    },
-    {
-      "id": "bba16244a7af23a2584c",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-07-28T13:21:37+00:00"
-    },
-    {
-      "id": "3cf71528e601f2c61764",
-      "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-      "summary": "General Science",
-      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-07-22T21:32:00+00:00"
-    },
-    {
-      "id": "e6d40de049c53b834cea",
-      "title": "Towards a quantum computer that learns from its errors",
-      "summary": "Machine Intelligence",
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-07-22T18:40:21+00:00"
-    },
-    {
-      "id": "e08c4d4e6d11f25f77a6",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-07-22T13:38:54+00:00"
-    },
-    {
-      "id": "5e431bbf920c7ba36bf7",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-07-21T15:16:30+00:00"
-    },
-    {
-      "id": "d469b3da0ae18fadcbdb",
-      "title": "Your Prompts and Skills need a system of record.",
-      "summary": "Studio provides a system of record for AI prompts and skills—versioned, owned, and traceable. Iterate fast, ship with control, and ensure consistent AI behavior.",
-      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-07-09T12:00:00+00:00"
-    },
-    {
-      "id": "cafc9d3c3da053e9739d",
-      "title": "Introducing Robostral Navigate",
-      "summary": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
-      "url": "https://mistral.ai/news/robostral-navigate",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-07-08T12:00:59+00:00"
-    },
-    {
-      "id": "93d04618369d3d6e8f63",
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "summary": "",
-      "url": "https://mistral.ai/news/leanstral-1-5",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-07-02T13:55:54+00:00"
-    },
-    {
-      "id": "af083992cffb60405634",
-      "title": "Bringing more control over your connectors",
-      "summary": "",
-      "url": "https://mistral.ai/news/more-control-over-connectors",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-06-24T12:00:30+00:00"
-    },
-    {
-      "id": "61adea8d905df4409e12",
-      "title": "Introducing Mistral OCR 4",
-      "summary": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
-      "url": "https://mistral.ai/news/ocr-4",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-06-23T12:00:48+00:00"
-    },
-    {
-      "id": "1fad6f064584a97547f1",
-      "title": "AI Now Summit 2026",
-      "summary": "Innovations for global enterprises solving the world’s hardest problems.",
-      "url": "https://mistral.ai/news/ai-now-summit-2026",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-28T12:00:20+00:00"
-    },
-    {
-      "id": "1252d697ae70b4d4b4b2",
-      "title": "Vibe gets to work.",
-      "summary": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
-      "url": "https://mistral.ai/news/vibe-agent",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-28T12:00:09+00:00"
-    },
-    {
-      "id": "bba0291239de90f8abc7",
-      "title": "Introducing Search Toolkit",
-      "summary": "Search Toolkit is a composable framework for building production search pipelines for AI applications.",
-      "url": "https://mistral.ai/news/search-toolkit",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-28T11:42:21+00:00"
-    },
-    {
-      "id": "09209a8775e5295ab645",
-      "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
-      "summary": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
-      "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-27T12:00:55+00:00"
-    },
-    {
-      "id": "daceb904431862424d65",
-      "title": "Physics AI research that’s shaping the industry.",
-      "summary": "Published breakthroughs pushing the state of the art.",
-      "url": "https://mistral.ai/news/physics-ai-research",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-27T12:00:05+00:00"
-    },
-    {
-      "id": "67fdc77c9137972f9d21",
-      "title": "Emmi joins Mistral to accelerate the AI-native industry",
-      "summary": "",
-      "url": "https://mistral.ai/news/accelerate-ai-native-industry",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-05-23T12:00:26+00:00"
-    },
-    {
-      "id": "7dce15731b62c6240c24",
-      "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
-      "summary": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-05-22T15:01:55+00:00"
-    },
-    {
-      "id": "5ab24e31c09e8ca18d5e",
-      "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
-      "summary": "Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.",
-      "url": "https://mistral.ai/news/connectors",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-05-22T14:48:28+00:00"
-    },
-    {
-      "id": "03bc92bbf2ccc6381696",
-      "title": "Workflows for work that runs the business",
-      "summary": "Workflows is now in public preview.",
-      "url": "https://mistral.ai/news/workflows",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-04-27T12:00:23+00:00"
-    },
-    {
-      "id": "71d32479e41a018a80f9",
-      "title": "Spaces: A CLI Built for Humans and Agents",
-      "summary": "",
-      "url": "https://mistral.ai/news/spaces",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-03-31T12:00:00+00:00"
-    },
-    {
-      "id": "6a35b94fbf5682872e16",
-      "title": "Speaking of Voxtral",
-      "summary": "Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.",
-      "url": "https://mistral.ai/news/voxtral-tts",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-03-23T16:00:00+00:00"
-    },
-    {
-      "id": "e838451111573da13f7a",
-      "title": "Introducing Forge",
-      "summary": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
-      "url": "https://mistral.ai/news/forge",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-03-17T16:00:00+00:00"
-    },
-    {
-      "id": "b071b3375367ea5044cf",
-      "title": "Introducing Mistral Small 4",
-      "summary": "",
-      "url": "https://mistral.ai/news/mistral-small-4",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-03-16T21:00:00+00:00"
-    },
-    {
-      "id": "31ea9f5bb6ea9b4566ea",
-      "title": "Mistral partners with NVIDIA to accelerate open frontier models",
-      "summary": "",
-      "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-03-16T20:00:00+00:00"
-    },
-    {
-      "id": "1714cec3bc161aafd6ea",
-      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
-      "summary": "",
-      "url": "https://mistral.ai/news/leanstral",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-03-16T16:00:00+00:00"
-    },
-    {
-      "id": "ddfed911014455db2be2",
-      "title": "2025-11-25",
-      "summary": "This release marks the stable release of the 2025-11-25 revision of the Model Context Protocol. The specification is available on the official Model Context Protocol website . For a detailed overview of changes, see 2025-11-25 changelog .",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2025-11-25",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-11-25T21:17:42+00:00"
-    },
-    {
-      "id": "5d0b7079d44c87fbd694",
-      "title": "2025-11-25-RC",
-      "summary": "This release marks the release candidate (RC) 2025-11-25 revision of the Model Context Protocol. The specification is available in draft form . For a detailed overview of changes, see 2025-11-25 draft changelog . Note To users and implementers: this specification is not final. Changes may be introduced between the RC and the final release",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2025-11-25-RC",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-11-15T06:06:55+00:00"
-    },
-    {
-      "id": "487a75aa89d5966c8e38",
-      "title": "2025-06-18",
-      "summary": "This release marks the initial 2025-06-18 revision of the Model Context Protocol. For a detailed overview of changes, see 2025-06-18 changelog . To users and implementors: note that SDKs will adopt this version at their own pace, and the prior version of the spec may remain in use for an undetermined amount of time. The spec describes how",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2025-06-18",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-06-18T20:09:59+00:00"
-    },
-    {
-      "id": "43121249c284310c5369",
-      "title": "2025-03-26",
-      "summary": "This release marks the initial 2025-03-26 revision of the Model Context Protocol. To users and implementors: note that SDKs will adopt this version at their own pace, and the prior version of the spec may remain in use for an undetermined amount of time. The spec describes how clients and servers perform version negotiation with one anoth",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2025-03-26",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-03-26T14:59:10+00:00"
-    },
-    {
-      "id": "45290e4ffdcfaa5099d4",
-      "title": "2024-11-05-final",
-      "summary": "This release marks the final 2024-11-05 revision of the Model Context Protocol, including all backwards compatible changes made since the initial 2024-11-05 release .",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2024-11-05-final",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-03-26T13:53:30+00:00"
-    },
-    {
-      "id": "c7380e2f00882090c081",
-      "title": "2024-11-05",
-      "summary": "This release marks the initial 2024-11-05 revision of the Model Context Protocol.",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2024-11-05",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2025-03-26T13:50:36+00:00"
-    },
-    {
-      "id": "0929e9ba83df7ad6a866",
-      "title": "2024-10-07",
-      "summary": "Final update to version 2024-10-07 of the spec.",
-      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases/tag/2024-10-07",
-      "source": "MCP Specification",
-      "category": "AI Agent",
-      "published": "2024-11-06T10:59:59+00:00"
     }
   ]
 }
