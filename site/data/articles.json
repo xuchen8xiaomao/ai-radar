@@ -1,8 +1,89 @@
 {
-  "updated_at": "2026-11-20T07:10:47.611303+00:00",
+  "updated_at": "2026-11-20T20:12:10.029711+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
+    {
+      "id": "9291232aee04814878f4",
+      "title": "rust-v0.173.0-alpha.2",
+      "summary": "Release 0.173.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T19:29:56+00:00"
+    },
+    {
+      "id": "0d8e213cc0d8372dce87",
+      "title": "Quoting Ravi Vakil",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then ",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-20T19:21:49+00:00"
+    },
+    {
+      "id": "b91e0d0a1a224c11a62d",
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "summary": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T18:24:06+00:00"
+    },
+    {
+      "id": "6691469f1dc34a795664",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "source": "MIT Technology Review",
+      "category": "行业应用",
+      "published": "2026-11-20T18:15:15+00:00"
+    },
+    {
+      "id": "0217300bae3fe7292fb5",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 125 # Comments: 68",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-20T16:59:27+00:00"
+    },
+    {
+      "id": "7220e54bdf8a93f9a841",
+      "title": "Quoting Levent Alpöge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural ",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-20T16:30:48+00:00"
+    },
+    {
+      "id": "0d485e0dfc8d69ca8363",
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 178 # Comments: 202",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-20T13:29:59+00:00"
+    },
+    {
+      "id": "3381c1b46b2b81fa0a77",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 547 # Comments: 292",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-20T10:01:41+00:00"
+    },
+    {
+      "id": "7ad44f990f0c53ef2e2a",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-20T10:00:00+00:00"
+    },
     {
       "id": "767233308c507a4fed5c",
       "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
@@ -1003,6 +1084,24 @@
       "published": "2026-11-20T00:33:30+00:00"
     },
     {
+      "id": "701a571706ec6c00de8b",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "id": "c1a2af93db54bfcf7c21",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
       "id": "39ef67dcebcbe731d115",
       "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
       "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with",
@@ -1138,6 +1237,15 @@
       "published": "2026-11-19T18:48:55+00:00"
     },
     {
+      "id": "c51551cd2d791f85c79f",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 112 # Comments: 235",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-19T18:47:16+00:00"
+    },
+    {
       "id": "5e0b61c055fc4741f180",
       "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
       "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your",
@@ -1203,7 +1311,7 @@
     {
       "id": "3e35d01c88b452b0a7bb",
       "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 128 # Comments: 49",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 131 # Comments: 51",
       "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1212,7 +1320,7 @@
     {
       "id": "bd2c18ba46849ba1a978",
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 133 # Comments: 66",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 142 # Comments: 80",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1221,7 +1329,7 @@
     {
       "id": "5661d98e657c1ecfd28b",
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 526 # Comments: 210",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 589 # Comments: 242",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1247,8 +1355,8 @@
     },
     {
       "id": "e39600edda0e5accc0d5",
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 226 # Comments: 210",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 265 # Comments: 245",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1266,7 +1374,7 @@
     {
       "id": "68905d8de4636ed49e50",
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 102 # Comments: 158",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 104 # Comments: 162",
       "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2229,7 +2337,7 @@
     {
       "id": "f24ede8b2ec8caec6b60",
       "title": "AI will not make you rich (2025)",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 107 # Comments: 68",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 70",
       "url": "https://colossus.com/article/ai-will-not-make-you-rich",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2256,7 +2364,7 @@
     {
       "id": "e240b1886554663496b5",
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 117 # Comments: 89",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 91",
       "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2490,7 +2598,7 @@
     {
       "id": "6468382737345bd88a85",
       "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 146 # Comments: 79",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 148 # Comments: 79",
       "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2508,7 +2616,7 @@
     {
       "id": "f6f0576c6cc397f30abc",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 489 # Comments: 258",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 495 # Comments: 261",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2598,7 +2706,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 806 # Comments: 710",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 812 # Comments: 711",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3588,7 +3696,7 @@
     {
       "id": "d00fc92468416949ad6e",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 563",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 564",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3687,7 +3795,7 @@
     {
       "id": "4d189ef1f84f674b199d",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 325 # Comments: 459",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 327 # Comments: 462",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -6261,7 +6369,7 @@
     {
       "id": "91935a49528247b549bb",
       "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1285 # Comments: 673",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1287 # Comments: 673",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Hacker News AI",
       "category": "开源生态",
@@ -6306,7 +6414,7 @@
     {
       "id": "8f4b2632f43363d7fda4",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1114 # Comments: 651",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1115 # Comments: 651",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13394,114 +13502,6 @@
       "source": "Google DeepMind",
       "category": "大模型",
       "published": "2026-10-13T16:01:58+00:00"
-    },
-    {
-      "id": "4e31b829ae6885914a65",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-13T16:01:52+00:00"
-    },
-    {
-      "id": "ed1be8ea5f53c7373a9c",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "TBD",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-10-13T16:00:00+00:00"
-    },
-    {
-      "id": "ca946f1238ba7f960eed",
-      "title": "Simulating student learning for better AI tutoring",
-      "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first",
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
-      "source": "Microsoft Research",
-      "category": "研究论文",
-      "published": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "id": "ffd2818196374b7e8d98",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-08T00:00:00+00:00"
-    },
-    {
-      "id": "5c27d8596f5d5debdcd5",
-      "title": "Does better work always mean better workers?",
-      "summary": "",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-10-07T20:19:57+00:00"
-    },
-    {
-      "id": "7fdb639a795018181a7e",
-      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framewo",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "source": "Microsoft Research",
-      "category": "AI Agent",
-      "published": "2026-10-07T16:00:00+00:00"
-    },
-    {
-      "id": "16b7810afb00bdc03cf9",
-      "title": "Introducing Falcon ASR",
-      "summary": "",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-07T13:21:03+00:00"
-    },
-    {
-      "id": "e04d1da693503b0f1282",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Overview of Playground",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "id": "2ee55c894d54d6ef378c",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-06T19:57:04+00:00"
-    },
-    {
-      "id": "d100e7052f5d6239d808",
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Earth AI",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-10-06T15:05:11+00:00"
-    },
-    {
-      "id": "6f131bbed5e7925d040e",
-      "title": "Introducing Mistral Large 4",
-      "summary": "",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-10-06T12:00:27+00:00"
-    },
-    {
-      "id": "93854539beed00dbac45",
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "summary": "Generative AI",
-      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
-      "source": "Google Research",
-      "category": "AI Agent",
-      "published": "2026-10-05T21:08:00+00:00"
     }
   ]
 }
