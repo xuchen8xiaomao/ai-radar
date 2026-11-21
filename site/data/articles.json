@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-11-21T07:02:13.653643+00:00",
+  "updated_at": "2026-11-21T19:12:04.532902+00:00",
   "source_count": 19,
-  "success_count": 16,
+  "success_count": 17,
   "articles": [
+    {
+      "id": "8497bc1e7a354a4d6e3e",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 138 # Comments: 43",
+      "url": "http://ricapar.net/ClawDOS",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-21T05:38:01+00:00"
+    },
     {
       "id": "2811d5d7284ac0992429",
       "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
@@ -455,12 +464,21 @@
     },
     {
       "id": "0217300bae3fe7292fb5",
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 125 # Comments: 68",
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 278 # Comments: 222",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "source": "Hacker News AI",
       "category": "AI 产品",
       "published": "2026-11-20T16:59:27+00:00"
+    },
+    {
+      "id": "eecdc918ec2546301844",
+      "title": "AI is giving everyone the same advice",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 109 # Comments: 44",
+      "url": "https://a90.com/experiments/same-advice",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-20T16:58:05+00:00"
     },
     {
       "id": "7220e54bdf8a93f9a841",
@@ -473,8 +491,8 @@
     },
     {
       "id": "0d485e0dfc8d69ca8363",
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 178 # Comments: 202",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 470 # Comments: 809",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -483,7 +501,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 547 # Comments: 292",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 663 # Comments: 351",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -497,6 +515,15 @@
       "source": "OpenAI News",
       "category": "大模型",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "id": "266efb82a5bf90577942",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 565 # Comments: 333",
+      "url": "https://signal.org/blog/protecting-your-privacy",
+      "source": "Hacker News AI",
+      "category": "AI Agent",
+      "published": "2026-11-20T09:42:16+00:00"
     },
     {
       "id": "767233308c507a4fed5c",
@@ -1129,6 +1156,15 @@
       "published": "2026-11-20T05:00:00+00:00"
     },
     {
+      "id": "f54713977487b6ec70c4",
+      "title": "llm-gemini 0.38.1",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "source": "Simon Willison",
+      "category": "大模型",
+      "published": "2026-11-20T03:01:57+00:00"
+    },
+    {
       "id": "b208e8b7c7295106902f",
       "title": "0.173.0-alpha.1",
       "summary": "Release 0.173.0-alpha.1",
@@ -1356,7 +1392,7 @@
     {
       "id": "c51551cd2d791f85c79f",
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 112 # Comments: 235",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 255",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1428,7 +1464,7 @@
     {
       "id": "3e35d01c88b452b0a7bb",
       "title": "Chrome AI features wasting much bandwidth",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 131 # Comments: 51",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 134 # Comments: 51",
       "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1437,7 +1473,7 @@
     {
       "id": "bd2c18ba46849ba1a978",
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 142 # Comments: 80",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 82",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1446,7 +1482,7 @@
     {
       "id": "5661d98e657c1ecfd28b",
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 589 # Comments: 242",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 614 # Comments: 249",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1473,7 +1509,7 @@
     {
       "id": "e39600edda0e5accc0d5",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 265 # Comments: 245",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1491,7 +1527,7 @@
     {
       "id": "68905d8de4636ed49e50",
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 104 # Comments: 162",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 105 # Comments: 164",
       "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2481,7 +2517,7 @@
     {
       "id": "e240b1886554663496b5",
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 118 # Comments: 91",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 119 # Comments: 92",
       "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2715,7 +2751,7 @@
     {
       "id": "6468382737345bd88a85",
       "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 148 # Comments: 79",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 148 # Comments: 80",
       "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2733,7 +2769,7 @@
     {
       "id": "f6f0576c6cc397f30abc",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 495 # Comments: 261",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 498 # Comments: 262",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2823,7 +2859,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 812 # Comments: 711",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 814 # Comments: 713",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3813,7 +3849,7 @@
     {
       "id": "d00fc92468416949ad6e",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 564",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 712 # Comments: 565",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3912,7 +3948,7 @@
     {
       "id": "4d189ef1f84f674b199d",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 327 # Comments: 462",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 328 # Comments: 465",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -13466,42 +13502,6 @@
       "source": "Hugging Face",
       "category": "开源生态",
       "published": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "c2b4b68d7e0027f0e436",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "5c52b7d34becd1ccf770",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-19T00:00:00+00:00"
-    },
-    {
-      "id": "9394bb5d588b9fd80681",
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "summary": "General Science",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "source": "Google Research",
-      "category": "AI Agent",
-      "published": "2026-10-16T18:11:00+00:00"
-    },
-    {
-      "id": "c9a6184923cc1a5837b4",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-16T00:00:00+00:00"
     }
   ]
 }
