@@ -1,16 +1,430 @@
 {
-  "updated_at": "2026-11-20T20:12:10.029711+00:00",
+  "updated_at": "2026-11-21T07:02:13.653643+00:00",
   "source_count": 19,
-  "success_count": 19,
+  "success_count": 16,
   "articles": [
     {
+      "id": "2811d5d7284ac0992429",
+      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+      "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static profile, leaving realized state transitions unused as an expl",
+      "url": "https://arxiv.org/abs/2611.24999",
+      "source": "arXiv ML",
+      "category": "AI Agent",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "c102e0e70e6812a56d9a",
+      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+      "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive. We show that a first-order directional derivative of task A",
+      "url": "https://arxiv.org/abs/2611.25000",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "bad92ad73eeb5eaf92f1",
+      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed sparsity coefficient whose mapping to density is unknown and shi",
+      "url": "https://arxiv.org/abs/2611.25001",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "f5ece5166f702522df10",
+      "title": "A Model of Diverse Sampling from Language Models",
+      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encod",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "8284e7b3241721c4b0c2",
+      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
+      "summary": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities and develop corresponding defense strategie",
+      "url": "https://arxiv.org/abs/2611.25004",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "c43c7baee570166d5666",
+      "title": "Near-Quadratic Sample Compression for All VC Classes",
+      "summary": "arXiv:2611.25011v1 Announce Type: new Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only",
+      "url": "https://arxiv.org/abs/2611.25011",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "9bd411f4856ddec6c422",
+      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
+      "summary": "arXiv:2611.25100v1 Announce Type: new Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g., expert intuitions or documentation, rather than as the explicit probability distri",
+      "url": "https://arxiv.org/abs/2611.25100",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "d6aae032ad2f2498103a",
+      "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+      "summary": "arXiv:2611.25108v1 Announce Type: new Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse envir",
+      "url": "https://arxiv.org/abs/2611.25108",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "f2069aea21f62d9b3608",
+      "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
+      "summary": "arXiv:2611.25114v1 Announce Type: new Abstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R. This article describes the design of the package and a typical workflow, in which DISCO is",
+      "url": "https://arxiv.org/abs/2611.25114",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "2f4825de1af58eb099e2",
+      "title": "Auditing Learned Dynamics in Weather Models",
+      "summary": "arXiv:2611.25119v1 Announce Type: new Abstract: Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physica",
+      "url": "https://arxiv.org/abs/2611.25119",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "ab19dfcb038e45a5c176",
+      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
+      "summary": "arXiv:2611.25130v1 Announce Type: new Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embed",
+      "url": "https://arxiv.org/abs/2611.25130",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "a9a6c2b7492b434ebf8c",
+      "title": "Rate-distortion Assessment for Hierarchical Content Summarization",
+      "summary": "arXiv:2611.25151v1 Announce Type: new Abstract: Powerful generative models including large language and vision models have demonstrated success across a wide range of content generation, editing and manipulation tasks via end-to-end prompt-based generation. However, current assessment of the quality of generative content manipulation rema",
+      "url": "https://arxiv.org/abs/2611.25151",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "1fe3f40ac638e263fb63",
+      "title": "Bayesian $\\kappa$-Explorer for Minimax Model Estimation in MDPs",
+      "summary": "arXiv:2611.25160v1 Announce Type: new Abstract: We study active exploration for minimax transition estimation in unknown Markov decision processes (MDPs). Frequentist $\\kappa$-Explorer~\\citep{gu2026kappa} addresses this problem through a parameterized family of exploration objectives, but requires confidence-bound constructions and joint ",
+      "url": "https://arxiv.org/abs/2611.25160",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "62aa334564b4238e60d0",
+      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+      "summary": "arXiv:2611.25165v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) are effective tools for mechanistic interpretability by decomposing neural representations into sparse and interpretable features. However, a single sparse representation in traditional SAEs is responsible for both reconstruction fidelity and interpretability, whic",
+      "url": "https://arxiv.org/abs/2611.25165",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "0aa157e624144d836920",
+      "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+      "summary": "arXiv:2611.25167v1 Announce Type: new Abstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose ",
+      "url": "https://arxiv.org/abs/2611.25167",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "905aa279ae03e19f56b5",
+      "title": "PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks",
+      "summary": "arXiv:2611.25185v1 Announce Type: new Abstract: Physics-informed neural network (PINN) optimization depends on global properties of the underlying PDE and how the physics residual evolves across the domain. Standard optimizers such as Adam use fixed gradient-based statistics, while learned PINN optimizers replace the fixed rule with a lea",
+      "url": "https://arxiv.org/abs/2611.25185",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "45f02fa0b57a1ed6f704",
+      "title": "{\\phi}TD: Distributional Reinforcement Learning using Characteristic Functions",
+      "summary": "arXiv:2611.25208v1 Announce Type: new Abstract: Distributional Reinforcement Learning methods aim to learn the entire distribution of returns, yet current algorithmic approaches are limited to a narrow class of distributions. We propose $\\varphi$TD, a method to overcome this limitation by computing the loss in the frequency domain. We dem",
+      "url": "https://arxiv.org/abs/2611.25208",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "bbbd5dc4f59caab27f5a",
+      "title": "Learning to Read Events for Exact State Tracking with Frozen Language Models",
+      "summary": "arXiv:2611.25211v1 Announce Type: new Abstract: Long event streams require identifying each change and applying the changes in order. We train a selector on a frozen language model to read each transition. With API-only access, we ask the model to list the transitions. An external integer register composes them in order. A confidence rule",
+      "url": "https://arxiv.org/abs/2611.25211",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "a922c12b8689a6b25a51",
+      "title": "Some Memories Must Fade: Persistence and Decay of User Memories in Model Parameters",
+      "summary": "arXiv:2611.25235v1 Announce Type: new Abstract: Parametric memory allows Large Language Models to internalize knowledge directly into their weights, offering a potentially powerful alternative to retrieval-based memory (RAG). However, existing approaches to parametric memory are difficult to deploy as they largely mirror the Continual Lea",
+      "url": "https://arxiv.org/abs/2611.25235",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "2b317a62d713570dbfbe",
+      "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+      "summary": "arXiv:2611.25252v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must wo",
+      "url": "https://arxiv.org/abs/2611.25252",
+      "source": "arXiv ML",
+      "category": "AI Agent",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "38467c8e9ee715f1d675",
+      "title": "Process-Knowledge-Guided Latent Diffusion for Generative Design of Porous Architectures: A Case Study in Aerosol Jet Printing",
+      "summary": "arXiv:2611.25264v1 Announce Type: new Abstract: Printed porous layouts interleave functional material with open channels, and the layout that uses the material best depends on how the process settings shape the deposit. Generative models propose layouts quickly, but a generator that does not receive the process setting samples from the sa",
+      "url": "https://arxiv.org/abs/2611.25264",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "ba3e3595ac42cc2e852f",
+      "title": "Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection",
+      "summary": "arXiv:2611.25271v1 Announce Type: new Abstract: Adversarial example detectors often fail when attackers explicitly attempt to bypass them. We propose a dual-model approach that keeps the original classifier fixed and trains a separate verifier to assess its predictions. During training, we identify patterns of internal neural network acti",
+      "url": "https://arxiv.org/abs/2611.25271",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "3b84b8c18b6b566fa9b8",
+      "title": "Scone: Symmetry-aware Neural Combinatorial Optimization for Graph Coloring",
+      "summary": "arXiv:2611.25273v1 Announce Type: new Abstract: Graph coloring, which entails assigning colors to nodes such that no adjacent nodes have the same color, is a fundamental combinatorial optimization problem. In general, however, finding a node coloring with no monochromatic edges given a fixed palette is NP-hard. This motivates learning-bas",
+      "url": "https://arxiv.org/abs/2611.25273",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "1bfd03eb7bdb8cd11b9d",
+      "title": "DS3M: Deep structured state space models for nonlinear system identification on modern hardware",
+      "summary": "arXiv:2611.25274v1 Announce Type: new Abstract: Neural state-space identification learns dynamical models from measured inputs and outputs. SUBNET combines this task with an encoder that estimates initial states from short measurement histories. Its continuous-time version requires many successive neural-network evaluations during numeric",
+      "url": "https://arxiv.org/abs/2611.25274",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "89213af280a4edaee281",
+      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+      "summary": "arXiv:2611.25288v1 Announce Type: new Abstract: Modern recommendation systems face substantial memory pressure, largely from the sparse embedding layer that maps high-cardinality categorical features into dense vectors. In-training embedding pruning (ITEP) removes less important embedding rows during training, yielding end-to-end memory s",
+      "url": "https://arxiv.org/abs/2611.25288",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "1b863dc2c8f93815e832",
+      "title": "Cross-Question Reliable Reinforcement Learning",
+      "summary": "arXiv:2611.25292v1 Announce Type: new Abstract: AI systems operating near the limits of their capabilities can maximize utility while minimizing the risk of error by abstaining or deferring questions they are not confident about to a human or a stronger model. Recently, large language models (LLMs) have been post-trained to estimate confi",
+      "url": "https://arxiv.org/abs/2611.25292",
+      "source": "arXiv ML",
+      "category": "大模型",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "88753bfe3461e9727ad8",
+      "title": "Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers",
+      "summary": "arXiv:2611.25300v1 Announce Type: new Abstract: Neural surrogates predict the aerodynamic forces on a car in seconds, compared with hours for a CFD simulation, but training them requires thousands of CFD simulations of different car designs, which car manufacturers keep proprietary. Federated learning allows several manufacturers to train",
+      "url": "https://arxiv.org/abs/2611.25300",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "8fbc4fdf743bfc3412f5",
+      "title": "SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning",
+      "summary": "arXiv:2611.25301v1 Announce Type: new Abstract: Split federated learning (SFL) distributes neural networks across clients and a server, coupling class-specific knowledge across their representations. This coupling complicates split federated unlearning (SFU), where class-wise forgetting must remove target knowledge while preserving retain",
+      "url": "https://arxiv.org/abs/2611.25301",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "d2f1cd269914998d0e6a",
+      "title": "Prescribed Bayesian Efficiency under Lifetime Adjustment Costs",
+      "summary": "arXiv:2611.25311v1 Announce Type: new Abstract: A Bayesian learner may retain an issued action while updating its posterior, trading predictive loss against adjustment charges. We assume population curvature, boundary control, an order-$1/n$ lower bound on expected posterior uncertainty about the optimal action, and an observable unbiased",
+      "url": "https://arxiv.org/abs/2611.25311",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "177157bb3b8001fcafbb",
+      "title": "Improving Imitation Policies for Multi-Phase Tasks through Residual Learning Allocation",
+      "summary": "arXiv:2611.25320v1 Announce Type: new Abstract: Residual reinforcement learning corrects an imitation-trained base policy using a limited budget of environment interaction. In a task with several phases, this budget must be divided among the phases, and the phase in which the base policy fails is not necessarily the phase in which a corre",
+      "url": "https://arxiv.org/abs/2611.25320",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "1db0ea9ff859d4c4597b",
+      "title": "Now You See Me Now You Don't: A Framework To Detect and Reduce Proxy Capacity",
+      "summary": "arXiv:2611.25327v1 Announce Type: new Abstract: In regulated domains such as lending, the two most salient fairness concepts are disparate impact and disparate treatment: disparate impact is generally defined by differential rates of adverse outcomes between demographic groups, while disparate treatment is generally defined by the use of ",
+      "url": "https://arxiv.org/abs/2611.25327",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "c9417d31db3b9d2bfabe",
+      "title": "Class-Conditional Conformal Triage for ICAO Face-Image Compliance under Class Imbalance",
+      "summary": "arXiv:2611.25342v1 Announce Type: new Abstract: Automated ICAO/ISO face-image compliance analysers provide criterion-level pass/fail decisions, yet these verdicts do not quantify uncertainty when deciding whether to accept, reject, or retake a photograph. We investigate conformal prediction as a triage layer for BioGaze, evaluating 14 com",
+      "url": "https://arxiv.org/abs/2611.25342",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "cbe8db07a07ea10009bc",
+      "title": "Drifting, Discriminating, and Directioning for Action Coordination in Higher-dimensional Action Space",
+      "summary": "arXiv:2611.25385v1 Announce Type: new Abstract: This paper proposes a lightweight policy model to mitigate the difficulty of handling higher-dimensional action spaces in reinforcement learning (RL), alongside an algorithm to effectively train it. To address this, we focus on drifting models, which can implicitly represent complex distribu",
+      "url": "https://arxiv.org/abs/2611.25385",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "6e2c30683b46ae44f864",
+      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "summary": "arXiv:2611.25387v1 Announce Type: new Abstract: Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this ve",
+      "url": "https://arxiv.org/abs/2611.25387",
+      "source": "arXiv ML",
+      "category": "大模型",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "956d53ee916209a14b59",
+      "title": "Protein Functional Semantic Alignment via Representation Rectification",
+      "summary": "arXiv:2611.25396v1 Announce Type: new Abstract: Protein language models (PLMs) are commonly pretrained with likelihood-based objectives such as masked language modeling or denoising. These objectives capture sequence-level regularities, but can produce representations in which functional signals are entangled with non-functional variation",
+      "url": "https://arxiv.org/abs/2611.25396",
+      "source": "arXiv ML",
+      "category": "研究论文",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
+    {
+      "id": "0f2b9bd047af65bdead4",
+      "title": "Release v0.71.0-nightly.20261121.geecccfcd5",
+      "summary": "What's Changed fix(cli): expand Windows home-relative paths using tilde and backslash by @urielefrenvirtusa in #30376 fix(cli): resume most recently active session instead of most recently started by @urielefrenvirtusa in #30389 Full Changelog : v0.71.0-nightly.20261120.gd4cb1713f...v0.71.0-nightly.20261121.geecccfcd5",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261121.geecccfcd5",
+      "source": "Gemini CLI Releases",
+      "category": "AI Agent",
+      "published": "2026-11-21T01:19:21+00:00"
+    },
+    {
+      "id": "4867bfdeb843196c6aa5",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "summary": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together",
+      "source": "AWS Machine Learning",
+      "category": "AI Agent",
+      "published": "2026-11-21T01:06:42+00:00"
+    },
+    {
+      "id": "35bb80cc66121b0f728a",
+      "title": "0.173.0-alpha.4",
+      "summary": "Release 0.173.0-alpha.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.4",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-21T00:40:17+00:00"
+    },
+    {
+      "id": "f6e744ab21c05cebfa08",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your ",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-21T00:14:26+00:00"
+    },
+    {
+      "id": "84a578f05a50fce6cc76",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary": "Generative AI",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "source": "Google Research",
+      "category": "研究论文",
+      "published": "2026-11-20T23:30:30+00:00"
+    },
+    {
+      "id": "24a3a35b947b3236755b",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with t",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T23:07:03+00:00"
+    },
+    {
+      "id": "d5bec1fa3b07f6176fa0",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "summary": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T22:35:24+00:00"
+    },
+    {
+      "id": "fdc4cffb6fa79465efcb",
+      "title": "v2.1.330",
+      "summary": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and E",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+      "source": "Claude Code Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T22:32:56+00:00"
+    },
+    {
+      "id": "faf08ecbdbee6dd26a8e",
+      "title": "0.173.0-alpha.3",
+      "summary": "Release 0.173.0-alpha.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.3",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-20T22:28:53+00:00"
+    },
+    {
       "id": "9291232aee04814878f4",
-      "title": "rust-v0.173.0-alpha.2",
+      "title": "0.173.0-alpha.2",
       "summary": "Release 0.173.0-alpha.2",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.2",
       "source": "OpenAI Codex Releases",
       "category": "AI Agent",
-      "published": "2026-11-20T19:29:56+00:00"
+      "published": "2026-11-20T20:50:10+00:00"
+    },
+    {
+      "id": "fb0117cbcf0e24c7c776",
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceab",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T20:37:31+00:00"
+    },
+    {
+      "id": "6728ab5448c93c9a0f67",
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "summary": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-20T20:22:00+00:00"
     },
     {
       "id": "0d8e213cc0d8372dce87",
@@ -400,321 +814,6 @@
       "published": "2026-11-20T05:00:00+00:00"
     },
     {
-      "id": "2811d5d7284ac0992429",
-      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
-      "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static profile, leaving realized state transitions unused as an expl",
-      "url": "https://arxiv.org/abs/2611.24999",
-      "source": "arXiv ML",
-      "category": "AI Agent",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "c102e0e70e6812a56d9a",
-      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
-      "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive. We show that a first-order directional derivative of task A",
-      "url": "https://arxiv.org/abs/2611.25000",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "bad92ad73eeb5eaf92f1",
-      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
-      "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed sparsity coefficient whose mapping to density is unknown and shi",
-      "url": "https://arxiv.org/abs/2611.25001",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "f5ece5166f702522df10",
-      "title": "A Model of Diverse Sampling from Language Models",
-      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a determinantal point process (DPP), where the likelihood encod",
-      "url": "https://arxiv.org/abs/2611.25003",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "8284e7b3241721c4b0c2",
-      "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
-      "summary": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities and develop corresponding defense strategie",
-      "url": "https://arxiv.org/abs/2611.25004",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "c43c7baee570166d5666",
-      "title": "Near-Quadratic Sample Compression for All VC Classes",
-      "summary": "arXiv:2611.25011v1 Announce Type: new Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only",
-      "url": "https://arxiv.org/abs/2611.25011",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "9bd411f4856ddec6c422",
-      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
-      "summary": "arXiv:2611.25100v1 Announce Type: new Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g., expert intuitions or documentation, rather than as the explicit probability distri",
-      "url": "https://arxiv.org/abs/2611.25100",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "d6aae032ad2f2498103a",
-      "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
-      "summary": "arXiv:2611.25108v1 Announce Type: new Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse envir",
-      "url": "https://arxiv.org/abs/2611.25108",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "f2069aea21f62d9b3608",
-      "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
-      "summary": "arXiv:2611.25114v1 Announce Type: new Abstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R. This article describes the design of the package and a typical workflow, in which DISCO is",
-      "url": "https://arxiv.org/abs/2611.25114",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "2f4825de1af58eb099e2",
-      "title": "Auditing Learned Dynamics in Weather Models",
-      "summary": "arXiv:2611.25119v1 Announce Type: new Abstract: Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physica",
-      "url": "https://arxiv.org/abs/2611.25119",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "ab19dfcb038e45a5c176",
-      "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
-      "summary": "arXiv:2611.25130v1 Announce Type: new Abstract: Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embed",
-      "url": "https://arxiv.org/abs/2611.25130",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "a9a6c2b7492b434ebf8c",
-      "title": "Rate-distortion Assessment for Hierarchical Content Summarization",
-      "summary": "arXiv:2611.25151v1 Announce Type: new Abstract: Powerful generative models including large language and vision models have demonstrated success across a wide range of content generation, editing and manipulation tasks via end-to-end prompt-based generation. However, current assessment of the quality of generative content manipulation rema",
-      "url": "https://arxiv.org/abs/2611.25151",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "1fe3f40ac638e263fb63",
-      "title": "Bayesian $\\kappa$-Explorer for Minimax Model Estimation in MDPs",
-      "summary": "arXiv:2611.25160v1 Announce Type: new Abstract: We study active exploration for minimax transition estimation in unknown Markov decision processes (MDPs). Frequentist $\\kappa$-Explorer~\\citep{gu2026kappa} addresses this problem through a parameterized family of exploration objectives, but requires confidence-bound constructions and joint ",
-      "url": "https://arxiv.org/abs/2611.25160",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "62aa334564b4238e60d0",
-      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
-      "summary": "arXiv:2611.25165v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) are effective tools for mechanistic interpretability by decomposing neural representations into sparse and interpretable features. However, a single sparse representation in traditional SAEs is responsible for both reconstruction fidelity and interpretability, whic",
-      "url": "https://arxiv.org/abs/2611.25165",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "0aa157e624144d836920",
-      "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
-      "summary": "arXiv:2611.25167v1 Announce Type: new Abstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose ",
-      "url": "https://arxiv.org/abs/2611.25167",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "905aa279ae03e19f56b5",
-      "title": "PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks",
-      "summary": "arXiv:2611.25185v1 Announce Type: new Abstract: Physics-informed neural network (PINN) optimization depends on global properties of the underlying PDE and how the physics residual evolves across the domain. Standard optimizers such as Adam use fixed gradient-based statistics, while learned PINN optimizers replace the fixed rule with a lea",
-      "url": "https://arxiv.org/abs/2611.25185",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "45f02fa0b57a1ed6f704",
-      "title": "{\\phi}TD: Distributional Reinforcement Learning using Characteristic Functions",
-      "summary": "arXiv:2611.25208v1 Announce Type: new Abstract: Distributional Reinforcement Learning methods aim to learn the entire distribution of returns, yet current algorithmic approaches are limited to a narrow class of distributions. We propose $\\varphi$TD, a method to overcome this limitation by computing the loss in the frequency domain. We dem",
-      "url": "https://arxiv.org/abs/2611.25208",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "bbbd5dc4f59caab27f5a",
-      "title": "Learning to Read Events for Exact State Tracking with Frozen Language Models",
-      "summary": "arXiv:2611.25211v1 Announce Type: new Abstract: Long event streams require identifying each change and applying the changes in order. We train a selector on a frozen language model to read each transition. With API-only access, we ask the model to list the transitions. An external integer register composes them in order. A confidence rule",
-      "url": "https://arxiv.org/abs/2611.25211",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "a922c12b8689a6b25a51",
-      "title": "Some Memories Must Fade: Persistence and Decay of User Memories in Model Parameters",
-      "summary": "arXiv:2611.25235v1 Announce Type: new Abstract: Parametric memory allows Large Language Models to internalize knowledge directly into their weights, offering a potentially powerful alternative to retrieval-based memory (RAG). However, existing approaches to parametric memory are difficult to deploy as they largely mirror the Continual Lea",
-      "url": "https://arxiv.org/abs/2611.25235",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "2b317a62d713570dbfbe",
-      "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
-      "summary": "arXiv:2611.25252v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must wo",
-      "url": "https://arxiv.org/abs/2611.25252",
-      "source": "arXiv ML",
-      "category": "AI Agent",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "38467c8e9ee715f1d675",
-      "title": "Process-Knowledge-Guided Latent Diffusion for Generative Design of Porous Architectures: A Case Study in Aerosol Jet Printing",
-      "summary": "arXiv:2611.25264v1 Announce Type: new Abstract: Printed porous layouts interleave functional material with open channels, and the layout that uses the material best depends on how the process settings shape the deposit. Generative models propose layouts quickly, but a generator that does not receive the process setting samples from the sa",
-      "url": "https://arxiv.org/abs/2611.25264",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "ba3e3595ac42cc2e852f",
-      "title": "Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection",
-      "summary": "arXiv:2611.25271v1 Announce Type: new Abstract: Adversarial example detectors often fail when attackers explicitly attempt to bypass them. We propose a dual-model approach that keeps the original classifier fixed and trains a separate verifier to assess its predictions. During training, we identify patterns of internal neural network acti",
-      "url": "https://arxiv.org/abs/2611.25271",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "3b84b8c18b6b566fa9b8",
-      "title": "Scone: Symmetry-aware Neural Combinatorial Optimization for Graph Coloring",
-      "summary": "arXiv:2611.25273v1 Announce Type: new Abstract: Graph coloring, which entails assigning colors to nodes such that no adjacent nodes have the same color, is a fundamental combinatorial optimization problem. In general, however, finding a node coloring with no monochromatic edges given a fixed palette is NP-hard. This motivates learning-bas",
-      "url": "https://arxiv.org/abs/2611.25273",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "1bfd03eb7bdb8cd11b9d",
-      "title": "DS3M: Deep structured state space models for nonlinear system identification on modern hardware",
-      "summary": "arXiv:2611.25274v1 Announce Type: new Abstract: Neural state-space identification learns dynamical models from measured inputs and outputs. SUBNET combines this task with an encoder that estimates initial states from short measurement histories. Its continuous-time version requires many successive neural-network evaluations during numeric",
-      "url": "https://arxiv.org/abs/2611.25274",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "89213af280a4edaee281",
-      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
-      "summary": "arXiv:2611.25288v1 Announce Type: new Abstract: Modern recommendation systems face substantial memory pressure, largely from the sparse embedding layer that maps high-cardinality categorical features into dense vectors. In-training embedding pruning (ITEP) removes less important embedding rows during training, yielding end-to-end memory s",
-      "url": "https://arxiv.org/abs/2611.25288",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "1b863dc2c8f93815e832",
-      "title": "Cross-Question Reliable Reinforcement Learning",
-      "summary": "arXiv:2611.25292v1 Announce Type: new Abstract: AI systems operating near the limits of their capabilities can maximize utility while minimizing the risk of error by abstaining or deferring questions they are not confident about to a human or a stronger model. Recently, large language models (LLMs) have been post-trained to estimate confi",
-      "url": "https://arxiv.org/abs/2611.25292",
-      "source": "arXiv ML",
-      "category": "大模型",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "88753bfe3461e9727ad8",
-      "title": "Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers",
-      "summary": "arXiv:2611.25300v1 Announce Type: new Abstract: Neural surrogates predict the aerodynamic forces on a car in seconds, compared with hours for a CFD simulation, but training them requires thousands of CFD simulations of different car designs, which car manufacturers keep proprietary. Federated learning allows several manufacturers to train",
-      "url": "https://arxiv.org/abs/2611.25300",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "8fbc4fdf743bfc3412f5",
-      "title": "SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning",
-      "summary": "arXiv:2611.25301v1 Announce Type: new Abstract: Split federated learning (SFL) distributes neural networks across clients and a server, coupling class-specific knowledge across their representations. This coupling complicates split federated unlearning (SFU), where class-wise forgetting must remove target knowledge while preserving retain",
-      "url": "https://arxiv.org/abs/2611.25301",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "d2f1cd269914998d0e6a",
-      "title": "Prescribed Bayesian Efficiency under Lifetime Adjustment Costs",
-      "summary": "arXiv:2611.25311v1 Announce Type: new Abstract: A Bayesian learner may retain an issued action while updating its posterior, trading predictive loss against adjustment charges. We assume population curvature, boundary control, an order-$1/n$ lower bound on expected posterior uncertainty about the optimal action, and an observable unbiased",
-      "url": "https://arxiv.org/abs/2611.25311",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "177157bb3b8001fcafbb",
-      "title": "Improving Imitation Policies for Multi-Phase Tasks through Residual Learning Allocation",
-      "summary": "arXiv:2611.25320v1 Announce Type: new Abstract: Residual reinforcement learning corrects an imitation-trained base policy using a limited budget of environment interaction. In a task with several phases, this budget must be divided among the phases, and the phase in which the base policy fails is not necessarily the phase in which a corre",
-      "url": "https://arxiv.org/abs/2611.25320",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "1db0ea9ff859d4c4597b",
-      "title": "Now You See Me Now You Don't: A Framework To Detect and Reduce Proxy Capacity",
-      "summary": "arXiv:2611.25327v1 Announce Type: new Abstract: In regulated domains such as lending, the two most salient fairness concepts are disparate impact and disparate treatment: disparate impact is generally defined by differential rates of adverse outcomes between demographic groups, while disparate treatment is generally defined by the use of ",
-      "url": "https://arxiv.org/abs/2611.25327",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "c9417d31db3b9d2bfabe",
-      "title": "Class-Conditional Conformal Triage for ICAO Face-Image Compliance under Class Imbalance",
-      "summary": "arXiv:2611.25342v1 Announce Type: new Abstract: Automated ICAO/ISO face-image compliance analysers provide criterion-level pass/fail decisions, yet these verdicts do not quantify uncertainty when deciding whether to accept, reject, or retake a photograph. We investigate conformal prediction as a triage layer for BioGaze, evaluating 14 com",
-      "url": "https://arxiv.org/abs/2611.25342",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "cbe8db07a07ea10009bc",
-      "title": "Drifting, Discriminating, and Directioning for Action Coordination in Higher-dimensional Action Space",
-      "summary": "arXiv:2611.25385v1 Announce Type: new Abstract: This paper proposes a lightweight policy model to mitigate the difficulty of handling higher-dimensional action spaces in reinforcement learning (RL), alongside an algorithm to effectively train it. To address this, we focus on drifting models, which can implicitly represent complex distribu",
-      "url": "https://arxiv.org/abs/2611.25385",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "6e2c30683b46ae44f864",
-      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
-      "summary": "arXiv:2611.25387v1 Announce Type: new Abstract: Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this ve",
-      "url": "https://arxiv.org/abs/2611.25387",
-      "source": "arXiv ML",
-      "category": "大模型",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "956d53ee916209a14b59",
-      "title": "Protein Functional Semantic Alignment via Representation Rectification",
-      "summary": "arXiv:2611.25396v1 Announce Type: new Abstract: Protein language models (PLMs) are commonly pretrained with likelihood-based objectives such as masked language modeling or denoising. These objectives capture sequence-level regularities, but can produce representations in which functional signals are entangled with non-functional variation",
-      "url": "https://arxiv.org/abs/2611.25396",
-      "source": "arXiv ML",
-      "category": "研究论文",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
       "id": "5597d4fc8cda207aa888",
       "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
       "summary": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoning alone does not make a laboratory autonomous: autonomy in an SDL is achievable only when the agent can be trusted to a",
@@ -1099,6 +1198,24 @@
       "url": "https://openai.com/index/introducing-medchembench",
       "source": "OpenAI News",
       "category": "大模型",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "id": "8145fefb47ff1ca9fa55",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "id": "824c03b970f1dc58cad6",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "category": "开源生态",
       "published": "2026-11-20T00:00:00+00:00"
     },
     {
@@ -13385,123 +13502,6 @@
       "source": "Hugging Face",
       "category": "开源生态",
       "published": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "3b88e631408680364ea9",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-15T16:08:03+00:00"
-    },
-    {
-      "id": "467c8e42acb6bdc9ebe7",
-      "title": "Proof-based general-purpose computing with Magnetar",
-      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsof",
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
-      "source": "Microsoft Research",
-      "category": "研究论文",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "id": "370d8453b070a7bffccc",
-      "title": "Introducing Timestral",
-      "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
-      "url": "https://mistral.ai/news/timestral",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-10-15T12:00:00+00:00"
-    },
-    {
-      "id": "39052ad94a8a76cc68a2",
-      "title": "Apertus 1.5 Release Notes",
-      "summary": "",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-15T09:08:45+00:00"
-    },
-    {
-      "id": "ff0cf28c5d7530571030",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "eb67409897ed2136a753",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "f4c3b9d58e154e819610",
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "summary": "Earth AI",
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-      "source": "Google Research",
-      "category": "AI Agent",
-      "published": "2026-10-14T16:14:00+00:00"
-    },
-    {
-      "id": "b5f10d8395692173691f",
-      "title": "Analyzing technical documents with Deep Review",
-      "summary": "General Science",
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-10-14T16:14:00+00:00"
-    },
-    {
-      "id": "6e6aab638b2a9ab07c2c",
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "summary": "General Science",
-      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
-      "source": "Google Research",
-      "category": "研究论文",
-      "published": "2026-10-14T16:14:00+00:00"
-    },
-    {
-      "id": "b76b11a1199f73b7027f",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-14T02:00:14+00:00"
-    },
-    {
-      "id": "1dc99b611b2499a3b881",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-13T19:43:07+00:00"
-    },
-    {
-      "id": "53911f98c21c784fce1a",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "category": "AI Agent",
-      "published": "2026-10-13T17:05:48+00:00"
-    },
-    {
-      "id": "d96a2391b623b2cb26cc",
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-      "source": "Google DeepMind",
-      "category": "大模型",
-      "published": "2026-10-13T16:01:58+00:00"
     }
   ]
 }
