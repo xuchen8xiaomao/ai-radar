@@ -1,12 +1,39 @@
 {
-  "updated_at": "2026-11-21T19:12:04.532902+00:00",
+  "updated_at": "2026-11-22T06:43:18.433147+00:00",
   "source_count": 19,
-  "success_count": 17,
+  "success_count": 16,
   "articles": [
+    {
+      "id": "7cedfd958b6d7a17aac2",
+      "title": "Meta ads is now available in AWS Quick",
+      "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
+      "source": "AWS Machine Learning",
+      "category": "行业应用",
+      "published": "2026-11-22T01:59:13+00:00"
+    },
+    {
+      "id": "7dba2c359005721569b4",
+      "title": "Release v0.71.0-nightly.20261122.geecccfcd5",
+      "summary": "Full Changelog : v0.71.0-nightly.20261121.geecccfcd5...v0.71.0-nightly.20261122.geecccfcd5",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261122.geecccfcd5",
+      "source": "Gemini CLI Releases",
+      "category": "AI Agent",
+      "published": "2026-11-22T01:20:22+00:00"
+    },
+    {
+      "id": "aaa55aaf598950923826",
+      "title": "Muru",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , ",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-21T23:56:28+00:00"
+    },
     {
       "id": "8497bc1e7a354a4d6e3e",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 138 # Comments: 43",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51",
       "url": "http://ricapar.net/ClawDOS",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -465,7 +492,7 @@
     {
       "id": "0217300bae3fe7292fb5",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 278 # Comments: 222",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -474,7 +501,7 @@
     {
       "id": "eecdc918ec2546301844",
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 109 # Comments: 44",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 122 # Comments: 50",
       "url": "https://a90.com/experiments/same-advice",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -492,7 +519,7 @@
     {
       "id": "0d485e0dfc8d69ca8363",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 470 # Comments: 809",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 890",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -501,7 +528,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 663 # Comments: 351",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 357",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -519,7 +546,7 @@
     {
       "id": "266efb82a5bf90577942",
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 565 # Comments: 333",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 573 # Comments: 336",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1392,7 +1419,7 @@
     {
       "id": "c51551cd2d791f85c79f",
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 255",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 258",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1482,7 +1509,7 @@
     {
       "id": "5661d98e657c1ecfd28b",
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 614 # Comments: 249",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 616 # Comments: 249",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1509,7 +1536,7 @@
     {
       "id": "e39600edda0e5accc0d5",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2769,7 +2796,7 @@
     {
       "id": "f6f0576c6cc397f30abc",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 498 # Comments: 262",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 499 # Comments: 264",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2859,7 +2886,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 814 # Comments: 713",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 816 # Comments: 713",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13475,33 +13502,6 @@
       "source": "Microsoft Research",
       "category": "研究论文",
       "published": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "id": "4c6292fc5ecba5f2e0a9",
-      "title": "Voxtral 3",
-      "summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages, accurate transcription, emotional TTS, deep tool use.",
-      "url": "https://mistral.ai/news/voxtral-3",
-      "source": "Mistral AI",
-      "category": "AI Agent",
-      "published": "2026-10-20T12:00:22+00:00"
-    },
-    {
-      "id": "39e60f901a735303e0c0",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "41fb25a47d12d204a957",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face",
-      "category": "开源生态",
-      "published": "2026-10-20T00:00:00+00:00"
     }
   ]
 }
