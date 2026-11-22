@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-11-22T06:43:18.433147+00:00",
+  "updated_at": "2026-11-22T19:34:11.065707+00:00",
   "source_count": 19,
   "success_count": 16,
   "articles": [
+    {
+      "id": "9b3998d4b9b4980bb89b",
+      "title": "The Mythology of Conscious AI",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 142 # Comments: 403",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-22T02:10:02+00:00"
+    },
     {
       "id": "7cedfd958b6d7a17aac2",
       "title": "Meta ads is now available in AWS Quick",
@@ -22,6 +31,15 @@
       "published": "2026-11-22T01:20:22+00:00"
     },
     {
+      "id": "1a10f1676d46fc01a909",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-22T00:00:00+00:00"
+    },
+    {
       "id": "aaa55aaf598950923826",
       "title": "Muru",
       "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , ",
@@ -31,9 +49,18 @@
       "published": "2026-11-21T23:56:28+00:00"
     },
     {
+      "id": "06d2d06f2b7054f20651",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 135 # Comments: 31",
+      "url": "https://www.pandex.io/",
+      "source": "Hacker News AI",
+      "category": "AI Agent",
+      "published": "2026-11-21T20:47:41+00:00"
+    },
+    {
       "id": "8497bc1e7a354a4d6e3e",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 170 # Comments: 52",
       "url": "http://ricapar.net/ClawDOS",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -492,7 +519,7 @@
     {
       "id": "0217300bae3fe7292fb5",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 283 # Comments: 229",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -501,7 +528,7 @@
     {
       "id": "eecdc918ec2546301844",
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 122 # Comments: 50",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 124 # Comments: 53",
       "url": "https://a90.com/experiments/same-advice",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -519,7 +546,7 @@
     {
       "id": "0d485e0dfc8d69ca8363",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 890",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 525 # Comments: 918",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -528,7 +555,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 357",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 675 # Comments: 362",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -546,7 +573,7 @@
     {
       "id": "266efb82a5bf90577942",
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 573 # Comments: 336",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 577 # Comments: 346",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1500,7 +1527,7 @@
     {
       "id": "bd2c18ba46849ba1a978",
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 82",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 148 # Comments: 83",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1536,7 +1563,7 @@
     {
       "id": "e39600edda0e5accc0d5",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 251",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1554,7 +1581,7 @@
     {
       "id": "68905d8de4636ed49e50",
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 105 # Comments: 164",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 106 # Comments: 164",
       "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2778,7 +2805,7 @@
     {
       "id": "6468382737345bd88a85",
       "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 148 # Comments: 80",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 149 # Comments: 80",
       "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2886,7 +2913,7 @@
     {
       "id": "6663bdbb07465939d1ff",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 816 # Comments: 713",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 820 # Comments: 713",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3876,7 +3903,7 @@
     {
       "id": "d00fc92468416949ad6e",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 712 # Comments: 565",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 713 # Comments: 565",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13475,33 +13502,6 @@
       "source": "Microsoft Research",
       "category": "研究论文",
       "published": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "id": "856c26ca4c2d04bcedc9",
-      "title": "Mistral Advances AI for Engineering with NVIDIA",
-      "summary": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
-      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
-      "source": "Mistral AI",
-      "category": "大模型",
-      "published": "2026-10-21T12:00:20+00:00"
-    },
-    {
-      "id": "78cebe09803b57417ff2",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "source": "Google AI",
-      "category": "AI 产品",
-      "published": "2026-10-21T04:00:00+00:00"
-    },
-    {
-      "id": "e08619ed2cad1d928f20",
-      "title": "Called to serve: Tech, research, and positive impact",
-      "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared f",
-      "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
-      "source": "Microsoft Research",
-      "category": "研究论文",
-      "published": "2026-10-20T16:00:00+00:00"
     }
   ]
 }
