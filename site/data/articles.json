@@ -1,8 +1,98 @@
 {
-  "updated_at": "2026-11-24T09:50:51.131400+00:00",
+  "updated_at": "2026-11-24T22:23:51.380387+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
+    {
+      "id": "b65bdd42b1e837e0bae1",
+      "title": "rust-v0.174.0-alpha.4",
+      "summary": "Release 0.174.0-alpha.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.4",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-24T21:57:34+00:00"
+    },
+    {
+      "id": "3f91feb8f2aa316ce1bf",
+      "title": "0.174.0-alpha.3",
+      "summary": "Release 0.174.0-alpha.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.3",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-24T20:18:38+00:00"
+    },
+    {
+      "id": "7eea171611f31c8f95c6",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely qui",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-24T16:53:59+00:00"
+    },
+    {
+      "id": "6a28e842b3bf4bfd8400",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-24T16:34:13+00:00"
+    },
+    {
+      "id": "e2c2e0af508d83a029c0",
+      "title": "0.174.0-alpha.2",
+      "summary": "Release 0.174.0-alpha.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.2",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-24T16:21:51+00:00"
+    },
+    {
+      "id": "8914c06692750e0f3f44",
+      "title": "Tidal bans AI-generated music",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 309 # Comments: 290",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-24T16:12:38+00:00"
+    },
+    {
+      "id": "a7a0adf7d6c734e350c9",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "source": "Google AI",
+      "category": "AI 产品",
+      "published": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "id": "4065e26429d167ec816b",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "source": "MIT Technology Review",
+      "category": "AI Agent",
+      "published": "2026-11-24T15:15:16+00:00"
+    },
+    {
+      "id": "ac2f786b30f6d45772c4",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-24T13:00:00+00:00"
+    },
+    {
+      "id": "7758c04a629331bf9638",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-24T11:00:00+00:00"
+    },
     {
       "id": "5fdd743e62a38dec96bc",
       "title": "0.173.0-alpha.5",
@@ -14,7 +104,7 @@
     },
     {
       "id": "b24333cc89f9425e4c7b",
-      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
       "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
       "source": "AWS Machine Learning",
@@ -987,11 +1077,20 @@
     {
       "id": "3d5981388f51900a65b5",
       "title": "datasette-agent 0.7a1",
-      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plug",
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plu",
       "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
       "source": "Simon Willison",
       "category": "AI Agent",
       "published": "2026-11-24T03:45:57+00:00"
+    },
+    {
+      "id": "0f779e7fa16290655eb2",
+      "title": "Declare is a UI language for you and your AI",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 102 # Comments: 87",
+      "url": "https://davidtemkin.github.io/declarelang",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-24T02:36:56+00:00"
     },
     {
       "id": "efe8350e6f16937b7325",
@@ -1037,6 +1136,24 @@
       "source": "OpenAI Codex Releases",
       "category": "AI Agent",
       "published": "2026-11-24T00:06:41+00:00"
+    },
+    {
+      "id": "7e14b56be67443085907",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "published": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "89a905d5eae9fa3ef5a8",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
+      "category": "AI Agent",
+      "published": "2026-11-24T00:00:00+00:00"
     },
     {
       "id": "105d2dd6f5d647be40a4",
@@ -2139,7 +2256,7 @@
     {
       "id": "a9f7ae49b5fbd4f4edc3",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 758 # Comments: 306",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 769 # Comments: 313",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2166,7 +2283,7 @@
     {
       "id": "ff772f090165aaaeca61",
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 104 # Comments: 22",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 106 # Comments: 22",
       "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2175,7 +2292,7 @@
     {
       "id": "9b3998d4b9b4980bb89b",
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 550",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 560",
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2220,7 +2337,7 @@
     {
       "id": "06d2d06f2b7054f20651",
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 140 # Comments: 36",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 141 # Comments: 37",
       "url": "https://www.pandex.io/",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -2229,7 +2346,7 @@
     {
       "id": "8497bc1e7a354a4d6e3e",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 175 # Comments: 52",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 176 # Comments: 53",
       "url": "http://ricapar.net/ClawDOS",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2715,7 +2832,7 @@
     {
       "id": "0d485e0dfc8d69ca8363",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 934",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 938",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2724,7 +2841,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 684 # Comments: 366",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 368",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2742,7 +2859,7 @@
     {
       "id": "266efb82a5bf90577942",
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 583 # Comments: 349",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 583 # Comments: 350",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -3615,7 +3732,7 @@
     {
       "id": "c51551cd2d791f85c79f",
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 263",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 116 # Comments: 264",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3696,7 +3813,7 @@
     {
       "id": "bd2c18ba46849ba1a978",
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 151 # Comments: 84",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 152 # Comments: 84",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3705,7 +3822,7 @@
     {
       "id": "5661d98e657c1ecfd28b",
       "title": "Fuck Your AI Safeguards",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 618 # Comments: 250",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 618 # Comments: 251",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3732,7 +3849,7 @@
     {
       "id": "e39600edda0e5accc0d5",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 273 # Comments: 253",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 274 # Comments: 254",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3750,7 +3867,7 @@
     {
       "id": "68905d8de4636ed49e50",
       "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 108 # Comments: 164",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 108 # Comments: 165",
       "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13384,123 +13501,6 @@
       "url": "https://arxiv.org/abs/2611.09094",
       "source": "arXiv NLP",
       "category": "大模型",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "1e13e432dd1d588d6465",
-      "title": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
-      "summary": "arXiv:2611.09107v1 Announce Type: new Abstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million labeled tokens (19.9M News and 2.2M Novels).",
-      "url": "https://arxiv.org/abs/2611.09107",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "47a4ca93fe31b7cc4419",
-      "title": "Calibrated concept profiles: making the reading of a model's neurons a measurement",
-      "summary": "arXiv:2611.09196v1 Announce Type: new Abstract: Interpretability has largely moved from reading a model's neurons directly to reading a second model trained on the first: a probe, a sparse autoencoder, a crosscoder. The move answered real faults -- mixed meanings, thresholds without a unit, readings that did not transfer from one study to",
-      "url": "https://arxiv.org/abs/2611.09196",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "bf5e7b7259745a580e7c",
-      "title": "Representational drift in a code model: behaviour settles, which neurons carry it does not",
-      "summary": "arXiv:2611.09204v1 Announce Type: new Abstract: In neuroscience, representational drift is a change in which neurons carry a representation while behaviour stays the same; we measure its analogue in OpenCoder-1.5B during pretraining, for 169 Python constructs over two trillion tokens at a constant learning rate, with a noise unit on every",
-      "url": "https://arxiv.org/abs/2611.09204",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "99c064cd51d7e0b4775b",
-      "title": "Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language",
-      "summary": "arXiv:2611.09222v1 Announce Type: new Abstract: Benchmarks for open-ended generation often rely on large language model (LLM) judges, whose reliability in low-resource languages is uncertain. We introduce Khmer PFGen-Bench, to our knowledge the first judge-free benchmark for multi-sentence answers to questions composed directly in Khmer, ",
-      "url": "https://arxiv.org/abs/2611.09222",
-      "source": "arXiv NLP",
-      "category": "大模型",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "594365d98ed0acf29fe4",
-      "title": "KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformation",
-      "summary": "arXiv:2611.09223v1 Announce Type: new Abstract: Existing Korean benchmarks for Large Language Models (LLMs) evaluate performance across diverse knowledge domains, but their accuracy scores cannot distinguish whether incorrect responses arise from a lack of required knowledge or a failure to apply that knowledge correctly. Our analysis of ",
-      "url": "https://arxiv.org/abs/2611.09223",
-      "source": "arXiv NLP",
-      "category": "大模型",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "2002ac7723e953dbf137",
-      "title": "DUET: Dual-Sparse Inference for Block Diffusion Language Models",
-      "summary": "arXiv:2611.09239v1 Announce Type: new Abstract: Diffusion language models (DLMs) enable parallel token generation through iterative denoising, yet their inference remains costly due to repeated attention over a growing historical prefix and repeated processing of the entire current generation block. Historical attention becomes increasing",
-      "url": "https://arxiv.org/abs/2611.09239",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "8a79a4dc4fa27533edf3",
-      "title": "Multilingual Artificial Datasets for AI-Driven Cardiology: the CliTe and ParaCliTe corpora",
-      "summary": "arXiv:2611.09296v1 Announce Type: new Abstract: Background and Aims. Comparable, multilingual, validated cardiology corpora are critical to advance trustworthy natural language processing (NLP) models for cardiology but such resources are scarce due to privacy concerns. This study aimed to cover this gap by presenting suitable artificial ",
-      "url": "https://arxiv.org/abs/2611.09296",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "a9614df496ce9a4db20c",
-      "title": "Asymmetric Correspondence Learning for Lexical and Style Embeddings: Interpreting Latent Space via Acoustic Features",
-      "summary": "arXiv:2611.09313v1 Announce Type: new Abstract: Self-supervised speech embeddings jointly encode lexical, speaker, and prosodic information, complicating feature isolation. We introduce Asymmetric Correspondence Learning (ACL), distilling HuBERT features into separate Acoustic Word Embeddings (AWEs) and Acoustic Style Embeddings (ASEs) vi",
-      "url": "https://arxiv.org/abs/2611.09313",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "9d24d0190ffff60e2e14",
-      "title": "Syn2DRE: Synergistic Dual Teacher-Student Framework for Document-level Relation Extraction",
-      "summary": "arXiv:2611.09342v1 Announce Type: new Abstract: Document-level Relation Extraction (DocRE) aims to identify relations between entities across a document but typically relies on costly large-scale annotations. While pseudo-labelling enables the use of low-quality data, existing methods often suffer from inefficiency and confirmation bias. ",
-      "url": "https://arxiv.org/abs/2611.09342",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "8cf03a903804c43f0791",
-      "title": "A Spiking Neural Model of the Mental Lexicon: Representations, Similarity Structure, and Associative Retrieval in Perception and Production",
-      "summary": "arXiv:2611.09402v1 Announce Type: new Abstract: A neural account of lexical access requires an explicit distinction between the structure of lexical representations, the associations linking representational levels, and the activity generated during retrieval. This paper specifies a spiking neural implementation of the mental lexicon with",
-      "url": "https://arxiv.org/abs/2611.09402",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "0b977870ada376853fa6",
-      "title": "An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection",
-      "summary": "arXiv:2611.09491v1 Announce Type: new Abstract: Large language models enable fine-tuning-free spoken language understanding (SLU) through in-context learning, but direct query-based retrieval may select semantically similar yet intent irrelevant demonstrations. This paper presents Query-Adaptive Intent Detection via Prototype Extraction (",
-      "url": "https://arxiv.org/abs/2611.09491",
-      "source": "arXiv NLP",
-      "category": "研究论文",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "32eebcfeeacd9a6b418d",
-      "title": "On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish",
-      "summary": "arXiv:2611.09506v1 Announce Type: new Abstract: We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task. We evaluate four model families (Llama, Mistral, Gemma, and Qwen) across eleven prompting strategies spanning five design categor",
-      "url": "https://arxiv.org/abs/2611.09506",
-      "source": "arXiv NLP",
-      "category": "大模型",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "8e15db42286c624bcf75",
-      "title": "Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents",
-      "summary": "arXiv:2611.09516v1 Announce Type: new Abstract: Real-time Voice AI agents must separate the active user from intelligible background speech that survives conventional noise suppression. Background sources include television audio, family members, and colleagues. Production denoisers remove non-stationary environmental noise effectively. B",
-      "url": "https://arxiv.org/abs/2611.09516",
-      "source": "arXiv NLP",
-      "category": "AI Agent",
       "published": "2026-11-09T05:00:00+00:00"
     }
   ]
