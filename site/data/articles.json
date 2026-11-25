@@ -1,8 +1,53 @@
 {
-  "updated_at": "2026-11-25T08:27:49.869159+00:00",
+  "updated_at": "2026-11-25T21:39:32.266547+00:00",
   "source_count": 19,
   "success_count": 19,
   "articles": [
+    {
+      "id": "9af1b59be58229d3e17e",
+      "title": "0.174.0-alpha.6",
+      "summary": "Release 0.174.0-alpha.6",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.6",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-25T19:41:38+00:00"
+    },
+    {
+      "id": "88bd06d7e0e9b82f43a3",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "category": "AI Agent",
+      "published": "2026-11-25T18:52:55+00:00"
+    },
+    {
+      "id": "5b91da256f36ad75ae2c",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "Generative AI",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "source": "Google Research",
+      "category": "研究论文",
+      "published": "2026-11-25T17:10:27+00:00"
+    },
+    {
+      "id": "0077e07924e43bf73f6b",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-25T10:22:09+00:00"
+    },
+    {
+      "id": "1684673b3d07d7df1276",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records reque",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "source": "MIT Technology Review",
+      "category": "行业应用",
+      "published": "2026-11-25T10:00:00+00:00"
+    },
     {
       "id": "bab0f4dab0fb36ff76b7",
       "title": "Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study",
@@ -949,6 +994,15 @@
       "published": "2026-11-25T05:00:00+00:00"
     },
     {
+      "id": "ee73c619e3bf0986096c",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 211 # Comments: 81",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-25T03:47:42+00:00"
+    },
+    {
       "id": "d1a8a8c302ae6a4a1fbc",
       "title": "v2.1.332",
       "summary": "What's changed Added skills from MCP servers (beta). They show as server:skill in the / menu; other skills keep their names Added a PreSkillShellCommand hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it opens a dialog at start Added \"Always deliver\" to the pr",
@@ -965,6 +1019,15 @@
       "source": "OpenAI Codex Releases",
       "category": "AI Agent",
       "published": "2026-11-25T01:23:23+00:00"
+    },
+    {
+      "id": "df3be113c8aed13fbadf",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-25T00:00:00+00:00"
     },
     {
       "id": "b65bdd42b1e837e0bae1",
@@ -1023,7 +1086,7 @@
     {
       "id": "8914c06692750e0f3f44",
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 324 # Comments: 313",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 334 # Comments: 328",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -1046,6 +1109,15 @@
       "source": "MIT Technology Review",
       "category": "AI Agent",
       "published": "2026-11-24T15:15:16+00:00"
+    },
+    {
+      "id": "616293296550946fa78f",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "source": "Google DeepMind",
+      "category": "大模型",
+      "published": "2026-11-24T13:07:53+00:00"
     },
     {
       "id": "ac2f786b30f6d45772c4",
@@ -2058,7 +2130,7 @@
     {
       "id": "0f779e7fa16290655eb2",
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 111 # Comments: 91",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 115 # Comments: 94",
       "url": "https://davidtemkin.github.io/declarelang",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3237,7 +3309,7 @@
     {
       "id": "a9f7ae49b5fbd4f4edc3",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 773 # Comments: 313",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 776 # Comments: 318",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3264,7 +3336,7 @@
     {
       "id": "ff772f090165aaaeca61",
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 106 # Comments: 22",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 107 # Comments: 22",
       "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3273,7 +3345,7 @@
     {
       "id": "9b3998d4b9b4980bb89b",
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 561",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 564",
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3795,7 +3867,7 @@
     {
       "id": "eecdc918ec2546301844",
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 125 # Comments: 56",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 126 # Comments: 56",
       "url": "https://a90.com/experiments/same-advice",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3813,7 +3885,7 @@
     {
       "id": "0d485e0dfc8d69ca8363",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 938",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 530 # Comments: 940",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3822,7 +3894,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 369",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 370",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13429,78 +13501,6 @@
       "url": "https://arxiv.org/abs/2611.10180",
       "source": "arXiv AI",
       "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "0809cdc4ea32e5095a08",
-      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
-      "summary": "arXiv:2611.10193v1 Announce Type: new Abstract: Large language models (LLMs) increasingly support Web-based services that must balance response quality and inference cost across heterogeneous requests. Conventional routing selects one model per prompt, while fixed ensembles cannot adapt their composition and cost to individual requests. W",
-      "url": "https://arxiv.org/abs/2611.10193",
-      "source": "arXiv AI",
-      "category": "大模型",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "470fd816a601682fc8d3",
-      "title": "Multi-GPU MoE Inference with Adaptive Expert Offloading",
-      "summary": "arXiv:2611.10219v1 Announce Type: new Abstract: Modern Mixture-of-Experts (MoE) inference is constrained by GPU memory. This constraint is mitigated by expert offloading, which stores part of the model's weight in host memory and executes on demand. Though MoE architecture has computation sparsity, more GPUs are needed for serving increas",
-      "url": "https://arxiv.org/abs/2611.10219",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "acbe0024ae9edab43efd",
-      "title": "ProofDiff: Auditable Argument-Level Comparison of AI-Generated Mathematical Proofs",
-      "summary": "arXiv:2611.10233v1 Announce Type: new Abstract: Mathematical understanding depends on the route from hypotheses to conclusion: how the parts of a proof function and which dependencies carry the argument forward. This structure can persist when wording or notation changes, while a small alteration to a hypothesis or inference can produce a",
-      "url": "https://arxiv.org/abs/2611.10233",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "934ec100f23d3dd93913",
-      "title": "ScreenProof: Where Is This Screen Wrong? Finding UI Faults Without a Reference",
-      "summary": "arXiv:2611.10234v1 Announce Type: new Abstract: A phone screen can be wrong in ways that need no reference: a label that runs off the screen, letters that touch, a line that breaks one character before its end, one button with sharp corners among round ones. We ask whether a model can box every such fault on a screenshot, given no target ",
-      "url": "https://arxiv.org/abs/2611.10234",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "02fd877a7b3c74e04141",
-      "title": "CoRA-Bench: Evaluating Evidence Preservation by Context Selectors Under Token Budgets",
-      "summary": "arXiv:2611.10238v1 Announce Type: new Abstract: Context selection can reduce input length during long-input inference but can remove evidence required to answer a query. We introduce CoRA-Bench, a benchmark for evaluating evidence preservation under shared token budgets. We compare head and tail truncation, BM25, dense retrieval, dense re",
-      "url": "https://arxiv.org/abs/2611.10238",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "81c57607249cf25c96cc",
-      "title": "Is Recursive Self-Improvement Safe?",
-      "summary": "arXiv:2611.10261v1 Announce Type: new Abstract: The phrase recursive self-improvement (RSI) refers to the idea of an AI system designing and creating another, better AI system, which in turn designs and creates an even better one, and so on. While the idea has a long history, it has always been an abstract, futuristic idea -- until recent",
-      "url": "https://arxiv.org/abs/2611.10261",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "5e2831a3482515ca4914",
-      "title": "Do large language models rank moral values? A transitivity test of moral competence",
-      "summary": "arXiv:2611.10265v1 Announce Type: new Abstract: LLMs are increasingly used to support decisions that require moral consideration. While LLMs perform well on morality benchmarks from psychology and philosophy, producing appropriate outputs on these benchmarks (moral performance) does not establish that an LLM weighs competing moral values ",
-      "url": "https://arxiv.org/abs/2611.10265",
-      "source": "arXiv AI",
-      "category": "大模型",
-      "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "b41c4efc28546bf6f73b",
-      "title": "Adversarial Evaluation of Large Language Models for Patient-Friendly Radiology Report Summarization",
-      "summary": "arXiv:2611.10277v1 Announce Type: new Abstract: Purpose: To develop and validate a scalable adversarial evaluation framework for assessing the robustness of large language models (LLMs) that generate patient-friendly summaries of radiology reports. Methods: We introduced a clinically grounded adversarial framework that uses controlled ter",
-      "url": "https://arxiv.org/abs/2611.10277",
-      "source": "arXiv AI",
-      "category": "大模型",
       "published": "2026-11-10T05:00:00+00:00"
     }
   ]
