@@ -1,12 +1,39 @@
 {
-  "updated_at": "2026-11-27T08:24:18.480186+00:00",
+  "updated_at": "2026-11-27T21:13:38.659252+00:00",
   "source_count": 19,
   "success_count": 18,
   "articles": [
     {
+      "id": "117d78644729ba213d55",
+      "title": "I'm Scared of AI",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 191 # Comments: 214",
+      "url": "https://thesoapbox.email/archive/3",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-27T17:45:31+00:00"
+    },
+    {
+      "id": "cd7b3ffd63bc44ec8fd0",
+      "title": "0.174.0-alpha.9",
+      "summary": "Release 0.174.0-alpha.9",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.9",
+      "source": "OpenAI Codex Releases",
+      "category": "AI Agent",
+      "published": "2026-11-27T17:01:23+00:00"
+    },
+    {
+      "id": "c774e08c060ae311c665",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 111 # Comments: 146",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-27T11:09:04+00:00"
+    },
+    {
       "id": "a8f643349bc099825e7c",
-      "title": "The group chat where your AI talks behind your back",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 113 # Comments: 33",
+      "title": "Group chat where your AI talks behind your back",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 633 # Comments: 273",
       "url": "https://construct22.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -643,6 +670,15 @@
       "published": "2026-11-27T05:00:00+00:00"
     },
     {
+      "id": "c2bd7953104652e48b06",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "category": "开源生态",
+      "published": "2026-11-27T00:00:00+00:00"
+    },
+    {
       "id": "b7dfea651eb949aa9277",
       "title": "0.174.0-alpha.8",
       "summary": "Release 0.174.0-alpha.8",
@@ -654,7 +690,7 @@
     {
       "id": "aebfbe56731bd98a52c5",
       "title": "AI made self-hosting fun again",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 608 # Comments: 312",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1041 # Comments: 492",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -663,7 +699,7 @@
     {
       "id": "c07b74d3a070b84a2664",
       "title": "Tracking Diseases Cured by AI",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 309 # Comments: 189",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 317 # Comments: 192",
       "url": "https://diseasescuredbyai.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -699,7 +735,7 @@
     {
       "id": "9a36b64e1e928bff59aa",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 322 # Comments: 283",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 416 # Comments: 329",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1077,7 +1113,7 @@
     {
       "id": "1bfb90103b3c1d8e3d87",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 670 # Comments: 528",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 678 # Comments: 543",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2085,7 +2121,7 @@
     {
       "id": "ee73c619e3bf0986096c",
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 85",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 84",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -2175,7 +2211,7 @@
     {
       "id": "8914c06692750e0f3f44",
       "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 344",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 346",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3228,7 +3264,7 @@
     {
       "id": "0f779e7fa16290655eb2",
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 123 # Comments: 97",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 125 # Comments: 98",
       "url": "https://davidtemkin.github.io/declarelang",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4407,7 +4443,7 @@
     {
       "id": "a9f7ae49b5fbd4f4edc3",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 780 # Comments: 319",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 781 # Comments: 319",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4443,7 +4479,7 @@
     {
       "id": "9b3998d4b9b4980bb89b",
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 568",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 569",
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4992,7 +5028,7 @@
     {
       "id": "3381c1b46b2b81fa0a77",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 371",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 372",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13465,42 +13501,6 @@
       "url": "https://arxiv.org/abs/2611.13062",
       "source": "arXiv AI",
       "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "2998649c91ffeb2e7e6e",
-      "title": "Building World Models from Intrinsic Motivation",
-      "summary": "arXiv:2611.13113v1 Announce Type: new Abstract: In the absence of extrinsic rewards or task supervision, human behavior is guided by intrinsic motivation---neural signals that drive curiosity, creativity, play, and other essential facets of intelligence. Intrinsic motivation plays an important developmental role in building robust world m",
-      "url": "https://arxiv.org/abs/2611.13113",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "6c8a440eb9d2f365f740",
-      "title": "Activation-Guided Graph Retrieval for Cognitive Memory Reconstruction in Language Model Systems",
-      "summary": "arXiv:2611.13127v1 Announce Type: new Abstract: Retrieval-augmented language model systems generally select context by query-conditioned relevance. We argue that long-lived AI systems require a second operator: activation-conditioned memory availability. We specify an architecture in which request and goal cues seed an authorized memory g",
-      "url": "https://arxiv.org/abs/2611.13127",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "0cfdd789bfa4af21d9b0",
-      "title": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
-      "summary": "arXiv:2611.13140v1 Announce Type: new Abstract: Failure taxonomies for LLM reasoning are increasingly reported as measurements: papers state what fraction of a model's errors fall into named categories, then compare those fractions across models. We show that for one such category the reported fraction is largely a property of the measure",
-      "url": "https://arxiv.org/abs/2611.13140",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "f40bc31441fe27079974",
-      "title": "Teaching the Harness: Student-Aware Skill Transfer for LLM Agents",
-      "summary": "arXiv:2611.13144v1 Announce Type: new Abstract: Effective teaching requires reasoning about the learner as well as the task, a capacity that Theory of Mind describes as inferring another agent's latent state from its behavior. We ask whether a stronger LLM teaches a fixed student better when it applies this principle. The student is an LL",
-      "url": "https://arxiv.org/abs/2611.13144",
-      "source": "arXiv AI",
-      "category": "AI Agent",
       "published": "2026-11-11T05:00:00+00:00"
     }
   ]
