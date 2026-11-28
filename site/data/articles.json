@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-11-27T21:13:38.659252+00:00",
+  "updated_at": "2026-11-28T07:44:00.289518+00:00",
   "source_count": 19,
-  "success_count": 18,
+  "success_count": 16,
   "articles": [
+    {
+      "id": "37881cc6652cee739157",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 154 # Comments: 118",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "Hacker News AI",
+      "category": "AI 产品",
+      "published": "2026-11-28T01:32:56+00:00"
+    },
+    {
+      "id": "9e4ae7f8dcf438b27157",
+      "title": "datasette-charts 0.4a0",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release ad",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-27T23:57:17+00:00"
+    },
     {
       "id": "117d78644729ba213d55",
       "title": "I'm Scared of AI",
-      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 191 # Comments: 214",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 210 # Comments: 246",
       "url": "https://thesoapbox.email/archive/3",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -24,7 +42,7 @@
     {
       "id": "c774e08c060ae311c665",
       "title": "AI on brink of making online security useless, mathematicians fear",
-      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 111 # Comments: 146",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 119 # Comments: 158",
       "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -33,7 +51,7 @@
     {
       "id": "a8f643349bc099825e7c",
       "title": "Group chat where your AI talks behind your back",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 633 # Comments: 273",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 701 # Comments: 288",
       "url": "https://construct22.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -670,6 +688,15 @@
       "published": "2026-11-27T05:00:00+00:00"
     },
     {
+      "id": "4fb8ef7a2b51ab304075",
+      "title": "datasette-mcp 0.4",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+      "source": "Simon Willison",
+      "category": "AI Agent",
+      "published": "2026-11-27T00:26:17+00:00"
+    },
+    {
       "id": "c2bd7953104652e48b06",
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "summary": "",
@@ -690,7 +717,7 @@
     {
       "id": "aebfbe56731bd98a52c5",
       "title": "AI made self-hosting fun again",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1041 # Comments: 492",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1114 # Comments: 515",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -699,7 +726,7 @@
     {
       "id": "c07b74d3a070b84a2664",
       "title": "Tracking Diseases Cured by AI",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 317 # Comments: 192",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 321 # Comments: 197",
       "url": "https://diseasescuredbyai.com/",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -735,7 +762,7 @@
     {
       "id": "9a36b64e1e928bff59aa",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 416 # Comments: 329",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 420 # Comments: 333",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
       "source": "Hacker News AI",
       "category": "AI Agent",
@@ -1113,7 +1140,7 @@
     {
       "id": "1bfb90103b3c1d8e3d87",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 678 # Comments: 543",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 681 # Comments: 545",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -3264,7 +3291,7 @@
     {
       "id": "0f779e7fa16290655eb2",
       "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 125 # Comments: 98",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 126 # Comments: 98",
       "url": "https://davidtemkin.github.io/declarelang",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -4443,7 +4470,7 @@
     {
       "id": "a9f7ae49b5fbd4f4edc3",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 781 # Comments: 319",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 782 # Comments: 319",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -5019,7 +5046,7 @@
     {
       "id": "0d485e0dfc8d69ca8363",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 531 # Comments: 943",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 532 # Comments: 943",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News AI",
       "category": "AI 产品",
@@ -13472,33 +13499,6 @@
       "title": "GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs",
       "summary": "arXiv:2611.13024v1 Announce Type: new Abstract: As LLMs increasingly mediate everyday interactions, subtle gender biases in open-ended responses pose growing societal risks. Existing probing methods have two key limitations: they rely on fixed-format tasks, such as pronoun resolution or occupation association, that alignment-tuned models ",
       "url": "https://arxiv.org/abs/2611.13024",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "f18918152d7fe67dad86",
-      "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
-      "summary": "arXiv:2611.13030v1 Announce Type: new Abstract: Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipulation, yet processing dense visual tokens often incurs high inference latency. Visual token pruning offers a practical way to reduce this cost, but identifying a compact set of tokens that preserv",
-      "url": "https://arxiv.org/abs/2611.13030",
-      "source": "arXiv AI",
-      "category": "研究论文",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "ad61c26b9250b8ae2977",
-      "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-      "summary": "arXiv:2611.13042v1 Announce Type: new Abstract: Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them with machine-checked proofs. Such volumes will be checked mostly by AI agents that call specialised so",
-      "url": "https://arxiv.org/abs/2611.13042",
-      "source": "arXiv AI",
-      "category": "AI Agent",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "68a33b38bedced3f7f77",
-      "title": "Elicitation of the parameters of a multi-criteria sorting model",
-      "summary": "arXiv:2611.13062v1 Announce Type: new Abstract: Multiple-criteria decision aiding (MCDA) proposes models and methods for different types of decision problems such as choice, ranking or sorting. Such models involve various parameters that must be elicited. In the elicitation process, all necessary information has to be taken from the decis",
-      "url": "https://arxiv.org/abs/2611.13062",
       "source": "arXiv AI",
       "category": "研究论文",
       "published": "2026-11-11T05:00:00+00:00"
